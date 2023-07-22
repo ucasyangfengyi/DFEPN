@@ -1,0 +1,80 @@
+{"sentence": "what times do my alarms go off", "label": "alarm query"}
+{"sentence": "is the alarm set for tomorrow morning", "label": "alarm query"}
+{"sentence": "do i have any alarms", "label": "alarm query"}
+{"sentence": "what alarms do i have", "label": "alarm query"}
+{"sentence": "do i have any alarms set for tomorrow", "label": "alarm query"}
+{"sentence": "cancel all alarms", "label": "alarm remove"}
+{"sentence": "remove alarm", "label": "alarm remove"}
+{"sentence": "snooze all today's alarms permanently", "label": "alarm remove"}
+{"sentence": "please remove the alarm which i set for today morning", "label": "alarm remove"}
+{"sentence": "remove number three alarm of list", "label": "alarm remove"}
+{"sentence": "stop playing", "label": "audio volume mute"}
+{"sentence": "Silence speakers", "label": "audio volume mute"}
+{"sentence": "do not speak today", "label": "audio volume mute"}
+{"sentence": "turn off the sounds", "label": "audio volume mute"}
+{"sentence": "turn off audio", "label": "audio volume mute"}
+{"sentence": "please tell me the date", "label": "datetime query"}
+{"sentence": "date today", "label": "datetime query"}
+{"sentence": "can you tell me the date today", "label": "datetime query"}
+{"sentence": "let me know the time", "label": "datetime query"}
+{"sentence": "what day of the week is first april", "label": "datetime query"}
+{"sentence": "i could not understand this.", "label": "general explain"}
+{"sentence": "i don't understand what you have said.", "label": "general explain"}
+{"sentence": "i can't get that.", "label": "general explain"}
+{"sentence": "i am unclear about your response.", "label": "general explain"}
+{"sentence": "what did you mean by saying it.", "label": "general explain"}
+{"sentence": "what's the famous monty python joke about the bird", "label": "general joke"}
+{"sentence": "tell me a joke about dogs", "label": "general joke"}
+{"sentence": "humor me", "label": "general joke"}
+{"sentence": "i need a good joke", "label": "general joke"}
+{"sentence": "the joke of the day", "label": "general joke"}
+{"sentence": "thanks but i think you do not get me.", "label": "general negate"}
+{"sentence": "oh no, i think you have done a task wrong.", "label": "general negate"}
+{"sentence": "you have done the task wrong.", "label": "general negate"}
+{"sentence": "please check the command.", "label": "general negate"}
+{"sentence": "olly's command is incorrect.", "label": "general negate"}
+{"sentence": "i hate how long the traffic jams get", "label": "general quirky"}
+{"sentence": "good restaurants", "label": "general quirky"}
+{"sentence": "i saw a bulldog today", "label": "general quirky"}
+{"sentence": "hey i met one of my old classmates today", "label": "general quirky"}
+{"sentence": "how did your day go", "label": "general quirky"}
+{"sentence": "i'd like to hear the last spoke again.", "label": "general repeat"}
+{"sentence": "let's try what you said one more time again please.", "label": "general repeat"}
+{"sentence": "would you tell me that once again.", "label": "general repeat"}
+{"sentence": "can you try what i just said again.", "label": "general repeat"}
+{"sentence": "please replay your last statement.", "label": "general repeat"}
+{"sentence": "the song makes me remember certain memories", "label": "music likeness"}
+{"sentence": "send this song to my favorites", "label": "music likeness"}
+{"sentence": "store opinion on song", "label": "music likeness"}
+{"sentence": "current song rating three stars", "label": "music likeness"}
+{"sentence": "please rate current song as five stars", "label": "music likeness"}
+{"sentence": "play the jungle book", "label": "play audiobook"}
+{"sentence": "resume war and peace", "label": "play audiobook"}
+{"sentence": "resume pride and prejudice", "label": "play audiobook"}
+{"sentence": "resume my audiobook where we paused last", "label": "play audiobook"}
+{"sentence": "continue pride and prejudice", "label": "play audiobook"}
+{"sentence": "what is there to do in new york city", "label": "recommendation events"}
+{"sentence": "what's happening at the library this month", "label": "recommendation events"}
+{"sentence": "tell me all local events", "label": "recommendation events"}
+{"sentence": "could you suggest some fun in new york", "label": "recommendation events"}
+{"sentence": "is there any carnival taking place in our area", "label": "recommendation events"}
+{"sentence": "what's a movie in theaters that doesn't suck", "label": "recommendation movies"}
+{"sentence": "what highly rated movies are playing this weekend", "label": "recommendation movies"}
+{"sentence": "movies with good rotten tomato ratings", "label": "recommendation movies"}
+{"sentence": "which rom com movie can i watch in theatres around new york", "label": "recommendation movies"}
+{"sentence": "training day", "label": "recommendation movies"}
+{"sentence": "i want to order some food", "label": "takeaway order"}
+{"sentence": "i'm in the mood to order takeaway", "label": "takeaway order"}
+{"sentence": "order spaghetti from spaghetti warehouse to bring home", "label": "takeaway order"}
+{"sentence": "please order some sushi for dinner", "label": "takeaway order"}
+{"sentence": "order food from applebees", "label": "takeaway order"}
+{"sentence": "does restaurant royale deliver takeaway", "label": "takeaway query"}
+{"sentence": "how much longer until my pizza will be here", "label": "takeaway query"}
+{"sentence": "will the restaurant deliver the order", "label": "takeaway query"}
+{"sentence": "tell me when taco bell can deliver my dinner", "label": "takeaway query"}
+{"sentence": "tell me all the takeaways nearby and i want to order food", "label": "takeaway query"}
+{"sentence": "please book a taxi in uber for me to go to the airport today", "label": "transport taxi"}
+{"sentence": "book me a taxi for one pm", "label": "transport taxi"}
+{"sentence": "book a taxi to airport for me in the evening", "label": "transport taxi"}
+{"sentence": "book a taxi at my home address for right now", "label": "transport taxi"}
+{"sentence": "find the nearest uber", "label": "transport taxi"}

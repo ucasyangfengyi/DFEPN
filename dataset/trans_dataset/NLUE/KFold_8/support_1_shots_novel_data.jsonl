@@ -1,0 +1,16 @@
+{"sentence": "what times do my alarms go off", "label": "alarm query"}
+{"sentence": "cancel all alarms", "label": "alarm remove"}
+{"sentence": "stop playing", "label": "audio volume mute"}
+{"sentence": "please tell me the date", "label": "datetime query"}
+{"sentence": "i could not understand this.", "label": "general explain"}
+{"sentence": "what's the famous monty python joke about the bird", "label": "general joke"}
+{"sentence": "thanks but i think you do not get me.", "label": "general negate"}
+{"sentence": "i hate how long the traffic jams get", "label": "general quirky"}
+{"sentence": "i'd like to hear the last spoke again.", "label": "general repeat"}
+{"sentence": "the song makes me remember certain memories", "label": "music likeness"}
+{"sentence": "play the jungle book", "label": "play audiobook"}
+{"sentence": "what is there to do in new york city", "label": "recommendation events"}
+{"sentence": "what's a movie in theaters that doesn't suck", "label": "recommendation movies"}
+{"sentence": "i want to order some food", "label": "takeaway order"}
+{"sentence": "does restaurant royale deliver takeaway", "label": "takeaway query"}
+{"sentence": "please book a taxi in uber for me to go to the airport today", "label": "transport taxi"}

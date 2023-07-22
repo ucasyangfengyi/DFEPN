@@ -1,0 +1,16 @@
+{"sentence": "if there any alarm is set then let me know", "label": "alarm query"}
+{"sentence": "twelve am removed", "label": "alarm remove"}
+{"sentence": "mute for twenty minutes", "label": "audio volume mute"}
+{"sentence": "what is today's current date", "label": "datetime query"}
+{"sentence": "elaborate me about your answers further.", "label": "general explain"}
+{"sentence": "hey olly make me laugh with a good joke", "label": "general joke"}
+{"sentence": "sorry but i think you've got that not right.", "label": "general negate"}
+{"sentence": "nightime", "label": "general quirky"}
+{"sentence": "will you replay what you have said please.", "label": "general repeat"}
+{"sentence": "i favorite singer is arijit singh find his voice on radio", "label": "music likeness"}
+{"sentence": "play the circle", "label": "play audiobook"}
+{"sentence": "any activity in the area", "label": "recommendation events"}
+{"sentence": "what movies are playing tonight", "label": "recommendation movies"}
+{"sentence": "i'm in the mood to order takeaway", "label": "takeaway order"}
+{"sentence": "find my thai takeaways around grassmarket", "label": "takeaway query"}
+{"sentence": "check in a taxi for booking", "label": "transport taxi"}

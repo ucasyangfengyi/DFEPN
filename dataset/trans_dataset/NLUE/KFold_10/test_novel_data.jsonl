@@ -1,0 +1,338 @@
+{"sentence": "what time have you set the alarm", "label": "alarm query"}
+{"sentence": "list my different alarm", "label": "alarm query"}
+{"sentence": "what time i am waking up tomorrow", "label": "alarm query"}
+{"sentence": "what alarms did i set today", "label": "alarm query"}
+{"sentence": "what alarms are coming up", "label": "alarm query"}
+{"sentence": "if there any alarm is set then let me know", "label": "alarm query"}
+{"sentence": "review all alarms", "label": "alarm query"}
+{"sentence": "is the alarm set for tomorrow morning", "label": "alarm query"}
+{"sentence": "what time is alarm set for", "label": "alarm query"}
+{"sentence": "do i have alarms set", "label": "alarm query"}
+{"sentence": "what time is my alarm set for tomorrow morning", "label": "alarm query"}
+{"sentence": "is my reminder alarm set for dance class", "label": "alarm query"}
+{"sentence": "when is my alarm set for", "label": "alarm query"}
+{"sentence": "what time will my alarm wake me up", "label": "alarm query"}
+{"sentence": "how many alarms are set", "label": "alarm query"}
+{"sentence": "how many alarms have i set", "label": "alarm query"}
+{"sentence": "what time will my alarm go off today", "label": "alarm query"}
+{"sentence": "please let me know the alarm kept for tuesday's meeting", "label": "alarm query"}
+{"sentence": "did you set the alarm for five am", "label": "alarm query"}
+{"sentence": "let me know about the alarms you set", "label": "alarm query"}
+{"sentence": "what alarms do i have set for today", "label": "alarm query"}
+{"sentence": "what's my next alarm", "label": "alarm query"}
+{"sentence": "let me see my alarms", "label": "alarm query"}
+{"sentence": "remove alarm of seven thirty am on monday", "label": "alarm remove"}
+{"sentence": "can you please remove the alarm", "label": "alarm remove"}
+{"sentence": "cancel alarm for tenth of march two thousand seventeen", "label": "alarm remove"}
+{"sentence": "this alarm needs to be permanently silenced", "label": "alarm remove"}
+{"sentence": "remove the alarm for tomorrow", "label": "alarm remove"}
+{"sentence": "i dont want any alarms", "label": "alarm remove"}
+{"sentence": "delete my eight pm alarm", "label": "alarm remove"}
+{"sentence": "remove finlee's bedtime alarm", "label": "alarm remove"}
+{"sentence": "reset alarm", "label": "alarm remove"}
+{"sentence": "remove the alarm", "label": "alarm remove"}
+{"sentence": "will you turn the alarm off for me", "label": "alarm remove"}
+{"sentence": "remove my morning alarm", "label": "alarm remove"}
+{"sentence": "delete my alarm for eight am", "label": "alarm remove"}
+{"sentence": "remove my alarm for tomorrow morning", "label": "alarm remove"}
+{"sentence": "remove seven am alarm", "label": "alarm remove"}
+{"sentence": "cancel the alarm at four am ten pm", "label": "alarm remove"}
+{"sentence": "turn off the alarm", "label": "alarm remove"}
+{"sentence": "snooze", "label": "alarm remove"}
+{"sentence": "mute audio", "label": "audio volume mute"}
+{"sentence": "don't talk until i ask you to", "label": "audio volume mute"}
+{"sentence": "please be quiet for the next two hours", "label": "audio volume mute"}
+{"sentence": "mute volume now", "label": "audio volume mute"}
+{"sentence": "don't respond for fifty seconds", "label": "audio volume mute"}
+{"sentence": "turn off the speakers", "label": "audio volume mute"}
+{"sentence": "do not talk", "label": "audio volume mute"}
+{"sentence": "quiet time", "label": "audio volume mute"}
+{"sentence": "mute for one hour", "label": "audio volume mute"}
+{"sentence": "please be silent", "label": "audio volume mute"}
+{"sentence": "please do not respond", "label": "audio volume mute"}
+{"sentence": "volume control", "label": "audio volume mute"}
+{"sentence": "can you set radio to mute", "label": "audio volume mute"}
+{"sentence": "please mute the television for one hour", "label": "audio volume mute"}
+{"sentence": "can you please be muted for a while", "label": "audio volume mute"}
+{"sentence": "i'm in a meeting please do not speak", "label": "audio volume mute"}
+{"sentence": "turn the volume off", "label": "audio volume mute"}
+{"sentence": "sound off please", "label": "audio volume mute"}
+{"sentence": "i want you to mute", "label": "audio volume mute"}
+{"sentence": "do not make any noise until morning alarm", "label": "audio volume mute"}
+{"sentence": "mute for twenty minutes", "label": "audio volume mute"}
+{"sentence": "stop the audio", "label": "audio volume mute"}
+{"sentence": "what time is it eastern", "label": "datetime query"}
+{"sentence": "can you give me the time in new delhi", "label": "datetime query"}
+{"sentence": "tell me the time", "label": "datetime query"}
+{"sentence": "what is the date today", "label": "datetime query"}
+{"sentence": "what date is easter sunday this year", "label": "datetime query"}
+{"sentence": "what is the time for the eastern time zone", "label": "datetime query"}
+{"sentence": "what's the time in china right now", "label": "datetime query"}
+{"sentence": "what will be the time now in washington", "label": "datetime query"}
+{"sentence": "what day of the week is it", "label": "datetime query"}
+{"sentence": "whats the time in denver", "label": "datetime query"}
+{"sentence": "what is the day today", "label": "datetime query"}
+{"sentence": "what is the current day month and year", "label": "datetime query"}
+{"sentence": "what is today's current date", "label": "datetime query"}
+{"sentence": "please let me know today's date", "label": "datetime query"}
+{"sentence": "what is the month day and year", "label": "datetime query"}
+{"sentence": "show time in china", "label": "datetime query"}
+{"sentence": "give me new york's current time", "label": "datetime query"}
+{"sentence": "current time new york", "label": "datetime query"}
+{"sentence": "be my clock", "label": "datetime query"}
+{"sentence": "give me the time in pst", "label": "datetime query"}
+{"sentence": "what time is it in new york city", "label": "datetime query"}
+{"sentence": "please give me today's date", "label": "datetime query"}
+{"sentence": "what time i sit in china right now", "label": "datetime query"}
+{"sentence": "once again elaborate me on what you have just said please.", "label": "general explain"}
+{"sentence": "s1, again explain to me please.", "label": "general explain"}
+{"sentence": "s1, would you elaborate further on your answer to me please.", "label": "general explain"}
+{"sentence": "can you please clarify me more on your answer.", "label": "general explain"}
+{"sentence": "s1, could you please clarify me about what you've just said once again.", "label": "general explain"}
+{"sentence": "s1, further rephrase me about what you just said now please.", "label": "general explain"}
+{"sentence": "s2, i was unclear about your response.", "label": "general explain"}
+{"sentence": "didn't understand your answers.", "label": "general explain"}
+{"sentence": "please will you further clarify me on that.", "label": "general explain"}
+{"sentence": "once again explain your answer.", "label": "general explain"}
+{"sentence": "i was not clear about your answer.", "label": "general explain"}
+{"sentence": "would you elaborate your words once again to me please.", "label": "general explain"}
+{"sentence": "s1, please again elaborate me about your answer.", "label": "general explain"}
+{"sentence": "i am not clear about your words.", "label": "general explain"}
+{"sentence": "could you rephrase me about your response again please.", "label": "general explain"}
+{"sentence": "please will you clarify me more on it.", "label": "general explain"}
+{"sentence": "please explain me about your words once again.", "label": "general explain"}
+{"sentence": "please rephrase again to me.", "label": "general explain"}
+{"sentence": "s1, rephrase this further.", "label": "general explain"}
+{"sentence": "elaborate me further on your answer please.", "label": "general explain"}
+{"sentence": "i was not so clear about your words.", "label": "general explain"}
+{"sentence": "would you again rephrase me on your words please.", "label": "general explain"}
+{"sentence": "i was not so clear about what you've said.", "label": "general explain"}
+{"sentence": "i need a naughty joke not to naughty though", "label": "general joke"}
+{"sentence": "what is a funny joke about car", "label": "general joke"}
+{"sentence": "what's the famous monty python joke about the bird", "label": "general joke"}
+{"sentence": "what's the funniest joke", "label": "general joke"}
+{"sentence": "whats a silly joke you know", "label": "general joke"}
+{"sentence": "tell me jokes", "label": "general joke"}
+{"sentence": "tell a joke", "label": "general joke"}
+{"sentence": "crack a joke", "label": "general joke"}
+{"sentence": "what's the latest joke", "label": "general joke"}
+{"sentence": "a priest walks into a bar", "label": "general joke"}
+{"sentence": "whats a good joke", "label": "general joke"}
+{"sentence": "tell me something funny", "label": "general joke"}
+{"sentence": "tell a joke that puts smile on my face", "label": "general joke"}
+{"sentence": "can i hear the joke about the old woman again", "label": "general joke"}
+{"sentence": "i am sorry but i think you are not right.", "label": "general negate"}
+{"sentence": "sorry but i think you have messed up with command.", "label": "general negate"}
+{"sentence": "uhh no, you have done task all in wrong manner.", "label": "general negate"}
+{"sentence": "that's not the right answer.", "label": "general negate"}
+{"sentence": "dammit, not right response.", "label": "general negate"}
+{"sentence": "thanks but you are incorrect.", "label": "general negate"}
+{"sentence": "i am sorry but i think you're incorrect.", "label": "general negate"}
+{"sentence": "no, you gave me incorrect information.", "label": "general negate"}
+{"sentence": "it was not the correct response.", "label": "general negate"}
+{"sentence": "nope, it's not the correct command.", "label": "general negate"}
+{"sentence": "i think you have done the task all wrong.", "label": "general negate"}
+{"sentence": "sorry but i think you got it wrongly.", "label": "general negate"}
+{"sentence": "oops, you did not get me.", "label": "general negate"}
+{"sentence": "sorry but you have messed up the command.", "label": "general negate"}
+{"sentence": "uhh no, i did not say that.", "label": "general negate"}
+{"sentence": "i think you have made a mistake, please rectify this.", "label": "general negate"}
+{"sentence": "hmm, i think not correct.", "label": "general negate"}
+{"sentence": "hmm, i did not ask for this response.", "label": "general negate"}
+{"sentence": "you gave me not correct information.", "label": "general negate"}
+{"sentence": "i think this is not correct command.", "label": "general negate"}
+{"sentence": "you have done the task wrong.", "label": "general negate"}
+{"sentence": "uh no, i think you have done task in wrong manner.", "label": "general negate"}
+{"sentence": "no, it is not what i wanted.", "label": "general negate"}
+{"sentence": "what is your mood today", "label": "general quirky"}
+{"sentence": "what does jon bon jovi's wife look like", "label": "general quirky"}
+{"sentence": "i would like it to be able to compute answer from search results like wolfram alpha does", "label": "general quirky"}
+{"sentence": "what things can't you do", "label": "general quirky"}
+{"sentence": "kill all the frogs you see", "label": "general quirky"}
+{"sentence": "does mr t have a family", "label": "general quirky"}
+{"sentence": "i have a deadline on tuesday", "label": "general quirky"}
+{"sentence": "show me a map of everywhere the cat has been this week", "label": "general quirky"}
+{"sentence": "opinion about latest gadgets", "label": "general quirky"}
+{"sentence": "are you real", "label": "general quirky"}
+{"sentence": "today was a hard day", "label": "general quirky"}
+{"sentence": "dolores how was your day", "label": "general quirky"}
+{"sentence": "today some things happened", "label": "general quirky"}
+{"sentence": "when will you do my laundry", "label": "general quirky"}
+{"sentence": "what are you doing", "label": "general quirky"}
+{"sentence": "plan me a holiday trip", "label": "general quirky"}
+{"sentence": "why does tom izzo look like a whiny bitch when his team plays", "label": "general quirky"}
+{"sentence": "what is my location", "label": "general quirky"}
+{"sentence": "friend updates", "label": "general quirky"}
+{"sentence": "i had a long hard day", "label": "general quirky"}
+{"sentence": "can you watch a movie on netflix with me", "label": "general quirky"}
+{"sentence": "hey i met one of my old classmates today", "label": "general quirky"}
+{"sentence": "i would like it if my robot could make money for me", "label": "general quirky"}
+{"sentence": "stop and try what i've just said once more.", "label": "general repeat"}
+{"sentence": "could you repeat that.", "label": "general repeat"}
+{"sentence": "i want to hear what said again.", "label": "general repeat"}
+{"sentence": "i'd like to hear the last things spoke again.", "label": "general repeat"}
+{"sentence": "please could you tell me that comment said once again.", "label": "general repeat"}
+{"sentence": "please tell me once more.", "label": "general repeat"}
+{"sentence": "tell me once more please.", "label": "general repeat"}
+{"sentence": "please will you speak once again.", "label": "general repeat"}
+{"sentence": "please speak one more time again.", "label": "general repeat"}
+{"sentence": "let's try again please.", "label": "general repeat"}
+{"sentence": "tell me once more.", "label": "general repeat"}
+{"sentence": "let us do it again please.", "label": "general repeat"}
+{"sentence": "say it once again please.", "label": "general repeat"}
+{"sentence": "sorry.", "label": "general repeat"}
+{"sentence": "will you tell me what you have said one more time please.", "label": "general repeat"}
+{"sentence": "can you retry please.", "label": "general repeat"}
+{"sentence": "please let's do it again.", "label": "general repeat"}
+{"sentence": "can you try what i just said again.", "label": "general repeat"}
+{"sentence": "tell me that one more time again.", "label": "general repeat"}
+{"sentence": "could you do it again please.", "label": "general repeat"}
+{"sentence": "will you say once again please.", "label": "general repeat"}
+{"sentence": "tell me the last spoke one more time.", "label": "general repeat"}
+{"sentence": "will you tell me that once more please.", "label": "general repeat"}
+{"sentence": "remember that this is my favorite music", "label": "music likeness"}
+{"sentence": "can you save this song to my favorites", "label": "music likeness"}
+{"sentence": "this is the best band ever", "label": "music likeness"}
+{"sentence": "what a wonderful song can you save what i just said for me", "label": "music likeness"}
+{"sentence": "save my music choices", "label": "music likeness"}
+{"sentence": "thumbs up this song", "label": "music likeness"}
+{"sentence": "add bruno mars to my favorites", "label": "music likeness"}
+{"sentence": "save my opinion about the current song playing", "label": "music likeness"}
+{"sentence": "i like songs from", "label": "music likeness"}
+{"sentence": "current song rating three stars", "label": "music likeness"}
+{"sentence": "Olly save all the songs i have listened to more than once", "label": "music likeness"}
+{"sentence": "please add note to this file good tune", "label": "music likeness"}
+{"sentence": "kfi is my favorite rapper", "label": "music likeness"}
+{"sentence": "i like top forty music", "label": "music likeness"}
+{"sentence": "nice lyrics", "label": "music likeness"}
+{"sentence": "i love kfi so much he's by far my favorite", "label": "music likeness"}
+{"sentence": "please record what i have said about this song", "label": "music likeness"}
+{"sentence": "rate five", "label": "music likeness"}
+{"sentence": "please repeat the last sentence from that book", "label": "play audiobook"}
+{"sentence": "resume harry potter book one", "label": "play audiobook"}
+{"sentence": "restart american gods", "label": "play audiobook"}
+{"sentence": "start play johns audiobook", "label": "play audiobook"}
+{"sentence": "resume audio playback of twilight", "label": "play audiobook"}
+{"sentence": "please continue playing odd thomas by dean koontz", "label": "play audiobook"}
+{"sentence": "stop audiobook", "label": "play audiobook"}
+{"sentence": "pause the audiobook", "label": "play audiobook"}
+{"sentence": "i want to start war and peace where i left off", "label": "play audiobook"}
+{"sentence": "look for this playback in audiobook and play for me", "label": "play audiobook"}
+{"sentence": "resume war and peace", "label": "play audiobook"}
+{"sentence": "play the jungle book", "label": "play audiobook"}
+{"sentence": "play this audiobook for me", "label": "play audiobook"}
+{"sentence": "resume playing you are joking mr feynman", "label": "play audiobook"}
+{"sentence": "play the god of small things", "label": "play audiobook"}
+{"sentence": "i want to resume where i last left off in my audio book", "label": "play audiobook"}
+{"sentence": "play the two towers", "label": "play audiobook"}
+{"sentence": "start the audiobook file for where i left off in a tale of two cities", "label": "play audiobook"}
+{"sentence": "find me an audio book version of ready player one and play it for me", "label": "play audiobook"}
+{"sentence": "begin playing the audiobook beauty and the beast", "label": "play audiobook"}
+{"sentence": "play the audiobook swan from first", "label": "play audiobook"}
+{"sentence": "open audiobook", "label": "play audiobook"}
+{"sentence": "resume audiobook playback", "label": "play audiobook"}
+{"sentence": "find the events", "label": "recommendation events"}
+{"sentence": "could you suggest some fun in new york", "label": "recommendation events"}
+{"sentence": "Show latest events around new york", "label": "recommendation events"}
+{"sentence": "show me upcoming events in the quad cities", "label": "recommendation events"}
+{"sentence": "are there any events happening in town", "label": "recommendation events"}
+{"sentence": "do i need to undertake any particular activity during my stay at the yellowstone national park", "label": "recommendation events"}
+{"sentence": "tell me all the current events in my hometown", "label": "recommendation events"}
+{"sentence": "any cultural events in california", "label": "recommendation events"}
+{"sentence": "are there any events going on close by", "label": "recommendation events"}
+{"sentence": "what are the local concerts tonight", "label": "recommendation events"}
+{"sentence": "what is the event name going in me area", "label": "recommendation events"}
+{"sentence": "where should i go for dinner in san francisco tonight", "label": "recommendation events"}
+{"sentence": "what is happening tomorrow", "label": "recommendation events"}
+{"sentence": "what type of event", "label": "recommendation events"}
+{"sentence": "fun things to do today", "label": "recommendation events"}
+{"sentence": "show me events nearby", "label": "recommendation events"}
+{"sentence": "find events in local area", "label": "recommendation events"}
+{"sentence": "refer local current events", "label": "recommendation events"}
+{"sentence": "show me upcoming events in this area", "label": "recommendation events"}
+{"sentence": "what events are happening in los angeles", "label": "recommendation events"}
+{"sentence": "what is planned for today in my local area", "label": "recommendation events"}
+{"sentence": "what is going on around here", "label": "recommendation events"}
+{"sentence": "what's happening around me", "label": "recommendation events"}
+{"sentence": "do you have any suggestion action movies", "label": "recommendation movies"}
+{"sentence": "can you suggest a good drama for me to watch", "label": "recommendation movies"}
+{"sentence": "are there any good movies running in nearby theaters", "label": "recommendation movies"}
+{"sentence": "i need a good chick flick any thoughts", "label": "recommendation movies"}
+{"sentence": "what movie are playing near me", "label": "recommendation movies"}
+{"sentence": "what movie should i go see", "label": "recommendation movies"}
+{"sentence": "what highly rated movies are playing this weekend", "label": "recommendation movies"}
+{"sentence": "deadpool", "label": "recommendation movies"}
+{"sentence": "can you tell me which movie is going on in the nearby multiplex", "label": "recommendation movies"}
+{"sentence": "inform me about the most popular rom com movie playing now in theatres across new york", "label": "recommendation movies"}
+{"sentence": "is logan a good movie to watch", "label": "recommendation movies"}
+{"sentence": "show me movie times", "label": "recommendation movies"}
+{"sentence": "Show times for nearest theater", "label": "recommendation movies"}
+{"sentence": "name a rom com movie playing in and around new york theatres", "label": "recommendation movies"}
+{"sentence": "two thousand and seventeen movies", "label": "recommendation movies"}
+{"sentence": "what movie do you recommend tonight", "label": "recommendation movies"}
+{"sentence": "what movies are showing in cinema today", "label": "recommendation movies"}
+{"sentence": "order two cheeseburgers from wings n. ale on university drive", "label": "takeaway order"}
+{"sentence": "order me some chinese food", "label": "takeaway order"}
+{"sentence": "show me delivery near me", "label": "takeaway order"}
+{"sentence": "order me the fish risotto from the golden fork", "label": "takeaway order"}
+{"sentence": "can i order take out food at this time", "label": "takeaway order"}
+{"sentence": "place a take out order at olive garden", "label": "takeaway order"}
+{"sentence": "please order some sushi for dinner", "label": "takeaway order"}
+{"sentence": "i'm in the mood to order takeaway", "label": "takeaway order"}
+{"sentence": "search for pizza nearby", "label": "takeaway order"}
+{"sentence": "order a double bacon cheeseburger with bacon an white american cheese", "label": "takeaway order"}
+{"sentence": "call the nearest pizza place that offers buffalo pizza", "label": "takeaway order"}
+{"sentence": "find restaurant order food name", "label": "takeaway order"}
+{"sentence": "schedule a delivery from food at the nearby takeaway diner", "label": "takeaway order"}
+{"sentence": "order a takeaway sandwich and soup from the italian's", "label": "takeaway order"}
+{"sentence": "can you please order some food for me", "label": "takeaway order"}
+{"sentence": "order a large pepperoni pizza from dominos to go", "label": "takeaway order"}
+{"sentence": "give me the best pizza deals offered today", "label": "takeaway order"}
+{"sentence": "hey order me some take out from jason's deli", "label": "takeaway order"}
+{"sentence": "hey call the nearest chinese restaurant for a takeaway", "label": "takeaway order"}
+{"sentence": "open the grubhub app so i can order take out", "label": "takeaway order"}
+{"sentence": "can you order me some pizza", "label": "takeaway order"}
+{"sentence": "order some fried chicken from church's chicken via grubhub", "label": "takeaway order"}
+{"sentence": "free home delivery", "label": "takeaway order"}
+{"sentence": "can i pick up my large order at pizza hut", "label": "takeaway query"}
+{"sentence": "does restaurant has home delivery", "label": "takeaway query"}
+{"sentence": "do they deliver", "label": "takeaway query"}
+{"sentence": "does pings have takeaway", "label": "takeaway query"}
+{"sentence": "hows the food order going", "label": "takeaway query"}
+{"sentence": "does dominos has a delivery option", "label": "takeaway query"}
+{"sentence": "what asian restaurants nearby offer to go food", "label": "takeaway query"}
+{"sentence": "check the status of my pizza hut order please", "label": "takeaway query"}
+{"sentence": "when will my chinese food be delivered", "label": "takeaway query"}
+{"sentence": "does fongs do carry out", "label": "takeaway query"}
+{"sentence": "status of take away", "label": "takeaway query"}
+{"sentence": "is mr pizza on skip the dishes", "label": "takeaway query"}
+{"sentence": "does peking garden take orders over the phone", "label": "takeaway query"}
+{"sentence": "does peking garden do orders online", "label": "takeaway query"}
+{"sentence": "does this place do takeaway", "label": "takeaway query"}
+{"sentence": "can i order olive garden to go", "label": "takeaway query"}
+{"sentence": "when is my order arriving", "label": "takeaway query"}
+{"sentence": "check on the delivery of my current order", "label": "takeaway query"}
+{"sentence": "check the dish price and all", "label": "takeaway query"}
+{"sentence": "reviews of the restaurants", "label": "takeaway query"}
+{"sentence": "domino's has takeaway right", "label": "takeaway query"}
+{"sentence": "where can i get a shot of tequila and some to go mexican food", "label": "takeaway query"}
+{"sentence": "does that restaurant allow call in orders", "label": "takeaway query"}
+{"sentence": "can you book an uber tomorrow", "label": "transport taxi"}
+{"sentence": "flag me an uber for ten pm tonight", "label": "transport taxi"}
+{"sentence": "book for me an uber taxi to bardonia", "label": "transport taxi"}
+{"sentence": "check all cab companies and get a time booked for three pm", "label": "transport taxi"}
+{"sentence": "call a taxi for me to arrive tonight at five", "label": "transport taxi"}
+{"sentence": "arrange a taxi", "label": "transport taxi"}
+{"sentence": "get me a taxi to take me to the airport on friday at five thirty am", "label": "transport taxi"}
+{"sentence": "book me a cab going to location", "label": "transport taxi"}
+{"sentence": "i need to get to location call a cab", "label": "transport taxi"}
+{"sentence": "get me an uber please", "label": "transport taxi"}
+{"sentence": "lets get a taxi", "label": "transport taxi"}
+{"sentence": "book a cab in the evening for me", "label": "transport taxi"}
+{"sentence": "book a taxi for tomorrow morning", "label": "transport taxi"}
+{"sentence": "request an uber now", "label": "transport taxi"}
+{"sentence": "book uber from my home", "label": "transport taxi"}
+{"sentence": "book me an uber please", "label": "transport taxi"}
+{"sentence": "can you book an uber after i left for office", "label": "transport taxi"}
+{"sentence": "i need a ride to the airport", "label": "transport taxi"}
+{"sentence": "book a taxi to airport for me in the evening", "label": "transport taxi"}

@@ -1,0 +1,1322 @@
+{"sentence": "tell me my friends most recent update", "label": "social query"}
+{"sentence": "open facebook messenger", "label": "social query"}
+{"sentence": "social info", "label": "social query"}
+{"sentence": "brief me about my news feed stories", "label": "social query"}
+{"sentence": "let me know if i get a new personal message from martha on facebook today", "label": "social query"}
+{"sentence": "what new posts are on my page", "label": "social query"}
+{"sentence": "facebook", "label": "social query"}
+{"sentence": "what is the latest from my feed", "label": "social query"}
+{"sentence": "hi what is happening in twitter today", "label": "social query"}
+{"sentence": "do i have any new friend requests", "label": "social query"}
+{"sentence": "what's new in facebook", "label": "social query"}
+{"sentence": "show me latest notifications", "label": "social query"}
+{"sentence": "what friends were in popular places the last day", "label": "social query"}
+{"sentence": "read to me the last messages in my feed", "label": "social query"}
+{"sentence": "did mark post anything new on facebook", "label": "social query"}
+{"sentence": "tell me what's happening on instagram", "label": "social query"}
+{"sentence": "Has @realdonaldtrump posted anything new on twitter", "label": "social query"}
+{"sentence": "please tell me latest video going viral on twitter for topic narendra modi", "label": "social query"}
+{"sentence": "has mary posted anything to facebook today", "label": "social query"}
+{"sentence": "please inform me of any new status updates", "label": "social query"}
+{"sentence": "how many people are following me on twitter now", "label": "social query"}
+{"sentence": "please check the trending topics on twitter", "label": "social query"}
+{"sentence": "tell me the exact count of followers on my twitter handle as of today", "label": "social query"}
+{"sentence": "what are the latest tweets from the new york times", "label": "social query"}
+{"sentence": "show me a list of places where my relatives have been based on their photos", "label": "social query"}
+{"sentence": "is there anything exciting on twitter today", "label": "social query"}
+{"sentence": "what did jeff post on the yard sale page", "label": "social query"}
+{"sentence": "what's hot social media topics", "label": "social query"}
+{"sentence": "check instagram", "label": "social query"}
+{"sentence": "did anyone get engaged or give birth among my online friends", "label": "social query"}
+{"sentence": "can anyone tell me what's you guys discussing", "label": "social query"}
+{"sentence": "give me my facebook update every three hours", "label": "social query"}
+{"sentence": "social media", "label": "social query"}
+{"sentence": "what is trending on twitter", "label": "social query"}
+{"sentence": "hey olly inform me about latest picture updated by priya chopra on instagram", "label": "social query"}
+{"sentence": "do i have any new tweets", "label": "social query"}
+{"sentence": "what's trending on twitter", "label": "social query"}
+{"sentence": "has anyone commented on my status", "label": "social query"}
+{"sentence": "is anyone likes my latest photo", "label": "social query"}
+{"sentence": "what going on", "label": "social query"}
+{"sentence": "are there any new snaps on snapchat", "label": "social query"}
+{"sentence": "i heard ale just got married can you please show me the wedding pictures on their instagram", "label": "social query"}
+{"sentence": "facebook info", "label": "social query"}
+{"sentence": "instagram", "label": "social query"}
+{"sentence": "who's birthdays are today on facebook", "label": "social query"}
+{"sentence": "how many likes i have got on my eggless cake post on youtube", "label": "social query"}
+{"sentence": "is my friend rohit online on facebook", "label": "social query"}
+{"sentence": "what's the latest in my social media", "label": "social query"}
+{"sentence": "what's going on facebook", "label": "social query"}
+{"sentence": "take me to the most popular post", "label": "social query"}
+{"sentence": "what was last sent to me in my social media feed", "label": "social query"}
+{"sentence": "tell me what's happening on social media", "label": "social query"}
+{"sentence": "tell me if anything important is happening on social media today", "label": "social query"}
+{"sentence": "show me the posts of my friends in the last hour", "label": "social query"}
+{"sentence": "what's new on social media", "label": "social query"}
+{"sentence": "show me my social media notifications", "label": "social query"}
+{"sentence": "is there any new vegan news on facebook", "label": "social query"}
+{"sentence": "is there anything new on snapchat", "label": "social query"}
+{"sentence": "are there any news regarding our president on facebook today", "label": "social query"}
+{"sentence": "trending social media", "label": "social query"}
+{"sentence": "anything new on insta", "label": "social query"}
+{"sentence": "who has written to me or mentioned me in social media", "label": "social query"}
+{"sentence": "what posts have i missed from my friends", "label": "social query"}
+{"sentence": "what was the latest post", "label": "social query"}
+{"sentence": "do i have any new messages in twitter instagram or facebook", "label": "social query"}
+{"sentence": "what notifications do i have in social media", "label": "social query"}
+{"sentence": "may i know what is trending in facebook", "label": "social query"}
+{"sentence": "was there any articles on shark attacks on snapchat yesterday", "label": "social query"}
+{"sentence": "is anything trending on social media today", "label": "social query"}
+{"sentence": "check how many likes did i got on my most recent post", "label": "social query"}
+{"sentence": "did renee just post to my facebook feed", "label": "social query"}
+{"sentence": "has anyone tagged me in a photo on facebook", "label": "social query"}
+{"sentence": "what is happening on facebook", "label": "social query"}
+{"sentence": "please give me the latest feed updates", "label": "social query"}
+{"sentence": "check my twitter notification", "label": "social query"}
+{"sentence": "find me new comments from my facebook", "label": "social query"}
+{"sentence": "my facebook update in every three hour should be available", "label": "social query"}
+{"sentence": "open social media account", "label": "social query"}
+{"sentence": "let me know what maria has put on her facebook over the weekend", "label": "social query"}
+{"sentence": "latest instagram posts", "label": "social query"}
+{"sentence": "what was the last thing my mom said", "label": "social query"}
+{"sentence": "check my twitter account", "label": "social query"}
+{"sentence": "check my facebook notification", "label": "social query"}
+{"sentence": "can you tell me what happened to my social media", "label": "social query"}
+{"sentence": "how many likes does my status from yesterday have", "label": "social query"}
+{"sentence": "new friends request details", "label": "social query"}
+{"sentence": "live show reminders", "label": "social query"}
+{"sentence": "tell me what's new", "label": "social query"}
+{"sentence": "myspace", "label": "social query"}
+{"sentence": "please update me on my social media accounts", "label": "social query"}
+{"sentence": "what time is bina going live with her sale on facebook", "label": "social query"}
+{"sentence": "what trending on twitter", "label": "social query"}
+{"sentence": "tell me whats on the web", "label": "social query"}
+{"sentence": "check my last post on instagram", "label": "social query"}
+{"sentence": "can i see my facebook feed", "label": "social query"}
+{"sentence": "can you show me the popular posts from facebook today", "label": "social query"}
+{"sentence": "what's trending on social media", "label": "social query"}
+{"sentence": "get me latest updates from facebook", "label": "social query"}
+{"sentence": "have i got new content in my twitter feed", "label": "social query"}
+{"sentence": "did anyone like my photo i just posted", "label": "social query"}
+{"sentence": "is there anything new on reddit", "label": "social query"}
+{"sentence": "check my social networks", "label": "social query"}
+{"sentence": "did anyone message me on facebook", "label": "social query"}
+{"sentence": "check my last post on facebook", "label": "social query"}
+{"sentence": "has sarah posted anything today", "label": "social query"}
+{"sentence": "what's happening in my social media", "label": "social query"}
+{"sentence": "is there any post from my friend mike in facebook", "label": "social query"}
+{"sentence": "has anyone follow me today on twitter today", "label": "social query"}
+{"sentence": "who is doing facebook live right now", "label": "social query"}
+{"sentence": "get me updates from kenny's facebook from the weekend", "label": "social query"}
+{"sentence": "give me details of my twitter handle profile including the total number of followers", "label": "social query"}
+{"sentence": "may i know what is trending in twitter", "label": "social query"}
+{"sentence": "what are the latest updates on my facebook account", "label": "social query"}
+{"sentence": "how many likes does my last instagram photo have", "label": "social query"}
+{"sentence": "what does my facebook feed look like", "label": "social query"}
+{"sentence": "who recently posted on social media", "label": "social query"}
+{"sentence": "what's new on my facebook account", "label": "social query"}
+{"sentence": "what the highest likes on facebook", "label": "social query"}
+{"sentence": "are there any new snapchats", "label": "social query"}
+{"sentence": "are there any interesting stuff happened today in my twitter", "label": "social query"}
+{"sentence": "are there any updates on facebook", "label": "social query"}
+{"sentence": "do i have any private messages on any social media", "label": "social query"}
+{"sentence": "did tracy update her facebook status today", "label": "social query"}
+{"sentence": "give me my social media update", "label": "social query"}
+{"sentence": "tell me what's trending on twitter", "label": "social query"}
+{"sentence": "please scan my social media and tell me what's happening", "label": "social query"}
+{"sentence": "may i know what is trending in social media", "label": "social query"}
+{"sentence": "what are the latest photos on my instagram account", "label": "social query"}
+{"sentence": "do i have any new facebook notifications", "label": "social query"}
+{"sentence": "what's going on on fb", "label": "social query"}
+{"sentence": "in every three hours give me my facebook update", "label": "social query"}
+{"sentence": "please check my facebook account", "label": "social query"}
+{"sentence": "is there anything important happening on social media", "label": "social query"}
+{"sentence": "hi what kind of pictures you uploaded in pinterest", "label": "social query"}
+{"sentence": "what are the big news stories on twitter", "label": "social query"}
+{"sentence": "what is currently trending on twitter", "label": "social query"}
+{"sentence": "have i received any mentions on twitter", "label": "social query"}
+{"sentence": "please check the news on social media", "label": "social query"}
+{"sentence": "find updates from vicki's facebook from mardi gras day", "label": "social query"}
+{"sentence": "show me my husbands facebook posts today", "label": "social query"}
+{"sentence": "let me know if linda posts anything on my facebook today", "label": "social query"}
+{"sentence": "new updates", "label": "social query"}
+{"sentence": "define transcendet", "label": "qa definition"}
+{"sentence": "what is the nuclear triad", "label": "qa definition"}
+{"sentence": "i need to get the definition of a word massive", "label": "qa definition"}
+{"sentence": "google the word", "label": "qa definition"}
+{"sentence": "get me new definition", "label": "qa definition"}
+{"sentence": "the definition of life", "label": "qa definition"}
+{"sentence": "please tell me what a crankshaft is", "label": "qa definition"}
+{"sentence": "tell me about it", "label": "qa definition"}
+{"sentence": "origin of word", "label": "qa definition"}
+{"sentence": "what does this stitch long sleeved shirt look like", "label": "qa definition"}
+{"sentence": "find me a description of morel mushrooms", "label": "qa definition"}
+{"sentence": "look up the word snafu", "label": "qa definition"}
+{"sentence": "Define economics", "label": "qa definition"}
+{"sentence": "what is hurricane", "label": "qa definition"}
+{"sentence": "define loquaciousness", "label": "qa definition"}
+{"sentence": "find the meaning of promise", "label": "qa definition"}
+{"sentence": "could you describe that object please", "label": "qa definition"}
+{"sentence": "how does the desk look", "label": "qa definition"}
+{"sentence": "please describe about microwave", "label": "qa definition"}
+{"sentence": "how do you describe a capabara", "label": "qa definition"}
+{"sentence": "can you tell me what the white house is", "label": "qa definition"}
+{"sentence": "please search for this word", "label": "qa definition"}
+{"sentence": "object identifier", "label": "qa definition"}
+{"sentence": "give me a description of iron fist on netflix", "label": "qa definition"}
+{"sentence": "describe to me what a ball looks like", "label": "qa definition"}
+{"sentence": "look up a lamp", "label": "qa definition"}
+{"sentence": "description of iphone seven", "label": "qa definition"}
+{"sentence": "how is a typhoon defined", "label": "qa definition"}
+{"sentence": "define the moon for me", "label": "qa definition"}
+{"sentence": "what is a chair", "label": "qa definition"}
+{"sentence": "what does session mean", "label": "qa definition"}
+{"sentence": "what does joke mean", "label": "qa definition"}
+{"sentence": "what is the definition of god", "label": "qa definition"}
+{"sentence": "hey what is the definition of survey", "label": "qa definition"}
+{"sentence": "tell me what a freeway is", "label": "qa definition"}
+{"sentence": "what is love", "label": "qa definition"}
+{"sentence": "can you define this word", "label": "qa definition"}
+{"sentence": "describe the statue of liberty", "label": "qa definition"}
+{"sentence": "what do you know about the statue of liberty", "label": "qa definition"}
+{"sentence": "how does a cheetah look", "label": "qa definition"}
+{"sentence": "define elaborate", "label": "qa definition"}
+{"sentence": "siri what is the definition of ziggurat", "label": "qa definition"}
+{"sentence": "please describe an elephant to me", "label": "qa definition"}
+{"sentence": "give details of rock sand", "label": "qa definition"}
+{"sentence": "define cpu", "label": "qa definition"}
+{"sentence": "look up the definition to ambulance", "label": "qa definition"}
+{"sentence": "could you explain the meaning of exorbitant for me please", "label": "qa definition"}
+{"sentence": "what is laptop", "label": "qa definition"}
+{"sentence": "what is the meaning of the word sanctimonious", "label": "qa definition"}
+{"sentence": "look up what this word means", "label": "qa definition"}
+{"sentence": "please tell me the definition of home", "label": "qa definition"}
+{"sentence": "what does pesto mean", "label": "qa definition"}
+{"sentence": "define television", "label": "qa definition"}
+{"sentence": "what is telekenesis", "label": "qa definition"}
+{"sentence": "what does settle mean", "label": "qa definition"}
+{"sentence": "describe rock sand", "label": "qa definition"}
+{"sentence": "how would you describe a ball", "label": "qa definition"}
+{"sentence": "tell me about rock", "label": "qa definition"}
+{"sentence": "define love without invoking the term love", "label": "qa definition"}
+{"sentence": "define god", "label": "qa definition"}
+{"sentence": "i would like to know the meaning of word", "label": "qa definition"}
+{"sentence": "define session", "label": "qa definition"}
+{"sentence": "what is piramid", "label": "qa definition"}
+{"sentence": "what is the definition of a probiotic", "label": "qa definition"}
+{"sentence": "tell me about the sports stadium", "label": "qa definition"}
+{"sentence": "what does formidable mean", "label": "qa definition"}
+{"sentence": "give me the description of a smartphone circuit", "label": "qa definition"}
+{"sentence": "tell about the origin of the word evolution", "label": "qa definition"}
+{"sentence": "what does pro bono mean", "label": "qa definition"}
+{"sentence": "give description of statue of liberty", "label": "qa definition"}
+{"sentence": "what does the word hypocrisy mean", "label": "qa definition"}
+{"sentence": "what does triumph mean", "label": "qa definition"}
+{"sentence": "what does a grapefruit look like", "label": "qa definition"}
+{"sentence": "what does snafu mean", "label": "qa definition"}
+{"sentence": "give me the definition of the word armor", "label": "qa definition"}
+{"sentence": "Explain object", "label": "qa definition"}
+{"sentence": "give me the definition of carion", "label": "qa definition"}
+{"sentence": "define forensic", "label": "qa definition"}
+{"sentence": "describe a fifty inch smart tv", "label": "qa definition"}
+{"sentence": "what is a shoal", "label": "qa definition"}
+{"sentence": "how would the volkswagen golf car look like", "label": "qa definition"}
+{"sentence": "siri what does survey mean", "label": "qa definition"}
+{"sentence": "what does apple of my eye mean", "label": "qa definition"}
+{"sentence": "describe a tomatillo", "label": "qa definition"}
+{"sentence": "what does a beech tree look like", "label": "qa definition"}
+{"sentence": "describe texture", "label": "qa definition"}
+{"sentence": "define rumplestiltskin", "label": "qa definition"}
+{"sentence": "please search for dining tables", "label": "qa definition"}
+{"sentence": "what does pda mean", "label": "qa definition"}
+{"sentence": "what is the meaning of the word home", "label": "qa definition"}
+{"sentence": "define and describe an ultraviolet ray", "label": "qa definition"}
+{"sentence": "blanket definition", "label": "qa definition"}
+{"sentence": "what does speaker mean", "label": "qa definition"}
+{"sentence": "describe a romantic love", "label": "qa definition"}
+{"sentence": "what is the definition of session", "label": "qa definition"}
+{"sentence": "pontificate definition", "label": "qa definition"}
+{"sentence": "describe a rotor", "label": "qa definition"}
+{"sentence": "please define forensic", "label": "qa definition"}
+{"sentence": "how would you describe a tennis ball", "label": "qa definition"}
+{"sentence": "definition of velocity", "label": "qa definition"}
+{"sentence": "what does a soccer ball look like", "label": "qa definition"}
+{"sentence": "describe joe for me please", "label": "qa definition"}
+{"sentence": "can you tell me what haggis looks like", "label": "qa definition"}
+{"sentence": "what does h2o stand for", "label": "qa definition"}
+{"sentence": "what's the meaning of rumplestiltskin", "label": "qa definition"}
+{"sentence": "whats the definition of indignation", "label": "qa definition"}
+{"sentence": "describe the empire state building", "label": "qa definition"}
+{"sentence": "definition for object name", "label": "qa definition"}
+{"sentence": "could you please tell me the meaning for the item laptop", "label": "qa definition"}
+{"sentence": "please tell me what is the definition of cylinder", "label": "qa definition"}
+{"sentence": "can you define conservative politics", "label": "qa definition"}
+{"sentence": "give me the definition of the word fondle", "label": "qa definition"}
+{"sentence": "what does potato mean", "label": "qa definition"}
+{"sentence": "what defines a triangle", "label": "qa definition"}
+{"sentence": "what is marketing", "label": "qa definition"}
+{"sentence": "what is the definition of problematic", "label": "qa definition"}
+{"sentence": "describe a chart", "label": "qa definition"}
+{"sentence": "define flabbergasted", "label": "qa definition"}
+{"sentence": "hey what is the definition of recipe", "label": "qa definition"}
+{"sentence": "tell me what a workhouse is", "label": "qa definition"}
+{"sentence": "hey what does incite mean", "label": "qa definition"}
+{"sentence": "describe what a sphere is", "label": "qa definition"}
+{"sentence": "give me the definition of school", "label": "qa definition"}
+{"sentence": "what does tacobell stand for", "label": "qa definition"}
+{"sentence": "do you know the definition of school", "label": "qa definition"}
+{"sentence": "can i get the definition to ambulance", "label": "qa definition"}
+{"sentence": "what does a sea lion look like", "label": "qa definition"}
+{"sentence": "describe blanket", "label": "qa definition"}
+{"sentence": "give me the definition of formidable", "label": "qa definition"}
+{"sentence": "can you tell me what an chaise is", "label": "qa definition"}
+{"sentence": "how would you define a car", "label": "qa definition"}
+{"sentence": "what is rock sand", "label": "qa definition"}
+{"sentence": "give me the definition of arrow", "label": "qa definition"}
+{"sentence": "how does merriam webster define ultra", "label": "qa definition"}
+{"sentence": "please describe a car", "label": "qa definition"}
+{"sentence": "describe london for me please", "label": "qa definition"}
+{"sentence": "Define perpetual", "label": "qa definition"}
+{"sentence": "define swerving", "label": "qa definition"}
+{"sentence": "what are the definitions of orange", "label": "qa definition"}
+{"sentence": "what does happy mean", "label": "qa definition"}
+{"sentence": "what is this", "label": "qa definition"}
+{"sentence": "define the word novel", "label": "qa definition"}
+{"sentence": "give me the specs on the bugatti veyron", "label": "qa definition"}
+{"sentence": "what is this thing", "label": "qa definition"}
+{"sentence": "define what a wizard is", "label": "qa definition"}
+{"sentence": "meaning of enthusiastic", "label": "qa definition"}
+{"sentence": "what i can do with laptop", "label": "qa definition"}
+{"sentence": "can you describe to me what a pineapple looks like", "label": "qa definition"}
+{"sentence": "switch off the lights", "label": "iot hue lightoff"}
+{"sentence": "i want the light to be switched off", "label": "iot hue lightoff"}
+{"sentence": "please turn off the lights in bedroom", "label": "iot hue lightoff"}
+{"sentence": "switch the lights to off", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights in the living room", "label": "iot hue lightoff"}
+{"sentence": "turn this room light off", "label": "iot hue lightoff"}
+{"sentence": "switch off the light on the left", "label": "iot hue lightoff"}
+{"sentence": "turn room lights off now", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights please", "label": "iot hue lightoff"}
+{"sentence": "i want the lights turned off", "label": "iot hue lightoff"}
+{"sentence": "i want the light in the kitchen powered off", "label": "iot hue lightoff"}
+{"sentence": "turn off all lights", "label": "iot hue lightoff"}
+{"sentence": "turn off the room light", "label": "iot hue lightoff"}
+{"sentence": "please turn off my patio lights", "label": "iot hue lightoff"}
+{"sentence": "could you please turn off the overhead light in the kitchen", "label": "iot hue lightoff"}
+{"sentence": "please turn off the lights in the bedroom", "label": "iot hue lightoff"}
+{"sentence": "light off living room", "label": "iot hue lightoff"}
+{"sentence": "please turn off the lights in patio", "label": "iot hue lightoff"}
+{"sentence": "please turn off the lamp", "label": "iot hue lightoff"}
+{"sentence": "power off the current", "label": "iot hue lightoff"}
+{"sentence": "light off", "label": "iot hue lightoff"}
+{"sentence": "turn off lights in all bathrooms", "label": "iot hue lightoff"}
+{"sentence": "turn lights off in kitchen", "label": "iot hue lightoff"}
+{"sentence": "turn off the bathroom light", "label": "iot hue lightoff"}
+{"sentence": "it's too bright in here can you turn a light off", "label": "iot hue lightoff"}
+{"sentence": "turn the lights off to my room", "label": "iot hue lightoff"}
+{"sentence": "please turn off any lights that are still on", "label": "iot hue lightoff"}
+{"sentence": "please turn off right side of light", "label": "iot hue lightoff"}
+{"sentence": "turn off all the lights in the living room and den", "label": "iot hue lightoff"}
+{"sentence": "can you please switch off the lights", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights", "label": "iot hue lightoff"}
+{"sentence": "turn off the kitchen lights", "label": "iot hue lightoff"}
+{"sentence": "turn off the bedroom lamp", "label": "iot hue lightoff"}
+{"sentence": "put out the lights", "label": "iot hue lightoff"}
+{"sentence": "assistant please turn the lights off", "label": "iot hue lightoff"}
+{"sentence": "shut down the garage light and set the den light to orange please", "label": "iot hue lightoff"}
+{"sentence": "by switch off", "label": "iot hue lightoff"}
+{"sentence": "bedroom lights off now", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights in this room please", "label": "iot hue lightoff"}
+{"sentence": "turn off room lights", "label": "iot hue lightoff"}
+{"sentence": "turn the light off", "label": "iot hue lightoff"}
+{"sentence": "can you turn my bathroom lights off", "label": "iot hue lightoff"}
+{"sentence": "turn lights off", "label": "iot hue lightoff"}
+{"sentence": "shut off the lights in the bedroom", "label": "iot hue lightoff"}
+{"sentence": "turn off the light", "label": "iot hue lightoff"}
+{"sentence": "lights off bathroom", "label": "iot hue lightoff"}
+{"sentence": "turn off the upstairs lights", "label": "iot hue lightoff"}
+{"sentence": "turn house lights off", "label": "iot hue lightoff"}
+{"sentence": "can you please off the light", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights in the bedroom", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights in the living room please", "label": "iot hue lightoff"}
+{"sentence": "by remote sensor", "label": "iot hue lightoff"}
+{"sentence": "bed room two switch off the lights", "label": "iot hue lightoff"}
+{"sentence": "put the lights off now", "label": "iot hue lightoff"}
+{"sentence": "turn off the light in the living room", "label": "iot hue lightoff"}
+{"sentence": "please turn off the lights", "label": "iot hue lightoff"}
+{"sentence": "turn all the lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off the light in the kitchen", "label": "iot hue lightoff"}
+{"sentence": "off lights", "label": "iot hue lightoff"}
+{"sentence": "turn off light", "label": "iot hue lightoff"}
+{"sentence": "bed room two lights off", "label": "iot hue lightoff"}
+{"sentence": "shut off the lights", "label": "iot hue lightoff"}
+{"sentence": "good night lights off", "label": "iot hue lightoff"}
+{"sentence": "switch the lights off", "label": "iot hue lightoff"}
+{"sentence": "switch off the master's bedroom", "label": "iot hue lightoff"}
+{"sentence": "turn off kitchen light", "label": "iot hue lightoff"}
+{"sentence": "turn off the living room lights", "label": "iot hue lightoff"}
+{"sentence": "lights turn off", "label": "iot hue lightoff"}
+{"sentence": "can you please turn off the light of my bed room", "label": "iot hue lightoff"}
+{"sentence": "turn off light in bedroom", "label": "iot hue lightoff"}
+{"sentence": "i dont need light", "label": "iot hue lightoff"}
+{"sentence": "turn off one light in my bedroom", "label": "iot hue lightoff"}
+{"sentence": "please turn off kitchen light", "label": "iot hue lightoff"}
+{"sentence": "turn off the lights in the bathroom", "label": "iot hue lightoff"}
+{"sentence": "turn off the light in the bathroom", "label": "iot hue lightoff"}
+{"sentence": "please turn off the light of my son's room", "label": "iot hue lightoff"}
+{"sentence": "turn the room light off", "label": "iot hue lightoff"}
+{"sentence": "hey turn off the light please", "label": "iot hue lightoff"}
+{"sentence": "shut off the lights in the kitchen", "label": "iot hue lightoff"}
+{"sentence": "switch off all lights", "label": "iot hue lightoff"}
+{"sentence": "kindly switch off the light in the drawing hall", "label": "iot hue lightoff"}
+{"sentence": "turn the kitchen lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off lights", "label": "iot hue lightoff"}
+{"sentence": "will you please turn the lights off", "label": "iot hue lightoff"}
+{"sentence": "turn the lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off garage light", "label": "iot hue lightoff"}
+{"sentence": "did i leave the light on in the garage", "label": "iot hue lightoff"}
+{"sentence": "shift the balcony light to off", "label": "iot hue lightoff"}
+{"sentence": "shutoff light in the kitchen", "label": "iot hue lightoff"}
+{"sentence": "turn the lamp off", "label": "iot hue lightoff"}
+{"sentence": "can you turn off the living room lights", "label": "iot hue lightoff"}
+{"sentence": "turn off all the lights", "label": "iot hue lightoff"}
+{"sentence": "turn all lights off during the day", "label": "iot hue lightoff"}
+{"sentence": "turn office lights off", "label": "iot hue lightoff"}
+{"sentence": "turn lights off in living room", "label": "iot hue lightoff"}
+{"sentence": "turn off the lamps", "label": "iot hue lightoff"}
+{"sentence": "could you turn the light off", "label": "iot hue lightoff"}
+{"sentence": "turn off the closet light", "label": "iot hue lightoff"}
+{"sentence": "turn off my room lights", "label": "iot hue lightoff"}
+{"sentence": "turn off overhead light", "label": "iot hue lightoff"}
+{"sentence": "turn off bedroom light at nine thirty pm", "label": "iot hue lightoff"}
+{"sentence": "lights off in the kitchen please", "label": "iot hue lightoff"}
+{"sentence": "please turn off the light", "label": "iot hue lightoff"}
+{"sentence": "turn off living room lights", "label": "iot hue lightoff"}
+{"sentence": "could you turn off light", "label": "iot hue lightoff"}
+{"sentence": "please switch off the light", "label": "iot hue lightoff"}
+{"sentence": "make the lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off the living room light", "label": "iot hue lightoff"}
+{"sentence": "please turn lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off smart lamp in den", "label": "iot hue lightoff"}
+{"sentence": "time to sleep", "label": "iot hue lightoff"}
+{"sentence": "please turn off all the lights in my house", "label": "iot hue lightoff"}
+{"sentence": "turn off the room lights", "label": "iot hue lightoff"}
+{"sentence": "cut off the bathroom lights", "label": "iot hue lightoff"}
+{"sentence": "please turn off the porch light", "label": "iot hue lightoff"}
+{"sentence": "turn down the lights to medium", "label": "iot hue lightoff"}
+{"sentence": "can you turn my bedroom lights off", "label": "iot hue lightoff"}
+{"sentence": "can you turn off one of my lights in my bathroom", "label": "iot hue lightoff"}
+{"sentence": "turn off the nearest light to me", "label": "iot hue lightoff"}
+{"sentence": "turn off lights of kitchen", "label": "iot hue lightoff"}
+{"sentence": "turn off the bathroom lights", "label": "iot hue lightoff"}
+{"sentence": "turn off one light on porch", "label": "iot hue lightoff"}
+{"sentence": "can you turn off the lights", "label": "iot hue lightoff"}
+{"sentence": "please shut off the kitchen lights", "label": "iot hue lightoff"}
+{"sentence": "by main power off", "label": "iot hue lightoff"}
+{"sentence": "i need you to turn off the light of my bed room", "label": "iot hue lightoff"}
+{"sentence": "turn the lights off now", "label": "iot hue lightoff"}
+{"sentence": "turn off bedroom lights in ten seconds", "label": "iot hue lightoff"}
+{"sentence": "can you make the lights go out", "label": "iot hue lightoff"}
+{"sentence": "light off now", "label": "iot hue lightoff"}
+{"sentence": "control lights turn off room lights", "label": "iot hue lightoff"}
+{"sentence": "please turn off the lights in the kitchen", "label": "iot hue lightoff"}
+{"sentence": "turn lights off in bedroom", "label": "iot hue lightoff"}
+{"sentence": "please turn off the light of the bathroom", "label": "iot hue lightoff"}
+{"sentence": "turn the left light off", "label": "iot hue lightoff"}
+{"sentence": "off all the lights on the right side", "label": "iot hue lightoff"}
+{"sentence": "turn the light off in the living room", "label": "iot hue lightoff"}
+{"sentence": "turn my bedroom lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off lobby light", "label": "iot hue lightoff"}
+{"sentence": "turn room light off", "label": "iot hue lightoff"}
+{"sentence": "cut the lights off", "label": "iot hue lightoff"}
+{"sentence": "please turn off only right side light", "label": "iot hue lightoff"}
+{"sentence": "switch off main light", "label": "iot hue lightoff"}
+{"sentence": "turn off lighting", "label": "iot hue lightoff"}
+{"sentence": "switch off light", "label": "iot hue lightoff"}
+{"sentence": "turn off lights in bathroom", "label": "iot hue lightoff"}
+{"sentence": "please set the lights off in the living room", "label": "iot hue lightoff"}
+{"sentence": "turn the living rooms lights off", "label": "iot hue lightoff"}
+{"sentence": "turn off the garage light", "label": "iot hue lightoff"}
+{"sentence": "rotate the light colors", "label": "iot hue lightchange"}
+{"sentence": "can you make a red shade of light in the living room", "label": "iot hue lightchange"}
+{"sentence": "switch to night light setting", "label": "iot hue lightchange"}
+{"sentence": "how do i change the color of the lights", "label": "iot hue lightchange"}
+{"sentence": "set the mood please", "label": "iot hue lightchange"}
+{"sentence": "alter the color of the lights at home", "label": "iot hue lightchange"}
+{"sentence": "turn the living room lights to one percent", "label": "iot hue lightchange"}
+{"sentence": "change your colors to green", "label": "iot hue lightchange"}
+{"sentence": "change light colour to yellow", "label": "iot hue lightchange"}
+{"sentence": "change your colors to something different", "label": "iot hue lightchange"}
+{"sentence": "make the lights blue in here", "label": "iot hue lightchange"}
+{"sentence": "change the color of my lights to something random", "label": "iot hue lightchange"}
+{"sentence": "change lights to red", "label": "iot hue lightchange"}
+{"sentence": "change the opacity of the color", "label": "iot hue lightchange"}
+{"sentence": "i want to change the color of the lights", "label": "iot hue lightchange"}
+{"sentence": "it will be good if you yellowish the light", "label": "iot hue lightchange"}
+{"sentence": "change the lights in the kitchen to blue", "label": "iot hue lightchange"}
+{"sentence": "replace color from light to dark", "label": "iot hue lightchange"}
+{"sentence": "make the lights pink", "label": "iot hue lightchange"}
+{"sentence": "switch the lights to blue", "label": "iot hue lightchange"}
+{"sentence": "change the bedroom lights to green", "label": "iot hue lightchange"}
+{"sentence": "make the lights blue please", "label": "iot hue lightchange"}
+{"sentence": "give me red lights", "label": "iot hue lightchange"}
+{"sentence": "make a contrast one", "label": "iot hue lightchange"}
+{"sentence": "please change the colour of the lights i'll tell you when to stop", "label": "iot hue lightchange"}
+{"sentence": "make the living room light orange", "label": "iot hue lightchange"}
+{"sentence": "can you please change the mood of the light", "label": "iot hue lightchange"}
+{"sentence": "lights color red", "label": "iot hue lightchange"}
+{"sentence": "change my room lights to some romantic colour", "label": "iot hue lightchange"}
+{"sentence": "change the light in the bathroom to yellow", "label": "iot hue lightchange"}
+{"sentence": "make the lights in the house red", "label": "iot hue lightchange"}
+{"sentence": "make the light in here redder", "label": "iot hue lightchange"}
+{"sentence": "change light whenever i find myself in my house", "label": "iot hue lightchange"}
+{"sentence": "set brightness to fifty percent", "label": "iot hue lightchange"}
+{"sentence": "set the lights on blue", "label": "iot hue lightchange"}
+{"sentence": "can the lights be changed to green", "label": "iot hue lightchange"}
+{"sentence": "change the light color the red", "label": "iot hue lightchange"}
+{"sentence": "make the bedroom lights light blue", "label": "iot hue lightchange"}
+{"sentence": "change the light to pink color", "label": "iot hue lightchange"}
+{"sentence": "please change color of light to pinkish", "label": "iot hue lightchange"}
+{"sentence": "please make the lights blue", "label": "iot hue lightchange"}
+{"sentence": "change lights", "label": "iot hue lightchange"}
+{"sentence": "change the color of the lights to blue", "label": "iot hue lightchange"}
+{"sentence": "make the lights a different color", "label": "iot hue lightchange"}
+{"sentence": "turn my lights to some random color", "label": "iot hue lightchange"}
+{"sentence": "change my room lights to blue", "label": "iot hue lightchange"}
+{"sentence": "can you shuffle the light colors in the house", "label": "iot hue lightchange"}
+{"sentence": "change the lights in the living room to green and red", "label": "iot hue lightchange"}
+{"sentence": "i need to change the color of this light", "label": "iot hue lightchange"}
+{"sentence": "White", "label": "iot hue lightchange"}
+{"sentence": "change the light color to blue", "label": "iot hue lightchange"}
+{"sentence": "make the lights pink at the house", "label": "iot hue lightchange"}
+{"sentence": "switch from blue to yellow lights", "label": "iot hue lightchange"}
+{"sentence": "change the lights to red", "label": "iot hue lightchange"}
+{"sentence": "make my lights blue", "label": "iot hue lightchange"}
+{"sentence": "change my light color to yellow", "label": "iot hue lightchange"}
+{"sentence": "hey can you make it blue in here", "label": "iot hue lightchange"}
+{"sentence": "can you change the light colors into dark in the house", "label": "iot hue lightchange"}
+{"sentence": "can you change the lights to white", "label": "iot hue lightchange"}
+{"sentence": "change the color of the lights", "label": "iot hue lightchange"}
+{"sentence": "please change the lighting to blue", "label": "iot hue lightchange"}
+{"sentence": "adjust light when i get home", "label": "iot hue lightchange"}
+{"sentence": "change color", "label": "iot hue lightchange"}
+{"sentence": "turn the lights blue at three pm", "label": "iot hue lightchange"}
+{"sentence": "change the color of the lights in my bedroom to red", "label": "iot hue lightchange"}
+{"sentence": "modify the light colours of the house and make them dark instead", "label": "iot hue lightchange"}
+{"sentence": "change the color of the light", "label": "iot hue lightchange"}
+{"sentence": "light green", "label": "iot hue lightchange"}
+{"sentence": "please adjust the colors in my lights", "label": "iot hue lightchange"}
+{"sentence": "please change the house lights to blue", "label": "iot hue lightchange"}
+{"sentence": "make my lights green", "label": "iot hue lightchange"}
+{"sentence": "change light colors", "label": "iot hue lightchange"}
+{"sentence": "switch lights to dim red", "label": "iot hue lightchange"}
+{"sentence": "i want blue lighting", "label": "iot hue lightchange"}
+{"sentence": "can i change this light to orange", "label": "iot hue lightchange"}
+{"sentence": "please make the lights natural", "label": "iot hue lightchange"}
+{"sentence": "change lights to blue", "label": "iot hue lightchange"}
+{"sentence": "can you change the living room lights to a softer color", "label": "iot hue lightchange"}
+{"sentence": "hey olly my the lights a little warmer", "label": "iot hue lightchange"}
+{"sentence": "transition to another color for the lights", "label": "iot hue lightchange"}
+{"sentence": "change lighting colours", "label": "iot hue lightchange"}
+{"sentence": "change my room lights so that i can get a good sleep", "label": "iot hue lightchange"}
+{"sentence": "hi olly change the color of lights in my room to red", "label": "iot hue lightchange"}
+{"sentence": "adjust the light", "label": "iot hue lightchange"}
+{"sentence": "let's have a warm glow in the front room", "label": "iot hue lightchange"}
+{"sentence": "pink is all we need", "label": "iot hue lightchange"}
+{"sentence": "i need to change my house lights colour to blue", "label": "iot hue lightchange"}
+{"sentence": "change the lights in the house to green", "label": "iot hue lightchange"}
+{"sentence": "turn the lights on party mode", "label": "iot hue lightchange"}
+{"sentence": "change the color of lights", "label": "iot hue lightchange"}
+{"sentence": "turn the lights blue", "label": "iot hue lightchange"}
+{"sentence": "make curser adjustable position", "label": "iot hue lightchange"}
+{"sentence": "color change of lights", "label": "iot hue lightchange"}
+{"sentence": "chane light colour to green", "label": "iot hue lightchange"}
+{"sentence": "house change all lights to blue", "label": "iot hue lightchange"}
+{"sentence": "make the lights in my home yellow", "label": "iot hue lightchange"}
+{"sentence": "change lights from red to blue", "label": "iot hue lightchange"}
+{"sentence": "make the lighting bit more warm here", "label": "iot hue lightchange"}
+{"sentence": "change color of the light to red outside the house", "label": "iot hue lightchange"}
+{"sentence": "switch to red colored lights", "label": "iot hue lightchange"}
+{"sentence": "turn lights to green", "label": "iot hue lightchange"}
+{"sentence": "i need some ambiance please", "label": "iot hue lightchange"}
+{"sentence": "change the light colors", "label": "iot hue lightchange"}
+{"sentence": "could you change the lights colour to green please", "label": "iot hue lightchange"}
+{"sentence": "change the lights to my favorite color", "label": "iot hue lightchange"}
+{"sentence": "switch on the green light in playroom", "label": "iot hue lightchange"}
+{"sentence": "make the room light blue", "label": "iot hue lightchange"}
+{"sentence": "i want the light to be a little more red ish", "label": "iot hue lightchange"}
+{"sentence": "turn lights blue", "label": "iot hue lightchange"}
+{"sentence": "give me some lavender toned light", "label": "iot hue lightchange"}
+{"sentence": "set the living room lights to red", "label": "iot hue lightchange"}
+{"sentence": "change color of lights", "label": "iot hue lightchange"}
+{"sentence": "change light color", "label": "iot hue lightchange"}
+{"sentence": "color the lights red", "label": "iot hue lightchange"}
+{"sentence": "please change the color of my lights surprise me", "label": "iot hue lightchange"}
+{"sentence": "make the bedroom lights red and the hall lights normal color please", "label": "iot hue lightchange"}
+{"sentence": "can you change the light colors in the house", "label": "iot hue lightchange"}
+{"sentence": "transition lights to blue to green to yellow", "label": "iot hue lightchange"}
+{"sentence": "change the colours please", "label": "iot hue lightchange"}
+{"sentence": "i would like orange lights now", "label": "iot hue lightchange"}
+{"sentence": "change the light color to black light", "label": "iot hue lightchange"}
+{"sentence": "change the lights in my home to orange", "label": "iot hue lightchange"}
+{"sentence": "make the room blue", "label": "iot hue lightchange"}
+{"sentence": "change to blue", "label": "iot hue lightchange"}
+{"sentence": "change the color of my porch lights to green", "label": "iot hue lightchange"}
+{"sentence": "change the light to blue", "label": "iot hue lightchange"}
+{"sentence": "replace the current light colours in the house with dark ones", "label": "iot hue lightchange"}
+{"sentence": "make all the lights in the house orange", "label": "iot hue lightchange"}
+{"sentence": "please change light color to purple", "label": "iot hue lightchange"}
+{"sentence": "change the color of the lights in my house from white to yellow", "label": "iot hue lightchange"}
+{"sentence": "set lights to twenty percent", "label": "iot hue lightchange"}
+{"sentence": "please set the lights to green", "label": "iot hue lightchange"}
+{"sentence": "make the living room blue", "label": "iot hue lightchange"}
+{"sentence": "change the lighting to blue", "label": "iot hue lightchange"}
+{"sentence": "adjust the light option", "label": "iot hue lightchange"}
+{"sentence": "put dark colours instead of light ones in the house", "label": "iot hue lightchange"}
+{"sentence": "lights to fifty percent", "label": "iot hue lightchange"}
+{"sentence": "change the media room lights from purple to green", "label": "iot hue lightchange"}
+{"sentence": "lights at percent", "label": "iot hue lightchange"}
+{"sentence": "please change the light to green", "label": "iot hue lightchange"}
+{"sentence": "change light color to blue", "label": "iot hue lightchange"}
+{"sentence": "change house light colors to blue", "label": "iot hue lightchange"}
+{"sentence": "set the living room lights to fifty percent", "label": "iot hue lightchange"}
+{"sentence": "i would like the like in the kitchen to be a different color", "label": "iot hue lightchange"}
+{"sentence": "house can you make all the lights in the house blue", "label": "iot hue lightchange"}
+{"sentence": "change background", "label": "iot hue lightchange"}
+{"sentence": "hey olly chance the current light settings", "label": "iot hue lightchange"}
+{"sentence": "romantic light setting please", "label": "iot hue lightchange"}
+{"sentence": "make the lights shine blue", "label": "iot hue lightchange"}
+{"sentence": "please change the light colors to red", "label": "iot hue lightchange"}
+{"sentence": "podcast play", "label": "play podcasts"}
+{"sentence": "i want to hear this podcast", "label": "play podcasts"}
+{"sentence": "i want you to play the podcast", "label": "play podcasts"}
+{"sentence": "what is my most played podcast", "label": "play podcasts"}
+{"sentence": "forward to four twenty", "label": "play podcasts"}
+{"sentence": "please play the next episode in the podcast", "label": "play podcasts"}
+{"sentence": "go back to previous episode of podcast", "label": "play podcasts"}
+{"sentence": "play this podcast", "label": "play podcasts"}
+{"sentence": "i want to hear yesterday's podcast from my favorite channel", "label": "play podcasts"}
+{"sentence": "can you play the next episode please", "label": "play podcasts"}
+{"sentence": "start playing my most played podcast", "label": "play podcasts"}
+{"sentence": "play next reason podcast", "label": "play podcasts"}
+{"sentence": "play episode ten in the podcast", "label": "play podcasts"}
+{"sentence": "rewind button", "label": "play podcasts"}
+{"sentence": "go to the next episode in this podcast", "label": "play podcasts"}
+{"sentence": "next episode in podcast", "label": "play podcasts"}
+{"sentence": "start the podcast i was last listening to", "label": "play podcasts"}
+{"sentence": "start podcast mlb daily", "label": "play podcasts"}
+{"sentence": "play next episode on podcast", "label": "play podcasts"}
+{"sentence": "podcast next episode", "label": "play podcasts"}
+{"sentence": "i'd like to continue to the next episode", "label": "play podcasts"}
+{"sentence": "start my favourite podcast", "label": "play podcasts"}
+{"sentence": "next one please", "label": "play podcasts"}
+{"sentence": "skip to next episode", "label": "play podcasts"}
+{"sentence": "jump to next podcast", "label": "play podcasts"}
+{"sentence": "next podcast", "label": "play podcasts"}
+{"sentence": "skip forward", "label": "play podcasts"}
+{"sentence": "skip to the next episode of this podcast", "label": "play podcasts"}
+{"sentence": "play the podcast of barack obama saved in device", "label": "play podcasts"}
+{"sentence": "search for podcasts that cover men's issues", "label": "play podcasts"}
+{"sentence": "play the next episode of drunks and dragons please", "label": "play podcasts"}
+{"sentence": "play heavyweight podcast", "label": "play podcasts"}
+{"sentence": "play the next episode of this series", "label": "play podcasts"}
+{"sentence": "i want to hear the latest podcast episode of s town", "label": "play podcasts"}
+{"sentence": "play compassionate cook episode twenty three", "label": "play podcasts"}
+{"sentence": "i would like to listen to this mornings mike and mike podcast", "label": "play podcasts"}
+{"sentence": "play my latest podcast", "label": "play podcasts"}
+{"sentence": "can you play the next podcast", "label": "play podcasts"}
+{"sentence": "play the next episode of the BBC tech podcast", "label": "play podcasts"}
+{"sentence": "jump to the next podcast", "label": "play podcasts"}
+{"sentence": "please play the newest podcast", "label": "play podcasts"}
+{"sentence": "next podcast play", "label": "play podcasts"}
+{"sentence": "move on to the next podcast episode", "label": "play podcasts"}
+{"sentence": "skip to next nyt podcast", "label": "play podcasts"}
+{"sentence": "ted talks", "label": "play podcasts"}
+{"sentence": "play the most current episode of levin", "label": "play podcasts"}
+{"sentence": "play my favourite podcasts", "label": "play podcasts"}
+{"sentence": "npr ted talks", "label": "play podcasts"}
+{"sentence": "please play a podcast", "label": "play podcasts"}
+{"sentence": "play me the new podcast from npr", "label": "play podcasts"}
+{"sentence": "skip this one", "label": "play podcasts"}
+{"sentence": "play the seventh episode of the morning after", "label": "play podcasts"}
+{"sentence": "move to next episode", "label": "play podcasts"}
+{"sentence": "play me the bbc radio podcast", "label": "play podcasts"}
+{"sentence": "next episode please", "label": "play podcasts"}
+{"sentence": "i want to listen to podcast", "label": "play podcasts"}
+{"sentence": "start playlist for podcast", "label": "play podcasts"}
+{"sentence": "start playing podcast about books", "label": "play podcasts"}
+{"sentence": "play podcast episode new", "label": "play podcasts"}
+{"sentence": "please play next episode of podcast", "label": "play podcasts"}
+{"sentence": "forward this one", "label": "play podcasts"}
+{"sentence": "play the next show on podcast", "label": "play podcasts"}
+{"sentence": "play my play list", "label": "play podcasts"}
+{"sentence": "skip", "label": "play podcasts"}
+{"sentence": "i want to listen to a new podcast on healthcare", "label": "play podcasts"}
+{"sentence": "play that podcast please", "label": "play podcasts"}
+{"sentence": "move to next section", "label": "play podcasts"}
+{"sentence": "play me some podcasts about getting rich quick", "label": "play podcasts"}
+{"sentence": "go back", "label": "play podcasts"}
+{"sentence": "can you backward an episode in the podcast", "label": "play podcasts"}
+{"sentence": "play musician play list", "label": "play podcasts"}
+{"sentence": "next episode", "label": "play podcasts"}
+{"sentence": "move forward to the next episode", "label": "play podcasts"}
+{"sentence": "please play next episode of bbc history podcast", "label": "play podcasts"}
+{"sentence": "can you pull up the dave ramsey podcast that aired on monday", "label": "play podcasts"}
+{"sentence": "play favorited podcasts on fishing", "label": "play podcasts"}
+{"sentence": "start podcasts on nfl", "label": "play podcasts"}
+{"sentence": "plays the podcast from the beginning", "label": "play podcasts"}
+{"sentence": "play stuff you should know", "label": "play podcasts"}
+{"sentence": "please go to next date", "label": "play podcasts"}
+{"sentence": "will you please play a podcast", "label": "play podcasts"}
+{"sentence": "move forward ten minutes in this podcast", "label": "play podcasts"}
+{"sentence": "play the podcast named ringcast", "label": "play podcasts"}
+{"sentence": "continue onto the next podcast", "label": "play podcasts"}
+{"sentence": "favourite podcast", "label": "play podcasts"}
+{"sentence": "play last reason podcast", "label": "play podcasts"}
+{"sentence": "play the next recording", "label": "play podcasts"}
+{"sentence": "replay my last played podcast", "label": "play podcasts"}
+{"sentence": "play the last next episode", "label": "play podcasts"}
+{"sentence": "play next episode", "label": "play podcasts"}
+{"sentence": "go to beginning of previous episode", "label": "play podcasts"}
+{"sentence": "play episode two of the intern", "label": "play podcasts"}
+{"sentence": "please play podcasts on science", "label": "play podcasts"}
+{"sentence": "play the latest seahawks podcast", "label": "play podcasts"}
+{"sentence": "what are my top played podcasts", "label": "play podcasts"}
+{"sentence": "play today's podcast from the mi", "label": "play podcasts"}
+{"sentence": "play latest reason podcast", "label": "play podcasts"}
+{"sentence": "play previous episode", "label": "play podcasts"}
+{"sentence": "play podcast a", "label": "play podcasts"}
+{"sentence": "get the next episode", "label": "play podcasts"}
+{"sentence": "play favorites listed in podcasts starting with first one", "label": "play podcasts"}
+{"sentence": "please play james altucher's podcast", "label": "play podcasts"}
+{"sentence": "play podcast one", "label": "play podcasts"}
+{"sentence": "rewind the episode of podcast", "label": "play podcasts"}
+{"sentence": "play current episode", "label": "play podcasts"}
+{"sentence": "play next doctor who episode", "label": "play podcasts"}
+{"sentence": "rewind to four twelve", "label": "play podcasts"}
+{"sentence": "play the next episode of adele's podcast", "label": "play podcasts"}
+{"sentence": "show me the top rated podcasts", "label": "play podcasts"}
+{"sentence": "skip this podcast", "label": "play podcasts"}
+{"sentence": "let me hear that podcast", "label": "play podcasts"}
+{"sentence": "please start my podcast", "label": "play podcasts"}
+{"sentence": "skip to next", "label": "play podcasts"}
+{"sentence": "what are todays top podcasts", "label": "play podcasts"}
+{"sentence": "back one episode", "label": "play podcasts"}
+{"sentence": "start the gilmore guys", "label": "play podcasts"}
+{"sentence": "play a podcast about latest yoga videos", "label": "play podcasts"}
+{"sentence": "please start the next podcast episode", "label": "play podcasts"}
+{"sentence": "network podcast", "label": "play podcasts"}
+{"sentence": "play me the latest podcast about online surveys", "label": "play podcasts"}
+{"sentence": "go to favourite list", "label": "play podcasts"}
+{"sentence": "skip ahead to the next podcast", "label": "play podcasts"}
+{"sentence": "go to next episode", "label": "play podcasts"}
+{"sentence": "start podcast from my favorites list", "label": "play podcasts"}
+{"sentence": "vitaly channel", "label": "play podcasts"}
+{"sentence": "play the next podcast episode", "label": "play podcasts"}
+{"sentence": "play the most recent podcast for this american life", "label": "play podcasts"}
+{"sentence": "play podcast for the philadelphia eagles content", "label": "play podcasts"}
+{"sentence": "skip this episode", "label": "play podcasts"}
+{"sentence": "play the previous podcast", "label": "play podcasts"}
+{"sentence": "play cindi's favorite podcast", "label": "play podcasts"}
+{"sentence": "please check episode number thirty nine", "label": "play podcasts"}
+{"sentence": "next episode in the podcast please", "label": "play podcasts"}
+{"sentence": "next episode of nyt podcast", "label": "play podcasts"}
+{"sentence": "i want to see the previous episode", "label": "play podcasts"}
+{"sentence": "play rohan sharma podcast for me", "label": "play podcasts"}
+{"sentence": "please go to the next episode of the podcast", "label": "play podcasts"}
+{"sentence": "i am ready to hear the next episode of podcast", "label": "play podcasts"}
+{"sentence": "can you forward an episode in the podcast", "label": "play podcasts"}
+{"sentence": "start my most recently played podcast", "label": "play podcasts"}
+{"sentence": "can i see the previous episode", "label": "play podcasts"}
+{"sentence": "please play next episode", "label": "play podcasts"}
+{"sentence": "play next on podcast", "label": "play podcasts"}
+{"sentence": "please play the podcast from happypeoplecom", "label": "play podcasts"}
+{"sentence": "move to the next episode of hipsterhood", "label": "play podcasts"}
+{"sentence": "play that podcast i was listening to yesterday", "label": "play podcasts"}
+{"sentence": "let me listen to the latest lovett or leave it podcast", "label": "play podcasts"}
+{"sentence": "play me a podcast", "label": "play podcasts"}
+{"sentence": "play anything new from my podcast subscriptions", "label": "play podcasts"}
+{"sentence": "please set the vacuum to start going now", "label": "iot cleaning"}
+{"sentence": "run vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please turn on my robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "how do i start the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please start vacuum", "label": "iot cleaning"}
+{"sentence": "how do you activate the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "hoover the carpets around", "label": "iot cleaning"}
+{"sentence": "turn on vacuum", "label": "iot cleaning"}
+{"sentence": "if my vacuum cleaner is not activated please activate it", "label": "iot cleaning"}
+{"sentence": "clean the carpets", "label": "iot cleaning"}
+{"sentence": "start cleaning", "label": "iot cleaning"}
+{"sentence": "initiate the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "start irobot", "label": "iot cleaning"}
+{"sentence": "how do you turn on the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "hey go from off to on my vacuum in five minutes", "label": "iot cleaning"}
+{"sentence": "can you set the vacuum to start cleaning at ten am time", "label": "iot cleaning"}
+{"sentence": "robot do the whole house now", "label": "iot cleaning"}
+{"sentence": "turn the vacuum on", "label": "iot cleaning"}
+{"sentence": "use vacuum cleaner in the hall", "label": "iot cleaning"}
+{"sentence": "turn on the vacuum", "label": "iot cleaning"}
+{"sentence": "start the vacuum at nine am", "label": "iot cleaning"}
+{"sentence": "run the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate the roomba", "label": "iot cleaning"}
+{"sentence": "my vacuum cleaner should start between ten to eleven am everyday", "label": "iot cleaning"}
+{"sentence": "robot vacuum the living room now", "label": "iot cleaning"}
+{"sentence": "can you start the vacuum", "label": "iot cleaning"}
+{"sentence": "turn the robot vacuum cleaner on", "label": "iot cleaning"}
+{"sentence": "begin vacuum cleaning", "label": "iot cleaning"}
+{"sentence": "let's suck out the dust", "label": "iot cleaning"}
+{"sentence": "does the robot vacuum cleaner have to be plugged in", "label": "iot cleaning"}
+{"sentence": "activate robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate robot cleaner in an hour", "label": "iot cleaning"}
+{"sentence": "initiate to operate robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "initiate vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "get the roomba to clean up", "label": "iot cleaning"}
+{"sentence": "start vacuum bot", "label": "iot cleaning"}
+{"sentence": "switch on robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "get the roomba to start cleaning", "label": "iot cleaning"}
+{"sentence": "vacuum living room", "label": "iot cleaning"}
+{"sentence": "have the roomba run the living room", "label": "iot cleaning"}
+{"sentence": "turn on the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "i need you to turn on the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "vacuum cleaner start", "label": "iot cleaning"}
+{"sentence": "vacuum the living room carpet", "label": "iot cleaning"}
+{"sentence": "activate the cleaner for furniture cleaning", "label": "iot cleaning"}
+{"sentence": "start the robot roomba", "label": "iot cleaning"}
+{"sentence": "can you turn on the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please help me turn on the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please activate the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "by ten to eleven am daily start my vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please clean the floor", "label": "iot cleaning"}
+{"sentence": "activate vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please start the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "get the roomba to clean the kitchen", "label": "iot cleaning"}
+{"sentence": "vacuum the floor", "label": "iot cleaning"}
+{"sentence": "can you wake the roomba for the kitchen", "label": "iot cleaning"}
+{"sentence": "i want to clean my bedroom put the vacuum on and go to my room", "label": "iot cleaning"}
+{"sentence": "please have vacuum go for one hour", "label": "iot cleaning"}
+{"sentence": "activate the vacuum", "label": "iot cleaning"}
+{"sentence": "remove dust with vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate the robot vacuum", "label": "iot cleaning"}
+{"sentence": "please run the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "start roomba", "label": "iot cleaning"}
+{"sentence": "turn on the vacuum now", "label": "iot cleaning"}
+{"sentence": "have my iroomba clean the house", "label": "iot cleaning"}
+{"sentence": "turn on the robot vacuum", "label": "iot cleaning"}
+{"sentence": "begin vacuum", "label": "iot cleaning"}
+{"sentence": "it's dirty here make some noise", "label": "iot cleaning"}
+{"sentence": "turn on vacuum cleaning", "label": "iot cleaning"}
+{"sentence": "at one pm today start the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate vacuum", "label": "iot cleaning"}
+{"sentence": "clean my house", "label": "iot cleaning"}
+{"sentence": "start robot cleaner", "label": "iot cleaning"}
+{"sentence": "get the cleaning on", "label": "iot cleaning"}
+{"sentence": "can you please put the vacuum on", "label": "iot cleaning"}
+{"sentence": "start the robotic vacuum", "label": "iot cleaning"}
+{"sentence": "vacuum the carpet freshener from the carpet", "label": "iot cleaning"}
+{"sentence": "clean the sofa with the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate the robot and vacuum the floor", "label": "iot cleaning"}
+{"sentence": "switch on the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "start my robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "hey start vacuum cleaner robot", "label": "iot cleaning"}
+{"sentence": "vacuum start", "label": "iot cleaning"}
+{"sentence": "is there anything i need to know before i activate the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "olly i need the living room vacuumed can you turn on the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate the vacuum cleaner and use it", "label": "iot cleaning"}
+{"sentence": "vacuum the kitchen", "label": "iot cleaning"}
+{"sentence": "start vacuuming now please", "label": "iot cleaning"}
+{"sentence": "cleaning is good dust is so bad do now your magic clean my carpet", "label": "iot cleaning"}
+{"sentence": "begin vacuuming", "label": "iot cleaning"}
+{"sentence": "start the robot vacuum cleaner now", "label": "iot cleaning"}
+{"sentence": "please run the vacuum", "label": "iot cleaning"}
+{"sentence": "turn on robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "run the vacuum", "label": "iot cleaning"}
+{"sentence": "clean the flat", "label": "iot cleaning"}
+{"sentence": "have the vacuum cleaner clean the room", "label": "iot cleaning"}
+{"sentence": "make vacuum cleaner start", "label": "iot cleaning"}
+{"sentence": "put on the vacuum on now and clean the living room", "label": "iot cleaning"}
+{"sentence": "make my iroomba clean the living room", "label": "iot cleaning"}
+{"sentence": "activate the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "start the vacuum", "label": "iot cleaning"}
+{"sentence": "clean the floor please", "label": "iot cleaning"}
+{"sentence": "robot vacuum cleaner on", "label": "iot cleaning"}
+{"sentence": "start robo vac", "label": "iot cleaning"}
+{"sentence": "please start the vacuum", "label": "iot cleaning"}
+{"sentence": "go near vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "can you turn on the vacuum", "label": "iot cleaning"}
+{"sentence": "start vacuuming", "label": "iot cleaning"}
+{"sentence": "vacuum the dining room", "label": "iot cleaning"}
+{"sentence": "there is a pile of torn paper on the rug to suck up", "label": "iot cleaning"}
+{"sentence": "start cleaner", "label": "iot cleaning"}
+{"sentence": "can you start the roomba", "label": "iot cleaning"}
+{"sentence": "initialize the robot vacuum", "label": "iot cleaning"}
+{"sentence": "can you activate the vacuum to clean the house", "label": "iot cleaning"}
+{"sentence": "open vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please start vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "start the robot vacuum cleaner at one pm today", "label": "iot cleaning"}
+{"sentence": "robot vacuum the hallway now", "label": "iot cleaning"}
+{"sentence": "start house cleanup", "label": "iot cleaning"}
+{"sentence": "start vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "start vacuum", "label": "iot cleaning"}
+{"sentence": "vacuum the living room in ten minutes", "label": "iot cleaning"}
+{"sentence": "company coming over turn on the vacuum cleaner right now", "label": "iot cleaning"}
+{"sentence": "hurriedly activates my robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please start vacuuming", "label": "iot cleaning"}
+{"sentence": "vacuum the house", "label": "iot cleaning"}
+{"sentence": "i want the robot vacuum cleaner to start at one pm today", "label": "iot cleaning"}
+{"sentence": "take it in hand", "label": "iot cleaning"}
+{"sentence": "i want dimmer lights", "label": "iot hue lightdim"}
+{"sentence": "please turn down the lights", "label": "iot hue lightdim"}
+{"sentence": "dim the lights in my bedroom", "label": "iot hue lightdim"}
+{"sentence": "dim the lights please", "label": "iot hue lightdim"}
+{"sentence": "attenuate the lights", "label": "iot hue lightdim"}
+{"sentence": "i want the room to be less bright", "label": "iot hue lightdim"}
+{"sentence": "is it ok to lower the lights", "label": "iot hue lightdim"}
+{"sentence": "i need to turn the lights down", "label": "iot hue lightdim"}
+{"sentence": "lower the lights in bedroom two", "label": "iot hue lightdim"}
+{"sentence": "make a room darker", "label": "iot hue lightdim"}
+{"sentence": "hey olly make the lights a little dimmer", "label": "iot hue lightdim"}
+{"sentence": "lower the brightness of the lights", "label": "iot hue lightdim"}
+{"sentence": "lower the light level in my house", "label": "iot hue lightdim"}
+{"sentence": "please turn down the lights in the house", "label": "iot hue lightdim"}
+{"sentence": "dim the lights to level two", "label": "iot hue lightdim"}
+{"sentence": "lower the lights in the living room", "label": "iot hue lightdim"}
+{"sentence": "dim the lighting in my living room", "label": "iot hue lightdim"}
+{"sentence": "dim my light", "label": "iot hue lightdim"}
+{"sentence": "down the light power", "label": "iot hue lightdim"}
+{"sentence": "this is too bright", "label": "iot hue lightdim"}
+{"sentence": "lights down to seven", "label": "iot hue lightdim"}
+{"sentence": "lower lights please", "label": "iot hue lightdim"}
+{"sentence": "dim the lights in the bathroom", "label": "iot hue lightdim"}
+{"sentence": "give me low lighting in the kitchen", "label": "iot hue lightdim"}
+{"sentence": "lower lights down", "label": "iot hue lightdim"}
+{"sentence": "lower the light to forty percent", "label": "iot hue lightdim"}
+{"sentence": "can we please lower the lights", "label": "iot hue lightdim"}
+{"sentence": "minimize the light power", "label": "iot hue lightdim"}
+{"sentence": "lower lights in my room", "label": "iot hue lightdim"}
+{"sentence": "lower the intensity of light", "label": "iot hue lightdim"}
+{"sentence": "please darken the lights", "label": "iot hue lightdim"}
+{"sentence": "reduce the strength of the bedroom lights", "label": "iot hue lightdim"}
+{"sentence": "lower the lights in the room", "label": "iot hue lightdim"}
+{"sentence": "lower lights in kitchen", "label": "iot hue lightdim"}
+{"sentence": "can you lower the lights", "label": "iot hue lightdim"}
+{"sentence": "lower the lights please", "label": "iot hue lightdim"}
+{"sentence": "dim the living room lights", "label": "iot hue lightdim"}
+{"sentence": "turn the lights down in the living room", "label": "iot hue lightdim"}
+{"sentence": "please lower the lights a little bit", "label": "iot hue lightdim"}
+{"sentence": "turn the lights down", "label": "iot hue lightdim"}
+{"sentence": "dim the lights", "label": "iot hue lightdim"}
+{"sentence": "turn down lights", "label": "iot hue lightdim"}
+{"sentence": "turn the lights down a bit", "label": "iot hue lightdim"}
+{"sentence": "decrease brightness", "label": "iot hue lightdim"}
+{"sentence": "nighttime mode", "label": "iot hue lightdim"}
+{"sentence": "lower the lighting", "label": "iot hue lightdim"}
+{"sentence": "lower hallway lights", "label": "iot hue lightdim"}
+{"sentence": "lower lights now", "label": "iot hue lightdim"}
+{"sentence": "it is too bright in here dim the lights", "label": "iot hue lightdim"}
+{"sentence": "dim the lights in the kitchen", "label": "iot hue lightdim"}
+{"sentence": "reduce the brightness", "label": "iot hue lightdim"}
+{"sentence": "lower the lights in the bedroom", "label": "iot hue lightdim"}
+{"sentence": "dim lights", "label": "iot hue lightdim"}
+{"sentence": "please lower the lights", "label": "iot hue lightdim"}
+{"sentence": "reduce brightness", "label": "iot hue lightdim"}
+{"sentence": "please turn down the lights in the living room", "label": "iot hue lightdim"}
+{"sentence": "change the lights to dim", "label": "iot hue lightdim"}
+{"sentence": "dim lights in living room", "label": "iot hue lightdim"}
+{"sentence": "its too bright in here", "label": "iot hue lightdim"}
+{"sentence": "lower the lights in the house", "label": "iot hue lightdim"}
+{"sentence": "lights dim", "label": "iot hue lightdim"}
+{"sentence": "decrease lighting", "label": "iot hue lightdim"}
+{"sentence": "make the lights less bright", "label": "iot hue lightdim"}
+{"sentence": "please lights less brighter", "label": "iot hue lightdim"}
+{"sentence": "light is too much", "label": "iot hue lightdim"}
+{"sentence": "adjust the lights to a lower setting please", "label": "iot hue lightdim"}
+{"sentence": "dim the lights down a bit", "label": "iot hue lightdim"}
+{"sentence": "lower the light of hall percent", "label": "iot hue lightdim"}
+{"sentence": "lower the lights in the house please", "label": "iot hue lightdim"}
+{"sentence": "color of light should be dimmed bright", "label": "iot hue lightdim"}
+{"sentence": "will you dim all the lights", "label": "iot hue lightdim"}
+{"sentence": "reduce the light power", "label": "iot hue lightdim"}
+{"sentence": "the lights are too bright", "label": "iot hue lightdim"}
+{"sentence": "lower the light intensity", "label": "iot hue lightdim"}
+{"sentence": "lower the overhead lights", "label": "iot hue lightdim"}
+{"sentence": "lower the brightness", "label": "iot hue lightdim"}
+{"sentence": "turn the lights down to seven", "label": "iot hue lightdim"}
+{"sentence": "could you dim the lights", "label": "iot hue lightdim"}
+{"sentence": "darken", "label": "iot hue lightdim"}
+{"sentence": "lessen the the light glow", "label": "iot hue lightdim"}
+{"sentence": "it is time to lower the kitchen lights", "label": "iot hue lightdim"}
+{"sentence": "reduce the lights", "label": "iot hue lightdim"}
+{"sentence": "these lights are too bright please lower them", "label": "iot hue lightdim"}
+{"sentence": "switch light to lowest level in dining area", "label": "iot hue lightdim"}
+{"sentence": "lower brightness of lights", "label": "iot hue lightdim"}
+{"sentence": "turn down the lights in the living room", "label": "iot hue lightdim"}
+{"sentence": "dim the overhead lights a tad", "label": "iot hue lightdim"}
+{"sentence": "dim the lights a bit", "label": "iot hue lightdim"}
+{"sentence": "dim the lights at the living room", "label": "iot hue lightdim"}
+{"sentence": "dim the lights in the hall", "label": "iot hue lightdim"}
+{"sentence": "minimize the lights", "label": "iot hue lightdim"}
+{"sentence": "please dim the overhead lights", "label": "iot hue lightdim"}
+{"sentence": "can you turn down the lights by twenty percent", "label": "iot hue lightdim"}
+{"sentence": "hi can you please turn lower the lights", "label": "iot hue lightdim"}
+{"sentence": "please dim the lights", "label": "iot hue lightdim"}
+{"sentence": "reduce the intensity of lights", "label": "iot hue lightdim"}
+{"sentence": "system please dim lights to dull blue", "label": "iot hue lightdim"}
+{"sentence": "show stock value of goog", "label": "qa stock"}
+{"sentence": "please find out the share price of i. b. m. in nasdaq", "label": "qa stock"}
+{"sentence": "what is the stock information of walmart", "label": "qa stock"}
+{"sentence": "how much is starbuck's stock these days", "label": "qa stock"}
+{"sentence": "stock google find out", "label": "qa stock"}
+{"sentence": "what are the current stock prices for google", "label": "qa stock"}
+{"sentence": "what's going on on wall street this week", "label": "qa stock"}
+{"sentence": "find stock price for name", "label": "qa stock"}
+{"sentence": "detail for stock price", "label": "qa stock"}
+{"sentence": "today's closing price for google", "label": "qa stock"}
+{"sentence": "give me the opening stock price of infosys technologies today", "label": "qa stock"}
+{"sentence": "did the price of walmart stock go up or down", "label": "qa stock"}
+{"sentence": "how's microsoft's stock", "label": "qa stock"}
+{"sentence": "is the stocks which i have invested are increasing", "label": "qa stock"}
+{"sentence": "give me today's market trends for panasonic", "label": "qa stock"}
+{"sentence": "set notification for news on the stock market", "label": "qa stock"}
+{"sentence": "what's the change in best buy stick", "label": "qa stock"}
+{"sentence": "what did apple stock close at yesterday", "label": "qa stock"}
+{"sentence": "notify me of the latest news on the stock market", "label": "qa stock"}
+{"sentence": "what happened to the dow jones today", "label": "qa stock"}
+{"sentence": "is now a good time to sell some euros", "label": "qa stock"}
+{"sentence": "what is the price for marvel", "label": "qa stock"}
+{"sentence": "what is the stock for hp company", "label": "qa stock"}
+{"sentence": "open td ameritrade", "label": "qa stock"}
+{"sentence": "have bing's stocks dropped", "label": "qa stock"}
+{"sentence": "please tell me what is the stock price of dew in ny market", "label": "qa stock"}
+{"sentence": "please tell me news related to the stock market", "label": "qa stock"}
+{"sentence": "current price of google please", "label": "qa stock"}
+{"sentence": "have i made loss in which stocks", "label": "qa stock"}
+{"sentence": "how is the stock going in general", "label": "qa stock"}
+{"sentence": "honda stock price", "label": "qa stock"}
+{"sentence": "what's the latest on stock market", "label": "qa stock"}
+{"sentence": "how much does bde cost", "label": "qa stock"}
+{"sentence": "tell me the stock rate of hyundai", "label": "qa stock"}
+{"sentence": "what is the stock value of google", "label": "qa stock"}
+{"sentence": "please indicate the opening price of fra stock", "label": "qa stock"}
+{"sentence": "what is the current stock rate of facebook", "label": "qa stock"}
+{"sentence": "has my stock increased in value", "label": "qa stock"}
+{"sentence": "how effective will be to buy nike stock", "label": "qa stock"}
+{"sentence": "is starbucks stock up or down from last quarter", "label": "qa stock"}
+{"sentence": "google i. b. m. stock prices", "label": "qa stock"}
+{"sentence": "stock details", "label": "qa stock"}
+{"sentence": "what's the price of ge right now", "label": "qa stock"}
+{"sentence": "what is the daily price of johnson and johnson stock", "label": "qa stock"}
+{"sentence": "tell me about price of stock for innova", "label": "qa stock"}
+{"sentence": "whats the dow jones at today", "label": "qa stock"}
+{"sentence": "what is the price of stock for gm", "label": "qa stock"}
+{"sentence": "what's the stock of apple", "label": "qa stock"}
+{"sentence": "what is the price of apple stock today", "label": "qa stock"}
+{"sentence": "stock exchange rates", "label": "qa stock"}
+{"sentence": "check stock prices on this", "label": "qa stock"}
+{"sentence": "tell me amd stock prices", "label": "qa stock"}
+{"sentence": "tell me which stocks were the biggest gainers in stock market nasdaq today", "label": "qa stock"}
+{"sentence": "give me the stock price of intel", "label": "qa stock"}
+{"sentence": "list the current price of microsoft shares", "label": "qa stock"}
+{"sentence": "how much would it cost to buy a share of target", "label": "qa stock"}
+{"sentence": "for how much is hp selling for", "label": "qa stock"}
+{"sentence": "what's the closing price of apple", "label": "qa stock"}
+{"sentence": "which stock markets have lowered in the past three hours", "label": "qa stock"}
+{"sentence": "how much rate will be calculated", "label": "qa stock"}
+{"sentence": "tell me which mutual funds have maximum yearly returns", "label": "qa stock"}
+{"sentence": "what is the stock price of hdfc", "label": "qa stock"}
+{"sentence": "list me the stock of apple right now", "label": "qa stock"}
+{"sentence": "how much does stock cost in walmart", "label": "qa stock"}
+{"sentence": "where is dell standing in stock market right now", "label": "qa stock"}
+{"sentence": "let me know about the stock rate of a microsoft", "label": "qa stock"}
+{"sentence": "fill me in on stock symbol", "label": "qa stock"}
+{"sentence": "tell me lexmark's current stock price", "label": "qa stock"}
+{"sentence": "could you give me the exact rate for dow nifty futures", "label": "qa stock"}
+{"sentence": "what's the stock price of this item", "label": "qa stock"}
+{"sentence": "how is shell s stock doing today", "label": "qa stock"}
+{"sentence": "when does iphone stock usually drop", "label": "qa stock"}
+{"sentence": "amazon stock price", "label": "qa stock"}
+{"sentence": "open stock price for name", "label": "qa stock"}
+{"sentence": "current price of coca cola stock", "label": "qa stock"}
+{"sentence": "stock up or down for walgreens", "label": "qa stock"}
+{"sentence": "what is the current price of jindel stock", "label": "qa stock"}
+{"sentence": "google stock symbol", "label": "qa stock"}
+{"sentence": "what is the google stock at", "label": "qa stock"}
+{"sentence": "give me the opening stock price of apple", "label": "qa stock"}
+{"sentence": "stock price for apple", "label": "qa stock"}
+{"sentence": "what is the price of starbuck's stock", "label": "qa stock"}
+{"sentence": "stock price fb", "label": "qa stock"}
+{"sentence": "please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years", "label": "qa stock"}
+{"sentence": "turn on notification for all news on the stock market", "label": "qa stock"}
+{"sentence": "is warren buffet is investing in my listed stocks", "label": "qa stock"}
+{"sentence": "what is the lowest microsoft stock price today", "label": "qa stock"}
+{"sentence": "what is the difference between yesterday's and today's stock prices for walmart", "label": "qa stock"}
+{"sentence": "whats the current price of mcdonalds stock", "label": "qa stock"}
+{"sentence": "will it be good to buy nike stock today", "label": "qa stock"}
+{"sentence": "show me the stock price for google", "label": "qa stock"}
+{"sentence": "what price are google stocks trading for", "label": "qa stock"}
+{"sentence": "give me the opening stock price of acer computers", "label": "qa stock"}
+{"sentence": "how are my stocks doing today", "label": "qa stock"}
+{"sentence": "how's the stock for exxon mobil doing today", "label": "qa stock"}
+{"sentence": "how high is the s n. p", "label": "qa stock"}
+{"sentence": "can i have stock rate list of ola and uber", "label": "qa stock"}
+{"sentence": "what are the chances of the stock market closing below the two hundred moving average in the next fourteen days", "label": "qa stock"}
+{"sentence": "what is amazon worth", "label": "qa stock"}
+{"sentence": "how have megatel shares done last week", "label": "qa stock"}
+{"sentence": "how many shares of apple can i get for", "label": "qa stock"}
+{"sentence": "what is the netflix stock price", "label": "qa stock"}
+{"sentence": "tell me about the stock for shell", "label": "qa stock"}
+{"sentence": "show me the stock prices of target today", "label": "qa stock"}
+{"sentence": "let me know up and down in stock price of this company stock", "label": "qa stock"}
+{"sentence": "i want to know the stocks of amazon", "label": "qa stock"}
+{"sentence": "can you tell me the price of google stock", "label": "qa stock"}
+{"sentence": "what are i. b. m.'s stock prices", "label": "qa stock"}
+{"sentence": "what is the highest microsoft stock price today", "label": "qa stock"}
+{"sentence": "what is the price of amd on the stock market", "label": "qa stock"}
+{"sentence": "what's the stock price of this", "label": "qa stock"}
+{"sentence": "what apple trading at", "label": "qa stock"}
+{"sentence": "give me the stock price of apple", "label": "qa stock"}
+{"sentence": "what is the stock price of amazon", "label": "qa stock"}
+{"sentence": "give me the opening stock price of sony", "label": "qa stock"}
+{"sentence": "show me share price of facebook", "label": "qa stock"}
+{"sentence": "please find today's stock prices for samsung company", "label": "qa stock"}
+{"sentence": "look up stock prices for my mutual funds and account", "label": "qa stock"}
+{"sentence": "show me share price of amazon", "label": "qa stock"}
+{"sentence": "what is apple's stock", "label": "qa stock"}
+{"sentence": "stock please", "label": "qa stock"}
+{"sentence": "compare the stock prices for nintendo and sony and tell me which ones are better", "label": "qa stock"}
+{"sentence": "i want to figure out the stock on microsoft", "label": "qa stock"}
+{"sentence": "how expensive is google stock", "label": "qa stock"}
+{"sentence": "how much did facebook stock increase last night", "label": "qa stock"}
+{"sentence": "give the stock price details of motorolla", "label": "qa stock"}
+{"sentence": "stock market", "label": "qa stock"}
+{"sentence": "google stock price", "label": "qa stock"}
+{"sentence": "what is terranova stock going for", "label": "qa stock"}
+{"sentence": "is i. b. m. up today", "label": "qa stock"}
+{"sentence": "is chase doing good", "label": "qa stock"}
+{"sentence": "what is the current stock price of rolls royce", "label": "qa stock"}
+{"sentence": "what is apple's stock price", "label": "qa stock"}
+{"sentence": "what is the sensex and nifty points for today", "label": "qa stock"}
+{"sentence": "what is the closing price of apple today", "label": "qa stock"}
+{"sentence": "stock price for sprint", "label": "qa stock"}
+{"sentence": "what is now stock price of tata", "label": "qa stock"}
+{"sentence": "send me the stock market updates for today", "label": "qa stock"}
+{"sentence": "what is the stock price for lexmark", "label": "qa stock"}
+{"sentence": "what's the closing price of abc", "label": "qa stock"}
+{"sentence": "how are the top ten stocks at the moment", "label": "qa stock"}
+{"sentence": "what are amd stock prices", "label": "qa stock"}
+{"sentence": "tell me summary forecast microsoft stock forecast to thirty days ahead", "label": "qa stock"}
+{"sentence": "were the stocks rising or declining", "label": "qa stock"}
+{"sentence": "refer the stock price of hdfc", "label": "qa stock"}
+{"sentence": "have stocks gone up or down today for walmart", "label": "qa stock"}
+{"sentence": "show stock of goog", "label": "qa stock"}
+{"sentence": "fb stocks", "label": "qa stock"}
+{"sentence": "what is today's close of goog", "label": "qa stock"}
+{"sentence": "tell me the latest stock of pepsi", "label": "qa stock"}
+{"sentence": "how much would it cost to buy stock in apple", "label": "qa stock"}
+{"sentence": "how is coca cola stock doing today", "label": "qa stock"}
+{"sentence": "how much does the fb stock cost", "label": "qa stock"}
+{"sentence": "what is i. b. m.'s stock worth", "label": "qa stock"}
+{"sentence": "show me share price of tata", "label": "qa stock"}
+{"sentence": "whats the stock price of apple", "label": "qa stock"}
+{"sentence": "stock", "label": "qa stock"}
+{"sentence": "what was the stock price for google yesterday", "label": "qa stock"}
+{"sentence": "what is apple's current stock price", "label": "qa stock"}
+{"sentence": "turn on smart socket in dining room", "label": "iot wemo on"}
+{"sentence": "i need to turn on the plug in my office for my computer", "label": "iot wemo on"}
+{"sentence": "power on wemo", "label": "iot wemo on"}
+{"sentence": "turn on my wemo socket", "label": "iot wemo on"}
+{"sentence": "make the wemo go on", "label": "iot wemo on"}
+{"sentence": "on the plug", "label": "iot wemo on"}
+{"sentence": "on all the button on dashboard", "label": "iot wemo on"}
+{"sentence": "flip the wemo on", "label": "iot wemo on"}
+{"sentence": "turn on the fan socket", "label": "iot wemo on"}
+{"sentence": "start new smart socket", "label": "iot wemo on"}
+{"sentence": "turn on the tv socket when i arrive home", "label": "iot wemo on"}
+{"sentence": "wemo plug socket turn on", "label": "iot wemo on"}
+{"sentence": "turn on the socket", "label": "iot wemo on"}
+{"sentence": "turn on the plug", "label": "iot wemo on"}
+{"sentence": "could you please turn on the plug", "label": "iot wemo on"}
+{"sentence": "please turn on wemo socket", "label": "iot wemo on"}
+{"sentence": "turn on this socket", "label": "iot wemo on"}
+{"sentence": "turn wemo on", "label": "iot wemo on"}
+{"sentence": "turn on socket", "label": "iot wemo on"}
+{"sentence": "turn on new smart socket", "label": "iot wemo on"}
+{"sentence": "start the smart plug", "label": "iot wemo on"}
+{"sentence": "power yourself on", "label": "iot wemo on"}
+{"sentence": "if switch is on then turn on else turn off", "label": "iot wemo on"}
+{"sentence": "turn on my son's room plug socket on off", "label": "iot wemo on"}
+{"sentence": "turn my bathroom plug socket on", "label": "iot wemo on"}
+{"sentence": "wemo socket on", "label": "iot wemo on"}
+{"sentence": "can you turn on the wemo plug socket", "label": "iot wemo on"}
+{"sentence": "turn my smart plug socket on", "label": "iot wemo on"}
+{"sentence": "wemo on", "label": "iot wemo on"}
+{"sentence": "turn on wemo plug in game room", "label": "iot wemo on"}
+{"sentence": "switch on the plug", "label": "iot wemo on"}
+{"sentence": "activate the wemo plug socket", "label": "iot wemo on"}
+{"sentence": "make the socket available for me", "label": "iot wemo on"}
+{"sentence": "turn on the smart plug", "label": "iot wemo on"}
+{"sentence": "turn the smart plug on", "label": "iot wemo on"}
+{"sentence": "turn on wemo", "label": "iot wemo on"}
+{"sentence": "toggle wemo plug socket on", "label": "iot wemo on"}
+{"sentence": "turn on the wemo plug", "label": "iot wemo on"}
+{"sentence": "make the wemo plug socket turned on", "label": "iot wemo on"}
+{"sentence": "enable smart socket", "label": "iot wemo on"}
+{"sentence": "times clapping sound times", "label": "iot wemo on"}
+{"sentence": "wemo plug socket on", "label": "iot wemo on"}
+{"sentence": "turn on the rice cooker socket", "label": "iot wemo on"}
+{"sentence": "switch on the wemo plug", "label": "iot wemo on"}
+{"sentence": "on mobile charger plug", "label": "iot wemo on"}
+{"sentence": "turn wemo plug socket on", "label": "iot wemo on"}
+{"sentence": "turn on the plug socket one", "label": "iot wemo on"}
+{"sentence": "start the oven", "label": "iot wemo on"}
+{"sentence": "please turn on the smart socket", "label": "iot wemo on"}
+{"sentence": "turn on the wemo", "label": "iot wemo on"}
+{"sentence": "turn on kitchen light", "label": "iot wemo on"}
+{"sentence": "outlet on", "label": "iot wemo on"}
+{"sentence": "power up the plug socket one", "label": "iot wemo on"}
+{"sentence": "what's the dollar's exchange rate with the euro", "label": "qa currency"}
+{"sentence": "conversion between dollars and pounds", "label": "qa currency"}
+{"sentence": "given me the exchange rates between u. s. d. and inr", "label": "qa currency"}
+{"sentence": "if i have twenty dollars how many francs is that", "label": "qa currency"}
+{"sentence": "dollar rate at present", "label": "qa currency"}
+{"sentence": "how much is the us dollar versus the pound", "label": "qa currency"}
+{"sentence": "give me the exchange rate between united states dollar and japanese yen", "label": "qa currency"}
+{"sentence": "how much is five dollars worth in euros", "label": "qa currency"}
+{"sentence": "is euro the best currency to trade", "label": "qa currency"}
+{"sentence": "how much is ten u. s. d. to cad", "label": "qa currency"}
+{"sentence": "how many bots are in a dollar", "label": "qa currency"}
+{"sentence": "if i have five dollars how many rupies is that", "label": "qa currency"}
+{"sentence": "convert one us dollar to british pound", "label": "qa currency"}
+{"sentence": "how many yen for each dollar", "label": "qa currency"}
+{"sentence": "tell me the current dollar ratio for the us and canada", "label": "qa currency"}
+{"sentence": "is the exchange rate changed from yesterday", "label": "qa currency"}
+{"sentence": "new exchange rate", "label": "qa currency"}
+{"sentence": "how many euro in u. s. d.", "label": "qa currency"}
+{"sentence": "exchange rates", "label": "qa currency"}
+{"sentence": "tell me the exchange rate of rupee for dollar", "label": "qa currency"}
+{"sentence": "what is the exchange rate between u. s. d. and cad", "label": "qa currency"}
+{"sentence": "is a peso worth more than a dollar", "label": "qa currency"}
+{"sentence": "how much indian rupees per u. s. d. today", "label": "qa currency"}
+{"sentence": "how much money is one dollars worth in denmark", "label": "qa currency"}
+{"sentence": "dollar rate", "label": "qa currency"}
+{"sentence": "exchange rate from cad to u. s. d.", "label": "qa currency"}
+{"sentence": "how much is us dollar against rupee", "label": "qa currency"}
+{"sentence": "how much is twenty two usd in euros", "label": "qa currency"}
+{"sentence": "what is a peso worth in dollars", "label": "qa currency"}
+{"sentence": "exchange rate of euro with dollar", "label": "qa currency"}
+{"sentence": "show exchange rate of u. s. d. and inr", "label": "qa currency"}
+{"sentence": "how many dollars are in a euro", "label": "qa currency"}
+{"sentence": "what is the exchange rate between the dollar and the euro currently", "label": "qa currency"}
+{"sentence": "how much is twenty argentinian pesos in pounds", "label": "qa currency"}
+{"sentence": "siri what is dollars in yen", "label": "qa currency"}
+{"sentence": "how many g. b. p. can i get for one dollar", "label": "qa currency"}
+{"sentence": "u. s. d. to g. b. p.", "label": "qa currency"}
+{"sentence": "what is the exchange between dollar and british pound", "label": "qa currency"}
+{"sentence": "give me the exchange rate between japanese yen and the australian dollar", "label": "qa currency"}
+{"sentence": "how much yens per u. s. d. today", "label": "qa currency"}
+{"sentence": "how much is the us dollar worth in canada", "label": "qa currency"}
+{"sentence": "convert the american dollar to the euro", "label": "qa currency"}
+{"sentence": "what is the exchange rate between u. s. d. and inr", "label": "qa currency"}
+{"sentence": "and the pound is doing how badly against the euro", "label": "qa currency"}
+{"sentence": "what is the exchange rate between us and canada", "label": "qa currency"}
+{"sentence": "what is the most current exchange rate in china", "label": "qa currency"}
+{"sentence": "forex rate of euro to u. s. d.", "label": "qa currency"}
+{"sentence": "how many dollars are there in a g. b. p.", "label": "qa currency"}
+{"sentence": "what's the exchange between u. s. d. and cad", "label": "qa currency"}
+{"sentence": "convert one euros to us dollars", "label": "qa currency"}
+{"sentence": "find me the exchange rate between dollars and bitcoin", "label": "qa currency"}
+{"sentence": "currency conversion of u. s. d. and eur", "label": "qa currency"}
+{"sentence": "u. s. d. position now", "label": "qa currency"}
+{"sentence": "how much is two thousand five hundred philippine pesos in dollars", "label": "qa currency"}
+{"sentence": "how much is dollars american worth in yen", "label": "qa currency"}
+{"sentence": "how many rupies are in a dollar", "label": "qa currency"}
+{"sentence": "what's the pound to dollar exchange rate", "label": "qa currency"}
+{"sentence": "convert one dollars to rupees", "label": "qa currency"}
+{"sentence": "please check exchange rates", "label": "qa currency"}
+{"sentence": "foreign exchange rates", "label": "qa currency"}
+{"sentence": "what is the dollar against the pound", "label": "qa currency"}
+{"sentence": "what is the exchange rate between the us dollar and the aus dollar", "label": "qa currency"}
+{"sentence": "could you please tell me what is the rate for pound to u. s. d.", "label": "qa currency"}
+{"sentence": "what's the exchange rate between the us dollar and the euro", "label": "qa currency"}
+{"sentence": "convert one pound to us dollar", "label": "qa currency"}
+{"sentence": "how much is an euro worth", "label": "qa currency"}
+{"sentence": "what is the exchange rate for dollars to pounds", "label": "qa currency"}
+{"sentence": "how much is fifty us dollars with in china", "label": "qa currency"}
+{"sentence": "currency to currency rate", "label": "qa currency"}
+{"sentence": "exchange rate for converting ten dollar to euro", "label": "qa currency"}
+{"sentence": "how much is a g. b. p. in u. s. d.", "label": "qa currency"}
+{"sentence": "current forex rates", "label": "qa currency"}
+{"sentence": "what is dollars in pesos", "label": "qa currency"}
+{"sentence": "exchange u. s. d. to g. b. p.", "label": "qa currency"}
+{"sentence": "please check the exchange rates of the us dollar vs the euro", "label": "qa currency"}
+{"sentence": "give me the exchange rate between united states dollar and canadian dollar", "label": "qa currency"}
+{"sentence": "what is the currency conversion charges applicable", "label": "qa currency"}
+{"sentence": "u. s. d. to yen", "label": "qa currency"}
+{"sentence": "what's the exchange rate between czk and euro", "label": "qa currency"}
+{"sentence": "what is the exchange rate for the english pound and us dollar", "label": "qa currency"}
+{"sentence": "how much is indian rupee going against us dollar", "label": "qa currency"}
+{"sentence": "currency exchange", "label": "qa currency"}
+{"sentence": "look up the exchange rate between dollars and bitcoin", "label": "qa currency"}
+{"sentence": "what is the exchange rate of u. s. d. to cdn", "label": "qa currency"}
+{"sentence": "what's the value of the euro relative to nzd", "label": "qa currency"}
+{"sentence": "please show me the exchange rate between the dollar and the yen", "label": "qa currency"}
+{"sentence": "rate u. s. d. to g. b. p.", "label": "qa currency"}
+{"sentence": "what is a canadian dollar worth in the us", "label": "qa currency"}
+{"sentence": "convert five s. d. to rials", "label": "qa currency"}
+{"sentence": "what is the difference between the rate of the american dollar and the pound", "label": "qa currency"}
+{"sentence": "what is the us dollar and euro exchange rate", "label": "qa currency"}
+{"sentence": "please let me know the exchange rate between indian rupees and us", "label": "qa currency"}
+{"sentence": "how many euros are in a dollar", "label": "qa currency"}
+{"sentence": "i need the exchange rate for the us dollar and the euro", "label": "qa currency"}
+{"sentence": "what is the exchange rate of rupee for dollar", "label": "qa currency"}
+{"sentence": "what is the dollar exchange rate", "label": "qa currency"}
+{"sentence": "dollar rate of philippiness peso", "label": "qa currency"}
+{"sentence": "how much australian dollars one can buy for one pound sterling", "label": "qa currency"}
+{"sentence": "exchange euro to dollar", "label": "qa currency"}
+{"sentence": "what is six hundred euros in u. s. d.", "label": "qa currency"}
+{"sentence": "how much is two thousand yen in u. s. d.", "label": "qa currency"}
+{"sentence": "convert euros to dollars", "label": "qa currency"}
+{"sentence": "what is the exchange rate between the us and canada", "label": "qa currency"}
+{"sentence": "how many dollars is twelve pesos", "label": "qa currency"}
+{"sentence": "tell me the exchange rate for the yen", "label": "qa currency"}
+{"sentence": "what is the exchange rate for pounds and u. s. d.", "label": "qa currency"}
+{"sentence": "how much is ten euros in dollars", "label": "qa currency"}
+{"sentence": "exchange rate of yan with dollar", "label": "qa currency"}
+{"sentence": "what is the exchange rate of euro and dollar", "label": "qa currency"}
+{"sentence": "how much is b. p. in u. s. d.", "label": "qa currency"}
+{"sentence": "given me the exchange rates between u. s. d. and cad", "label": "qa currency"}
+{"sentence": "what is the exchange of euro to dollars", "label": "qa currency"}
+{"sentence": "what's the exchange rates", "label": "qa currency"}
+{"sentence": "what the conversion rate from yen to us dollars", "label": "qa currency"}
+{"sentence": "exchange rates between dollar and euro", "label": "qa currency"}
+{"sentence": "which bank will give better rate for currencies i have", "label": "qa currency"}
+{"sentence": "money exchange", "label": "qa currency"}
+{"sentence": "what is the current exchange rate of euro to dollar", "label": "qa currency"}
+{"sentence": "tell me the exchange rate of ten dollar to euro", "label": "qa currency"}
+{"sentence": "how much is ten dollars in euros", "label": "qa currency"}
+{"sentence": "exchange rates of inr and u. s. d.", "label": "qa currency"}
+{"sentence": "what is the current value of yen in american money", "label": "qa currency"}
+{"sentence": "euro to u. s. d.", "label": "qa currency"}
+{"sentence": "current currency rate", "label": "qa currency"}
+{"sentence": "what is the rate for g. b. p. to u. s. d.", "label": "qa currency"}
+{"sentence": "show conversion rate of u. s. d. and euro", "label": "qa currency"}
+{"sentence": "what is the dollar price in inr", "label": "qa currency"}
+{"sentence": "display exchange rate of euro to indian rupee", "label": "qa currency"}
+{"sentence": "what is the exchange rate between money i'm the united states and switzerland", "label": "qa currency"}
+{"sentence": "what's the rate between the u. s. d. and ukraine's currency", "label": "qa currency"}
+{"sentence": "what is the exchange rate as of today", "label": "qa currency"}
+{"sentence": "what is the us dollar equivalent of one euro", "label": "qa currency"}
+{"sentence": "how many dollars are in a pound", "label": "qa currency"}
+{"sentence": "how many dollars can i get for one yen", "label": "qa currency"}
+{"sentence": "please give me detail one dollars equals rs", "label": "qa currency"}
+{"sentence": "what is the exchange rate of euro today to dirham", "label": "qa currency"}
+{"sentence": "how many pounds would i get for dollars", "label": "qa currency"}
+{"sentence": "how much is one dollar in pounds", "label": "qa currency"}
+{"sentence": "how many euro will i get for ten dollars", "label": "qa currency"}
+{"sentence": "what's the rate between pesos and yen", "label": "qa currency"}
+{"sentence": "i would like my to tell me the trend on foreign exchange rates", "label": "qa currency"}
+{"sentence": "how many american dollars are in a euro", "label": "qa currency"}
+{"sentence": "how many dollars is in pounds", "label": "qa currency"}
+{"sentence": "which currency is greater the us dollar or yen", "label": "qa currency"}
+{"sentence": "is the pound up or down against the dollar", "label": "qa currency"}
+{"sentence": "tell me the exchange rate us versus indian rupees", "label": "qa currency"}
+{"sentence": "what is the current exchange rate between the dollar and the euro", "label": "qa currency"}

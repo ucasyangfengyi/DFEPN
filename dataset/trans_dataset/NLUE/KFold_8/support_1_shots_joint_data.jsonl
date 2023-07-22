@@ -1,0 +1,64 @@
+{"sentence": "what times do my alarms go off", "label": "alarm query"}
+{"sentence": "cancel all alarms", "label": "alarm remove"}
+{"sentence": "set an alarm for me at eight am", "label": "alarm set"}
+{"sentence": "Turn down volume", "label": "audio volume down"}
+{"sentence": "stop playing", "label": "audio volume mute"}
+{"sentence": "increase the volume please", "label": "audio volume up"}
+{"sentence": "what events are scheduled this week", "label": "calendar query"}
+{"sentence": "delete from the calendar the next event", "label": "calendar remove"}
+{"sentence": "invite people to the calendar event", "label": "calendar set"}
+{"sentence": "what is recipe", "label": "cooking recipe"}
+{"sentence": "how many hours difference is hong kong from new york city", "label": "datetime convert"}
+{"sentence": "please tell me the date", "label": "datetime query"}
+{"sentence": "add the new email to my contacts", "label": "email addcontact"}
+{"sentence": "what is mary s.'s birthday", "label": "email querycontact"}
+{"sentence": "hey check emails", "label": "email query"}
+{"sentence": "can you send an email to my mother about the weekly weather", "label": "email sendemail"}
+{"sentence": "strongly agreed.", "label": "general affirm"}
+{"sentence": "please could you shut off.", "label": "general commandstop"}
+{"sentence": "check last thing said please.", "label": "general confirm"}
+{"sentence": "i don't really mind for anything.", "label": "general dontcare"}
+{"sentence": "i could not understand this.", "label": "general explain"}
+{"sentence": "what's the famous monty python joke about the bird", "label": "general joke"}
+{"sentence": "thanks but i think you do not get me.", "label": "general negate"}
+{"sentence": "it was nice job, thank you so much.", "label": "general praise"}
+{"sentence": "i hate how long the traffic jams get", "label": "general quirky"}
+{"sentence": "i'd like to hear the last spoke again.", "label": "general repeat"}
+{"sentence": "vacuum the mud room", "label": "iot cleaning"}
+{"sentence": "i need coffee please preferably hot", "label": "iot coffee"}
+{"sentence": "can you do me a favor my eyes are feeling strained on these lights can you please change it to a cooler tone", "label": "iot hue lightchange"}
+{"sentence": "lower the light to forty percent", "label": "iot hue lightdim"}
+{"sentence": "please turn off the light in the upstairs bedroom", "label": "iot hue lightoff"}
+{"sentence": "i want to turn on the blue lights", "label": "iot hue lighton"}
+{"sentence": "raise the lights", "label": "iot hue lightup"}
+{"sentence": "please turn off the smart socket", "label": "iot wemo off"}
+{"sentence": "please turn on my wemo plug socket", "label": "iot wemo on"}
+{"sentence": "create a new list of my due bills", "label": "lists createoradd"}
+{"sentence": "what are the items on my list", "label": "lists query"}
+{"sentence": "remove my shopping list", "label": "lists remove"}
+{"sentence": "the song makes me remember certain memories", "label": "music likeness"}
+{"sentence": "who's playing the oboe on this piece", "label": "music query"}
+{"sentence": "shuffle music", "label": "music settings"}
+{"sentence": "breaking news fox news", "label": "news query"}
+{"sentence": "play the jungle book", "label": "play audiobook"}
+{"sentence": "lets go nazi hunting", "label": "play game"}
+{"sentence": "play the song for me", "label": "play music"}
+{"sentence": "rewind to four twelve", "label": "play podcasts"}
+{"sentence": "please play program on xmtune", "label": "play radio"}
+{"sentence": "forex rate of euro to u. s. d.", "label": "qa currency"}
+{"sentence": "describe the computer to me", "label": "qa definition"}
+{"sentence": "what is the temperature in indianapolis indiana", "label": "qa factoid"}
+{"sentence": "is the answer of five plus two seven", "label": "qa maths"}
+{"sentence": "google i. b. m. stock prices", "label": "qa stock"}
+{"sentence": "what is there to do in new york city", "label": "recommendation events"}
+{"sentence": "find a grocery store in town that carries creamed pickled herring", "label": "recommendation locations"}
+{"sentence": "what's a movie in theaters that doesn't suck", "label": "recommendation movies"}
+{"sentence": "complaint on service provider on my twitter", "label": "social post"}
+{"sentence": "what is trending on twitter", "label": "social query"}
+{"sentence": "i want to order some food", "label": "takeaway order"}
+{"sentence": "does restaurant royale deliver takeaway", "label": "takeaway query"}
+{"sentence": "give the shortest route to the airport", "label": "transport query"}
+{"sentence": "please book a taxi in uber for me to go to the airport today", "label": "transport taxi"}
+{"sentence": "repurchase last train ticket to phillyx", "label": "transport ticket"}
+{"sentence": "show traffic in ohio", "label": "transport traffic"}
+{"sentence": "what is the climate here today", "label": "weather query"}
