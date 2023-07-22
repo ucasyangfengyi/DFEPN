@@ -1,0 +1,35 @@
+{"sentence": "book a table at t-rex distant from halsey st", "label": "book restaurant"}
+{"sentence": "id like to eat at a taverna that serves chili con carne for a party of 10", "label": "book restaurant"}
+{"sentence": "i have a party of four in japan and need a reservation at rimsky-korsakoffee house on aug the 3rd", "label": "book restaurant"}
+{"sentence": "please make a restaurant reservation for somewhere in mondovi connecticut", "label": "book restaurant"}
+{"sentence": "book a spot far from Åland", "label": "book restaurant"}
+{"sentence": "what will the weather be this year in horseshoe lake state fish and wildlife area ?", "label": "get weather"}
+{"sentence": "will it be sunny one hundred thirty five days from now in monterey bay national marine sanctuary", "label": "get weather"}
+{"sentence": "is it supposed to rain nearby my current location at 0 o clock ?", "label": "get weather"}
+{"sentence": "how cold is it in princeton junction", "label": "get weather"}
+{"sentence": "weather in nationalpark nevado tres cruces on mar 4th 2020", "label": "get weather"}
+{"sentence": "i need to hear the song aspro mavro from bill szymczyk on youtube", "label": "play music"}
+{"sentence": "play yo ho from the new york pops on youtube", "label": "play music"}
+{"sentence": "play some seventies music by janne puurtinen on youtube", "label": "play music"}
+{"sentence": "play the música da série de filmes o hobbit album by alex otaola", "label": "play music"}
+{"sentence": "play the soft parade", "label": "play music"}
+{"sentence": "find the soundtrack titled this side of paradise", "label": "search creative work"}
+{"sentence": "find a book called the mad magician", "label": "search creative work"}
+{"sentence": "show creative work of through the back door", "label": "search creative work"}
+{"sentence": "where can i watch the television show you make me hate music", "label": "search creative work"}
+{"sentence": "play the news virginian song", "label": "search creative work"}
+{"sentence": "what are the movie schedule at malco theatres", "label": "search screening event"}
+{"sentence": "find time for trouble for two in one minute at landmark theatres", "label": "search screening event"}
+{"sentence": "please show me the movie schedule for movies playing in the neighborhood", "label": "search screening event"}
+{"sentence": "what time are the animated movies playing at mann theatres ?", "label": "search screening event"}
+{"sentence": "i m wondering what cinema is playing peters baby", "label": "search screening event"}
+{"sentence": "i need another artist in the new indie mix playlist", "label": "add to playlist"}
+{"sentence": "add the piano bar to my cindy wilson", "label": "add to playlist"}
+{"sentence": "add tune to my hype playlist", "label": "add to playlist"}
+{"sentence": "i want harris to be added to my latin dance cardio playlist", "label": "add to playlist"}
+{"sentence": "put this song on the chips and salsa playlist", "label": "add to playlist"}
+{"sentence": "rate this novel a 3", "label": "rate book"}
+{"sentence": "give 5 rating for this textbook", "label": "rate book"}
+{"sentence": "rate the current series 1 points", "label": "rate book"}
+{"sentence": "rate the current novel 1 of 6", "label": "rate book"}
+{"sentence": "give 0 out of 6 points to the paper men", "label": "rate book"}

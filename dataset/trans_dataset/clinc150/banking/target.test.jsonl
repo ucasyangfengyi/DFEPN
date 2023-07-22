@@ -1,0 +1,450 @@
+{"sentence": "can you please provide me with assistance in moving money from one account to another", "label": "transfer"}
+{"sentence": "i would like help moving money between accounts", "label": "transfer"}
+{"sentence": "can you assist me in moving money from one account to another", "label": "transfer"}
+{"sentence": "i would like help moving money from one account to another", "label": "transfer"}
+{"sentence": "i would like assistance moving money from one account to another", "label": "transfer"}
+{"sentence": "can i move some money around", "label": "transfer"}
+{"sentence": "can i make a transfer between my accounts", "label": "transfer"}
+{"sentence": "i need to make a transfer of my money", "label": "transfer"}
+{"sentence": "can i move some money between my two accounts", "label": "transfer"}
+{"sentence": "i would like to distribute some money between my accounts", "label": "transfer"}
+{"sentence": "i would like to transfer $100 from my checking to saving account", "label": "transfer"}
+{"sentence": "help me transfer $100 from my checking to saving account", "label": "transfer"}
+{"sentence": "transfer $100 from my checking to saving account", "label": "transfer"}
+{"sentence": "can you please help me move $100 from my checking to saving account", "label": "transfer"}
+{"sentence": "please move $100 from my checking to saving account", "label": "transfer"}
+{"sentence": "transfer seventeen dollars from rbs to woodforest account, please", "label": "transfer"}
+{"sentence": "send twelve dollars between cabelas and bank of london accounts, please", "label": "transfer"}
+{"sentence": "transfer ninety dollars between glacier checking and farmers accounts, please", "label": "transfer"}
+{"sentence": "transfer seventy dollars between national and citizens accounts", "label": "transfer"}
+{"sentence": "transfer four and sixty seven dollars from bank of oklahoma checking to security bank account", "label": "transfer"}
+{"sentence": "how much money can i transfer today", "label": "transfer"}
+{"sentence": "add funds to the retirement account from the pnc account only", "label": "transfer"}
+{"sentence": "would you move 100 dollars from the checking and put it into savings", "label": "transfer"}
+{"sentence": "repeat what the weather will be like", "label": "transfer"}
+{"sentence": "i would like to put 100 dollars from the checking into the savings account now", "label": "transfer"}
+{"sentence": "please transfer $5000 to money market from checking account", "label": "transfer"}
+{"sentence": "i need $360 transfered from savings to checking account", "label": "transfer"}
+{"sentence": "make an immediate transfer of ten thousand from money market to checking", "label": "transfer"}
+{"sentence": "i'd like to transfer $400 from household to savings account", "label": "transfer"}
+{"sentence": "transer $800 from my checking to savings account", "label": "transfer"}
+{"sentence": "what are my coffers at", "label": "balance"}
+{"sentence": "tell me the current balance of my bank accounts", "label": "balance"}
+{"sentence": "what's my current bank account total", "label": "balance"}
+{"sentence": "how much do i have in my bank accounts", "label": "balance"}
+{"sentence": "what's the balance in my bank accounts", "label": "balance"}
+{"sentence": "what do i have in my bank accounts right now", "label": "balance"}
+{"sentence": "is there enough in my wells fargo account to buy some nike's", "label": "balance"}
+{"sentence": "do i have enough in my wells fargo account to get some nike's", "label": "balance"}
+{"sentence": "do i have money in my wells fargo account for nike's", "label": "balance"}
+{"sentence": "i want some nike's, is there enough in my wells fargo account", "label": "balance"}
+{"sentence": "check my wells fargo account to see if i have enough for these nike's", "label": "balance"}
+{"sentence": "would you tell me my bank balance", "label": "balance"}
+{"sentence": "can you tell me my bank balance", "label": "balance"}
+{"sentence": "will you let me know my bank balance", "label": "balance"}
+{"sentence": "will you tell me my bank balance", "label": "balance"}
+{"sentence": "how much money is there in my bank accounts", "label": "balance"}
+{"sentence": "how much money do i have in my various bank accounts", "label": "balance"}
+{"sentence": "how much cash do i have in my various bank accounts", "label": "balance"}
+{"sentence": "how much cash do i have in my bank accounts", "label": "balance"}
+{"sentence": "how much dough do i have in my bank accounts", "label": "balance"}
+{"sentence": "whats the combined total of the money inside my bank accounts", "label": "balance"}
+{"sentence": "whats my bank accounts look like", "label": "balance"}
+{"sentence": "how much moola is in my bank accounts", "label": "balance"}
+{"sentence": "what the numerical number inside my bank accounts", "label": "balance"}
+{"sentence": "how much does my bank account have", "label": "balance"}
+{"sentence": "tell me the current account balance", "label": "balance"}
+{"sentence": "check my checking balance", "label": "balance"}
+{"sentence": "how much do i have left in my checking account", "label": "balance"}
+{"sentence": "what's my checking look like", "label": "balance"}
+{"sentence": "how much do i have in my savings account", "label": "balance"}
+{"sentence": "can you freeze my bank account", "label": "freeze_account"}
+{"sentence": "i want to freeze my bank account", "label": "freeze_account"}
+{"sentence": "i want my account locked out", "label": "freeze_account"}
+{"sentence": "stop all access to my account", "label": "freeze_account"}
+{"sentence": "i need my account frozen!", "label": "freeze_account"}
+{"sentence": "i need to lock my account right now!", "label": "freeze_account"}
+{"sentence": "please force my account to freeze", "label": "freeze_account"}
+{"sentence": "please stop my account", "label": "freeze_account"}
+{"sentence": "please allow my account to freeze", "label": "freeze_account"}
+{"sentence": "please put my account on hold", "label": "freeze_account"}
+{"sentence": "freeze my account at the bank immediately", "label": "freeze_account"}
+{"sentence": "would you be able to freeze my bank account", "label": "freeze_account"}
+{"sentence": "my account at the bank needs to be frozen", "label": "freeze_account"}
+{"sentence": "please block my discover account immediately", "label": "freeze_account"}
+{"sentence": "please put a block on my citi account immediately", "label": "freeze_account"}
+{"sentence": "block my american saving bank for now", "label": "freeze_account"}
+{"sentence": "block my bank of america immdediately", "label": "freeze_account"}
+{"sentence": "put a block on bank of amerian immediately", "label": "freeze_account"}
+{"sentence": "my account needs to be frozen", "label": "freeze_account"}
+{"sentence": "freeze my account for me", "label": "freeze_account"}
+{"sentence": "put a freeze on my account", "label": "freeze_account"}
+{"sentence": "could you please put a stop on my bank account", "label": "freeze_account"}
+{"sentence": "i need to put a stop on my bank account", "label": "freeze_account"}
+{"sentence": "are you able to put a stop on my bank account", "label": "freeze_account"}
+{"sentence": "please put a stop on my bank account", "label": "freeze_account"}
+{"sentence": "i am hoping you can put a stop on my bank account", "label": "freeze_account"}
+{"sentence": "please put a freeze on my banking account", "label": "freeze_account"}
+{"sentence": "i need my bank account frozen", "label": "freeze_account"}
+{"sentence": "how do i freeze my bank account", "label": "freeze_account"}
+{"sentence": "would you freeze my bank account", "label": "freeze_account"}
+{"sentence": "i need to know all my spending transactions", "label": "transactions"}
+{"sentence": "when did i last make a purchase", "label": "transactions"}
+{"sentence": "how much did i spend on my most recent transaction", "label": "transactions"}
+{"sentence": "show me my ten most recent transactions on account xyz", "label": "transactions"}
+{"sentence": "i want to see all transactions in the past month for all accounts", "label": "transactions"}
+{"sentence": "show me my recent transactions from account xyz", "label": "transactions"}
+{"sentence": "open bank app and show my most recent transactions", "label": "transactions"}
+{"sentence": "are you able to find my recent transactions for me", "label": "transactions"}
+{"sentence": "i made a transaction recently", "label": "transactions"}
+{"sentence": "what was my recent transaction", "label": "transactions"}
+{"sentence": "i want to know what my recent transaction was", "label": "transactions"}
+{"sentence": "i need information about my recent transaction", "label": "transactions"}
+{"sentence": "state recent transaction", "label": "transactions"}
+{"sentence": "is my visa bill over my limit this month", "label": "transactions"}
+{"sentence": "what have i spent things on", "label": "transactions"}
+{"sentence": "show my transactions", "label": "transactions"}
+{"sentence": "what were my last 10 charges on my credit card", "label": "transactions"}
+{"sentence": "show what i have spent things on", "label": "transactions"}
+{"sentence": "how much have i spent on my debit card this month", "label": "transactions"}
+{"sentence": "how much have i spent on my bank card sine i last paid my bill", "label": "transactions"}
+{"sentence": "how much was my last target trip", "label": "transactions"}
+{"sentence": "can you verify my recent visa card transaction", "label": "transactions"}
+{"sentence": "what was my recent transaction on my visa card", "label": "transactions"}
+{"sentence": "what is the last transaction on my visa card", "label": "transactions"}
+{"sentence": "show my my most recent visa card transaction", "label": "transactions"}
+{"sentence": "please review my recent visa card transaction", "label": "transactions"}
+{"sentence": "how many transactions do i have on flower shops from last wednesday between 2pm and 7pm", "label": "transactions"}
+{"sentence": "what transactions did i make on electronics this morning after 6am", "label": "transactions"}
+{"sentence": "what is the largest transaction i have made on video games this month", "label": "transactions"}
+{"sentence": "what transactions do i have on groceries from yesterday", "label": "transactions"}
+{"sentence": "i have a car payment that needs to be paid", "label": "pay_bill"}
+{"sentence": "i need to put in a payment towards my phone bill", "label": "pay_bill"}
+{"sentence": "help me get my gas bill paid", "label": "pay_bill"}
+{"sentence": "pay my con edison bill using my capital one account", "label": "pay_bill"}
+{"sentence": "use my navy federal account and pay this month's verizon bill, please", "label": "pay_bill"}
+{"sentence": "please pay my sprint bill using my bank of america checking account", "label": "pay_bill"}
+{"sentence": "i need some assistance paying my utilities bill", "label": "pay_bill"}
+{"sentence": "i need a hand getting this gas bill paid", "label": "pay_bill"}
+{"sentence": "can you help me pay my electricity bill", "label": "pay_bill"}
+{"sentence": "i have to pay my water bill but need help doing it", "label": "pay_bill"}
+{"sentence": "i am going to need help paying my rent bill", "label": "pay_bill"}
+{"sentence": "i want to pay my bill", "label": "pay_bill"}
+{"sentence": "can you help me pay my bill", "label": "pay_bill"}
+{"sentence": "i want to pay my bill through the app", "label": "pay_bill"}
+{"sentence": "pay my electric bill for me", "label": "pay_bill"}
+{"sentence": "pull up my electric bill, i want to pay it", "label": "pay_bill"}
+{"sentence": "how do i pay my electric bill", "label": "pay_bill"}
+{"sentence": "i want to pay my electric bill, can you do it for me", "label": "pay_bill"}
+{"sentence": "pay my light bill", "label": "pay_bill"}
+{"sentence": "pay my utility bill from my bank account", "label": "pay_bill"}
+{"sentence": "charge my internet bill to the corporate account", "label": "pay_bill"}
+{"sentence": "pay my gas bill with my checking account", "label": "pay_bill"}
+{"sentence": "i need to pay my electric bill", "label": "pay_bill"}
+{"sentence": "i know i should pay my electric bill", "label": "pay_bill"}
+{"sentence": "today my electric bill will be paid, or should be", "label": "pay_bill"}
+{"sentence": "today is the day i should pay my electric bill", "label": "pay_bill"}
+{"sentence": "my electric bill should be paid today", "label": "pay_bill"}
+{"sentence": "i need to pay my visa", "label": "pay_bill"}
+{"sentence": "pay $175 on my visa", "label": "pay_bill"}
+{"sentence": "i'd like to pay $4735 to my water bill", "label": "pay_bill"}
+{"sentence": "what's the total i've spent on shoes this month", "label": "spending_history"}
+{"sentence": "how many dollars have i spent on coffee this month", "label": "spending_history"}
+{"sentence": "what have i spent on food this month", "label": "spending_history"}
+{"sentence": "how much have i spent on tires this month", "label": "spending_history"}
+{"sentence": "how much have i been spending on booze this month", "label": "spending_history"}
+{"sentence": "what have i spent on fast food recently", "label": "spending_history"}
+{"sentence": "how much total have i spent on fast food lately", "label": "spending_history"}
+{"sentence": "how much fast food have i bought recently", "label": "spending_history"}
+{"sentence": "check how much i spent this week", "label": "spending_history"}
+{"sentence": "how much money have i spent on fast food lately", "label": "spending_history"}
+{"sentence": "how much money have a spent in the last week", "label": "spending_history"}
+{"sentence": "how much money did i spend this weekend", "label": "spending_history"}
+{"sentence": "tell me how much money i've spent on fast food in the past week", "label": "spending_history"}
+{"sentence": "what is the total amount i spent last week", "label": "spending_history"}
+{"sentence": "what've i spent on gas this month", "label": "spending_history"}
+{"sentence": "have i gone over my entertainment budget", "label": "spending_history"}
+{"sentence": "would you say i've spent too much money on chips as of late", "label": "spending_history"}
+{"sentence": "looking at this week only, have i overspent on hoagies", "label": "spending_history"}
+{"sentence": "do i overspend when it comes to fast food", "label": "spending_history"}
+{"sentence": "looking at the past month, what did i spend total", "label": "spending_history"}
+{"sentence": "have i gone over my chocolate budget lately", "label": "spending_history"}
+{"sentence": "how much have i spent this week", "label": "spending_history"}
+{"sentence": "about how much did i spend recently", "label": "spending_history"}
+{"sentence": "tell me how much i have been buying as of late", "label": "spending_history"}
+{"sentence": "what did i spend on beer last month", "label": "spending_history"}
+{"sentence": "did i stick to my dinner budget", "label": "spending_history"}
+{"sentence": "how much have i spent on video games recently", "label": "spending_history"}
+{"sentence": "do i spend too much on beer", "label": "spending_history"}
+{"sentence": "what are my finances like lately", "label": "spending_history"}
+{"sentence": "how much money have i spent recently", "label": "spending_history"}
+{"sentence": "when is my electric bill due by", "label": "bill_due"}
+{"sentence": "when is my car insurance bill due", "label": "bill_due"}
+{"sentence": "how long until my water bill is due", "label": "bill_due"}
+{"sentence": "what's the latest i can pay my cellular bill", "label": "bill_due"}
+{"sentence": "what's the due date for my netflix subscription", "label": "bill_due"}
+{"sentence": "tell me where i can find my exterminator bill's due date", "label": "bill_due"}
+{"sentence": "how do i locate the due date for my bug bill", "label": "bill_due"}
+{"sentence": "where can i see the due date for auto loan bill", "label": "bill_due"}
+{"sentence": "when is my cell phone due", "label": "bill_due"}
+{"sentence": "i need to know where my due date is for my lawn bill", "label": "bill_due"}
+{"sentence": "where can i find when my car payment bill is due", "label": "bill_due"}
+{"sentence": "what's the ultimate day for me to pay the internet bill", "label": "bill_due"}
+{"sentence": "tell me the last day i can pay my gas bill", "label": "bill_due"}
+{"sentence": "what's the due date for my comcast bill", "label": "bill_due"}
+{"sentence": "i need to know when my water bill is due", "label": "bill_due"}
+{"sentence": "please tell me how to find out when my rent is due", "label": "bill_due"}
+{"sentence": "i need to know when my electricity bill is due", "label": "bill_due"}
+{"sentence": "can you tell me when my cable bill is due", "label": "bill_due"}
+{"sentence": "i need to find out how to check the due date for the water bill", "label": "bill_due"}
+{"sentence": "when does the current billing cycle end", "label": "bill_due"}
+{"sentence": "is the bill due today", "label": "bill_due"}
+{"sentence": "is the bill due", "label": "bill_due"}
+{"sentence": "when do i have to pay my internet", "label": "bill_due"}
+{"sentence": "i want to know when the deadline is to pay my car loan", "label": "bill_due"}
+{"sentence": "tell me when my water bill is due", "label": "bill_due"}
+{"sentence": "what day of the month do i have to pay my mortgage", "label": "bill_due"}
+{"sentence": "when is my electricity due date", "label": "bill_due"}
+{"sentence": "i need to know the next billing date of my american express card", "label": "bill_due"}
+{"sentence": "when does my gas bill need paid by", "label": "bill_due"}
+{"sentence": "when is next month's cable bill due", "label": "bill_due"}
+{"sentence": "i need my routing number for my checking account at bb&t bank", "label": "routing"}
+{"sentence": "what is my routing number to my checking account at bb&t bankj", "label": "routing"}
+{"sentence": "tell me my routing number at my bank, community trust", "label": "routing"}
+{"sentence": "what is the routing number of my checking account at first national bankj", "label": "routing"}
+{"sentence": "give me the routing number of my checking account at my main bank, first commerce", "label": "routing"}
+{"sentence": "what is my bank routing number", "label": "routing"}
+{"sentence": "what's my routing number", "label": "routing"}
+{"sentence": "what's wells fargo's routing number", "label": "routing"}
+{"sentence": "tell me my routing number", "label": "routing"}
+{"sentence": "where can i find my routing number", "label": "routing"}
+{"sentence": "where's the routing number for wells fargo", "label": "routing"}
+{"sentence": "where can i find wells fargo's routing number", "label": "routing"}
+{"sentence": "where is wells fargo's routing number listed", "label": "routing"}
+{"sentence": "where should i go to find the routing number for well's fargo", "label": "routing"}
+{"sentence": "is my routing number on my account page", "label": "routing"}
+{"sentence": "what is the bank's routing number", "label": "routing"}
+{"sentence": "i want to know what my routing number is", "label": "routing"}
+{"sentence": "i need a routing number", "label": "routing"}
+{"sentence": "does pnc have a routing number", "label": "routing"}
+{"sentence": "can you tell me the routing number to pnc", "label": "routing"}
+{"sentence": "can you please read me the routing number to pnc", "label": "routing"}
+{"sentence": "where can i find routing number for pnc", "label": "routing"}
+{"sentence": "what is the routing number for pnc", "label": "routing"}
+{"sentence": "i need x's routing number", "label": "routing"}
+{"sentence": "where would century bank have their routing number listed", "label": "routing"}
+{"sentence": "where do i go if i am seeking the routing number of dallas capital", "label": "routing"}
+{"sentence": "what is the location that td bank has their routing number listed", "label": "routing"}
+{"sentence": "where would the routing number for first utah be located", "label": "routing"}
+{"sentence": "tell me what my savings account routing number is", "label": "routing"}
+{"sentence": "what is chase bank's routing number", "label": "routing"}
+{"sentence": "i'm struggling to remind myself the pin number to my card", "label": "pin_change"}
+{"sentence": "i'm having trouble remembering the pin number to my card", "label": "pin_change"}
+{"sentence": "the pin number to my card has been forgotten", "label": "pin_change"}
+{"sentence": "i don't remember the pin number to my card", "label": "pin_change"}
+{"sentence": "i do not recall the pin number to my card", "label": "pin_change"}
+{"sentence": "i would like to change the name on my checking account", "label": "pin_change"}
+{"sentence": "i would like to change the name on my credit card account", "label": "pin_change"}
+{"sentence": "i would like to change the name on my first hawaiian bank account", "label": "pin_change"}
+{"sentence": "i would like to change the name on my first bankcard account", "label": "pin_change"}
+{"sentence": "i would like to change the name on my capital one account", "label": "pin_change"}
+{"sentence": "change the pin on my savings account to 1234", "label": "pin_change"}
+{"sentence": "i want to change my savings account pin to 1234", "label": "pin_change"}
+{"sentence": "make 1234 a new pin for my savings account", "label": "pin_change"}
+{"sentence": "make 1234 the pin on my savings account", "label": "pin_change"}
+{"sentence": "can you make 1234 the pin for my savings account", "label": "pin_change"}
+{"sentence": "make my pin 1234 for my checking account", "label": "pin_change"}
+{"sentence": "go my to checking account and switch my pin to 1234", "label": "pin_change"}
+{"sentence": "access my checking account and update my pin to 1234", "label": "pin_change"}
+{"sentence": "correct my account pin to 1234 on my checking account", "label": "pin_change"}
+{"sentence": "modify my account pin to 1234 on my checking account", "label": "pin_change"}
+{"sentence": "tell me the pin number for my checking account", "label": "pin_change"}
+{"sentence": "please give me the pin number for my checking account", "label": "pin_change"}
+{"sentence": "i need the pin number for my checking account", "label": "pin_change"}
+{"sentence": "does my checking account have a pin number", "label": "pin_change"}
+{"sentence": "what's the pin number for my checking account", "label": "pin_change"}
+{"sentence": "change the code of my savings account to be 1234", "label": "pin_change"}
+{"sentence": "alter the pin on my savings account to be 1234", "label": "pin_change"}
+{"sentence": "what exactly is my pin", "label": "pin_change"}
+{"sentence": "how do i change the account pin number for me", "label": "pin_change"}
+{"sentence": "please tell me how do i change the account pin number", "label": "pin_change"}
+{"sentence": "why is my bank account locked", "label": "account_blocked"}
+{"sentence": "how do i unlock my bank account", "label": "account_blocked"}
+{"sentence": "can you unlock my bank account", "label": "account_blocked"}
+{"sentence": "how did my bank account get frozen", "label": "account_blocked"}
+{"sentence": "can you help me unlock my bank account", "label": "account_blocked"}
+{"sentence": "call my bank and ask them why my account is frozen", "label": "account_blocked"}
+{"sentence": "check with my bank to see why my account is frozen", "label": "account_blocked"}
+{"sentence": "do you know why my bank account is frozen", "label": "account_blocked"}
+{"sentence": "why did my bank place a hold on my bank account", "label": "account_blocked"}
+{"sentence": "are there any problems with my bank account", "label": "account_blocked"}
+{"sentence": "did someone who is unauthorized try to get into my bank account", "label": "account_blocked"}
+{"sentence": "how can i unfreeze my bank account", "label": "account_blocked"}
+{"sentence": "why is there a stop on my deposit account", "label": "account_blocked"}
+{"sentence": "why can't i use my money market account", "label": "account_blocked"}
+{"sentence": "why is there a delay on my checking account", "label": "account_blocked"}
+{"sentence": "why is my checking account not working", "label": "account_blocked"}
+{"sentence": "what could cause a hold on my savings account", "label": "account_blocked"}
+{"sentence": "what caused a hold on my us bank account", "label": "account_blocked"}
+{"sentence": "can you check and see why us bank put a hold on my account", "label": "account_blocked"}
+{"sentence": "why does us bank have a hold on my account", "label": "account_blocked"}
+{"sentence": "reasons that us bank would place a hold on my account", "label": "account_blocked"}
+{"sentence": "check to see why us bank placed a hold on my account", "label": "account_blocked"}
+{"sentence": "is there a problem with my account, it appears to be blocked", "label": "account_blocked"}
+{"sentence": "what is up with my account, why is it blocked", "label": "account_blocked"}
+{"sentence": "there seems to be an issue with my account", "label": "account_blocked"}
+{"sentence": "can you help me unblock my account", "label": "account_blocked"}
+{"sentence": "can you check what the problem with my account is, it seems to b e blocked", "label": "account_blocked"}
+{"sentence": "is there a reason you put a hold on my chase account", "label": "account_blocked"}
+{"sentence": "why can't i access my chase account", "label": "account_blocked"}
+{"sentence": "how come my chase account has a hold on it", "label": "account_blocked"}
+{"sentence": "i want to report fraudulent activity on my navy federal card", "label": "report_fraud"}
+{"sentence": "i would like to report fraudulent activity on my chase card", "label": "report_fraud"}
+{"sentence": "i need to report fraudulent activity on my usaa card", "label": "report_fraud"}
+{"sentence": "i have to report fraudulent activity on my bank of the west card", "label": "report_fraud"}
+{"sentence": "i have to report fraudulent activity the bank of america card", "label": "report_fraud"}
+{"sentence": "i seem to have a purchase that i didn't make from olive garden on my account", "label": "report_fraud"}
+{"sentence": "my online bill has some items that i didn't purchase from penneys", "label": "report_fraud"}
+{"sentence": "my account shows a transaction that i didn't make from foot locker", "label": "report_fraud"}
+{"sentence": "my bill shows a purchase from payless shoes but i didn't buy anything", "label": "report_fraud"}
+{"sentence": "i have some charges on my account from old navy that aren't mine", "label": "report_fraud"}
+{"sentence": "this charge is bs", "label": "report_fraud"}
+{"sentence": "i have a bogus transaction from amazon on my account", "label": "report_fraud"}
+{"sentence": "i have a fraudulent buy from dave's video on my account", "label": "report_fraud"}
+{"sentence": "i have a crap transaction from guitar center on my account", "label": "report_fraud"}
+{"sentence": "i think this transaction is bogus", "label": "report_fraud"}
+{"sentence": "i don't remember buying this", "label": "report_fraud"}
+{"sentence": "i have a bs transaction from ebay on my account", "label": "report_fraud"}
+{"sentence": "i've got a fraudulent purchase from kayak on my account", "label": "report_fraud"}
+{"sentence": "do i have a fraudulent transaction on my account", "label": "report_fraud"}
+{"sentence": "i'm pretty sure i have a fraudulent transaction on my account", "label": "report_fraud"}
+{"sentence": "there's a false charge on my account from mcdonald's", "label": "report_fraud"}
+{"sentence": "i think there's a fraudulent charge from mcdonald's on my account", "label": "report_fraud"}
+{"sentence": "i think someone jacked my bank account", "label": "report_fraud"}
+{"sentence": "i saw suspicious activity on my bank account", "label": "report_fraud"}
+{"sentence": "someone else used my account to buy stuff from mcdonald's", "label": "report_fraud"}
+{"sentence": "there's a messed up transaction on my account from mcdonald's", "label": "report_fraud"}
+{"sentence": "i saw a fraudulent transaction", "label": "report_fraud"}
+{"sentence": "i have a false charge on my account from mcdonald's", "label": "report_fraud"}
+{"sentence": "who do i contact to report fraud on my visa", "label": "report_fraud"}
+{"sentence": "there has been unauthorized use of my visa", "label": "report_fraud"}
+{"sentence": "i must pay verizon what minimum amount on my bill", "label": "min_payment"}
+{"sentence": "what is the lowest amount i must pay on my verizon bill", "label": "min_payment"}
+{"sentence": "at a minimum, what must i pay on my verizon bill", "label": "min_payment"}
+{"sentence": "what is my minimum verizon bill payment", "label": "min_payment"}
+{"sentence": "what must i pay, at a minimum, on my verizon bill", "label": "min_payment"}
+{"sentence": "what's the least i can pay this month", "label": "min_payment"}
+{"sentence": "what is my amex minimum payment", "label": "min_payment"}
+{"sentence": "what's the minimum payment", "label": "min_payment"}
+{"sentence": "what is my minimum payment and when is it due", "label": "min_payment"}
+{"sentence": "is there a minimum payment i can make", "label": "min_payment"}
+{"sentence": "what is the lowest amount i can pay for my cellphone bill", "label": "min_payment"}
+{"sentence": "what is the lowest amount i can pay for my insurance bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my credit card bill", "label": "min_payment"}
+{"sentence": "what is the lowest amount i can pay for my medical bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my phone bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my insurance bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my electric bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my gas bill", "label": "min_payment"}
+{"sentence": "what is the lowest amount i can pay for my hospital bill", "label": "min_payment"}
+{"sentence": "what is the lowest amount i can pay for my car bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my cell phone bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my water bill", "label": "min_payment"}
+{"sentence": "what is the minimum i can pay on my heating bill", "label": "min_payment"}
+{"sentence": "tell me the minimum i can pay on my utilities bill", "label": "min_payment"}
+{"sentence": "what is the minimum amount i can pay on my gas bill", "label": "min_payment"}
+{"sentence": "do you know the smallest amount i can pay on my water bill", "label": "min_payment"}
+{"sentence": "look up the lowest amount i can pay on my electricity bill", "label": "min_payment"}
+{"sentence": "what is the minimum payable amount for my rent bill this month", "label": "min_payment"}
+{"sentence": "what is the minimum payment on my water bill", "label": "min_payment"}
+{"sentence": "if i wanted to spend the lowest for my electric bill, then how much would it be", "label": "min_payment"}
+{"sentence": "what's my bank of america account getting in interest", "label": "interest_rate"}
+{"sentence": "where do i see what interest my mortgage has", "label": "interest_rate"}
+{"sentence": "is there somewhere my personal loan displays the interest rate i'm paying on it", "label": "interest_rate"}
+{"sentence": "what's the apr on my savings account", "label": "interest_rate"}
+{"sentence": "what interest rate am i getting from bank of america", "label": "interest_rate"}
+{"sentence": "what interest rate am i getting from wells fargo", "label": "interest_rate"}
+{"sentence": "what interest rate is bofi giving me on my cd", "label": "interest_rate"}
+{"sentence": "how do i find the interest rate for my checking account", "label": "interest_rate"}
+{"sentence": "what interest rate am i getting from citrix", "label": "interest_rate"}
+{"sentence": "how can i tell what the interest rate on my money market account is", "label": "interest_rate"}
+{"sentence": "what's my checking account yielding in interest", "label": "interest_rate"}
+{"sentence": "how much interest is my nfcu accrueing", "label": "interest_rate"}
+{"sentence": "what interest rate am i getting from sunflower bank", "label": "interest_rate"}
+{"sentence": "where do i go to find the interest rate on my savings account", "label": "interest_rate"}
+{"sentence": "what interest rate am i getting from nfcu", "label": "interest_rate"}
+{"sentence": "for my savings account i would like to know the interest rate", "label": "interest_rate"}
+{"sentence": "i need my checking account's interest rate", "label": "interest_rate"}
+{"sentence": "tell me the interest for my savings account", "label": "interest_rate"}
+{"sentence": "what's the interest rate on my savings account", "label": "interest_rate"}
+{"sentence": "i want the interest rate for my checking account", "label": "interest_rate"}
+{"sentence": "can i get the interest rate for my checking account", "label": "interest_rate"}
+{"sentence": "i need to get the interest rate of my savings account", "label": "interest_rate"}
+{"sentence": "what's my savings account interest", "label": "interest_rate"}
+{"sentence": "what's my savings account interest rate", "label": "interest_rate"}
+{"sentence": "i would like the interest rate for my savings account", "label": "interest_rate"}
+{"sentence": "what amount of interest does my checking account earn", "label": "interest_rate"}
+{"sentence": "what does my checking account at chase earn in interest", "label": "interest_rate"}
+{"sentence": "what amount of interest does my checking account at chase earn", "label": "interest_rate"}
+{"sentence": "what interest rate does my checking account come with", "label": "interest_rate"}
+{"sentence": "what does chase pay in interest per year", "label": "interest_rate"}
+{"sentence": "what do i owe to jcp", "label": "bill_balance"}
+{"sentence": "what is the amount due on my visa", "label": "bill_balance"}
+{"sentence": "how much do i owe visa", "label": "bill_balance"}
+{"sentence": "how much do you think my rent and electric bills are", "label": "bill_balance"}
+{"sentence": "what would you say my gas and phone bills are at", "label": "bill_balance"}
+{"sentence": "i need to know the price of my car payment and insurance please", "label": "bill_balance"}
+{"sentence": "what price is my credit card and my water bill at", "label": "bill_balance"}
+{"sentence": "how much is my water and sewer", "label": "bill_balance"}
+{"sentence": "how much do i need to pay for my electricity and water bills", "label": "bill_balance"}
+{"sentence": "what is the cost of my rent and water bills", "label": "bill_balance"}
+{"sentence": "how much are my rent and cable", "label": "bill_balance"}
+{"sentence": "how much does my water and electricity cost", "label": "bill_balance"}
+{"sentence": "what do i owe this month on all my bills", "label": "bill_balance"}
+{"sentence": "i think all my bills are paid, but can you double check", "label": "bill_balance"}
+{"sentence": "i think i owe about 100 left on my bills, am i forgetting anything", "label": "bill_balance"}
+{"sentence": "what are my bills this month", "label": "bill_balance"}
+{"sentence": "what does my cable bill look like", "label": "bill_balance"}
+{"sentence": "has my electricity bill increased this month how much", "label": "bill_balance"}
+{"sentence": "how expensive is my internet", "label": "bill_balance"}
+{"sentence": "how much will my monthly bill be", "label": "bill_balance"}
+{"sentence": "what are my total bills this month", "label": "bill_balance"}
+{"sentence": "what will i be paying for utilities this month", "label": "bill_balance"}
+{"sentence": "how much is my telephone bill this month", "label": "bill_balance"}
+{"sentence": "how much is due for my water bill", "label": "bill_balance"}
+{"sentence": "how much do i have to pay this month", "label": "bill_balance"}
+{"sentence": "tell me my water bill please", "label": "bill_balance"}
+{"sentence": "is the phone bill the same as last month", "label": "bill_balance"}
+{"sentence": "whens my insurance due and how much does it cost", "label": "bill_balance"}
+{"sentence": "how much is the car bill this month", "label": "bill_balance"}
+{"sentence": "what is the electricity bill", "label": "bill_balance"}
+{"sentence": "can i get some more checkbooks sent to me, please", "label": "order_checks"}
+{"sentence": "could i get some more checkbooks sent to me", "label": "order_checks"}
+{"sentence": "can i get some more checkbooks mailed to me, please", "label": "order_checks"}
+{"sentence": "can i get some more checkbooks sent to me", "label": "order_checks"}
+{"sentence": "could i get some more checkbooks sent to me, please", "label": "order_checks"}
+{"sentence": "how do i order some checkbooks for my chase account", "label": "order_checks"}
+{"sentence": "for checkbooks can i order them for my chase account", "label": "order_checks"}
+{"sentence": "am i able to order more checkbooks for my chase account", "label": "order_checks"}
+{"sentence": "for my chase account can i order some checkbooks", "label": "order_checks"}
+{"sentence": "is there a way to order checkbooks for a chase account", "label": "order_checks"}
+{"sentence": "can you overnight me a few checkbooks", "label": "order_checks"}
+{"sentence": "send me more checkbooks please", "label": "order_checks"}
+{"sentence": "please mail me more checkbooks", "label": "order_checks"}
+{"sentence": "i need more checkbooks mailed as soon as possible", "label": "order_checks"}
+{"sentence": "i'd like more checkbooks mailed to me", "label": "order_checks"}
+{"sentence": "how do i order some more checks for my bank of the west account", "label": "order_checks"}
+{"sentence": "how do i order some more checks for my bank of america account", "label": "order_checks"}
+{"sentence": "how do i order some more checks for my chase account", "label": "order_checks"}
+{"sentence": "how do i order some more checks for my usaa account", "label": "order_checks"}
+{"sentence": "how do i order some more checks for my navy federal account", "label": "order_checks"}
+{"sentence": "i'm out of all my checks can i get some new ones", "label": "order_checks"}
+{"sentence": "i'm out of my checks i need some new ones", "label": "order_checks"}
+{"sentence": "can i get some new checks i'm out of mine", "label": "order_checks"}
+{"sentence": "i need to order some new checks, i'm all out of them", "label": "order_checks"}
+{"sentence": "i am in need of new checks i'm completely out of mine", "label": "order_checks"}
+{"sentence": "may i order more checks for my well's fargo account", "label": "order_checks"}
+{"sentence": "do you know how i order more checks for my well's fargo account", "label": "order_checks"}
+{"sentence": "what do i do to order new checkbooks for my well's fargo account", "label": "order_checks"}
+{"sentence": "how do i order more checkbooks for my well's fargo account", "label": "order_checks"}
+{"sentence": "where do i go to order more checks for my well's fargo account", "label": "order_checks"}

@@ -1,0 +1,450 @@
+{"sentence": "how can i increase my credit score", "label": "improve_credit_score"}
+{"sentence": "how can i raise my credit score", "label": "improve_credit_score"}
+{"sentence": "how can i contribute to my credit score", "label": "improve_credit_score"}
+{"sentence": "how is it possible to get a better credit score", "label": "improve_credit_score"}
+{"sentence": "how can i up my credit score", "label": "improve_credit_score"}
+{"sentence": "can you explain to me how i might boost my credit score", "label": "improve_credit_score"}
+{"sentence": "my credit score stinks but i don't know how to improve it", "label": "improve_credit_score"}
+{"sentence": "what preventative measures can i take to avoid a low credit score", "label": "improve_credit_score"}
+{"sentence": "how can i keep my credit score from falling", "label": "improve_credit_score"}
+{"sentence": "give me some ideas for boosting my credit score", "label": "improve_credit_score"}
+{"sentence": "how can i prevent my credit score from dropping", "label": "improve_credit_score"}
+{"sentence": "what steps can i take to build my credit score", "label": "improve_credit_score"}
+{"sentence": "give me some tips on building up my credit score", "label": "improve_credit_score"}
+{"sentence": "how can i rehabilitate my poor credit score", "label": "improve_credit_score"}
+{"sentence": "give me some ideas of how to avoid my credit score lowering", "label": "improve_credit_score"}
+{"sentence": "give me tips on improving my credit score", "label": "improve_credit_score"}
+{"sentence": "what steps should i take if i want to ensure my credit score doesn't drop", "label": "improve_credit_score"}
+{"sentence": "can you tell me some strategies for raising my credit score", "label": "improve_credit_score"}
+{"sentence": "i want to know how i can build up a good credit score", "label": "improve_credit_score"}
+{"sentence": "\"what's the method to improve credit score", "label": "improve_credit_score"}
+{"sentence": "\"which is the best way to improve the credit score", "label": "improve_credit_score"}
+{"sentence": "\"which could be improve the credit score", "label": "improve_credit_score"}
+{"sentence": "\"when the credit score improve", "label": "improve_credit_score"}
+{"sentence": "\"where is improve the credit score", "label": "improve_credit_score"}
+{"sentence": "it is damaging to my credit score if i miss one credit card payment", "label": "improve_credit_score"}
+{"sentence": "i have a revolving store card and defaulted so will my fico score be affected", "label": "improve_credit_score"}
+{"sentence": "will my fico score decrease if i increase my student loan debt", "label": "improve_credit_score"}
+{"sentence": "if i lose my job will my credit score go down", "label": "improve_credit_score"}
+{"sentence": "can i hurt my credit rating if i open several credit cards in a short time frame", "label": "improve_credit_score"}
+{"sentence": "will only having five late payments really make my credit bad", "label": "improve_credit_score"}
+{"sentence": "how long does it take for a credit card to be reissued and mailed to me", "label": "replacement_card_duration"}
+{"sentence": "can credit card companies expedite delivery of reissued credit cards", "label": "replacement_card_duration"}
+{"sentence": "can you call the help desk line for my credit card company", "label": "replacement_card_duration"}
+{"sentence": "how can i request a new credit card", "label": "replacement_card_duration"}
+{"sentence": "what's the phone number for my credit card company", "label": "replacement_card_duration"}
+{"sentence": "i recently lost my credit card and need to know how long it takes to get a new one mailed to me", "label": "replacement_card_duration"}
+{"sentence": "i need to know the time it takes to get a new credit card sent to someone who lost theirs", "label": "replacement_card_duration"}
+{"sentence": "i lost my credit card recently  how long does take to get a new one in the mail", "label": "replacement_card_duration"}
+{"sentence": "what is amount of time it takes to get a new credit card i lost mine recently", "label": "replacement_card_duration"}
+{"sentence": "what is the time frame for sending a customer who lost their credit card a new one", "label": "replacement_card_duration"}
+{"sentence": "will i get getting my new card anytime soon", "label": "replacement_card_duration"}
+{"sentence": "what is the shipping status of my replacement card", "label": "replacement_card_duration"}
+{"sentence": "how long until i get my replacement card", "label": "replacement_card_duration"}
+{"sentence": "when is my new card expected to arrive", "label": "replacement_card_duration"}
+{"sentence": "is my replacement card due to arrive in the mail today", "label": "replacement_card_duration"}
+{"sentence": "how long before my new card is mailed to me", "label": "replacement_card_duration"}
+{"sentence": "what is the shipping time for my card", "label": "replacement_card_duration"}
+{"sentence": "how much time before my new card is mailed to me", "label": "replacement_card_duration"}
+{"sentence": "how long does it take to get a new credit card", "label": "replacement_card_duration"}
+{"sentence": "time to order and receive a new credit card", "label": "replacement_card_duration"}
+{"sentence": "when will i received a replacement card", "label": "replacement_card_duration"}
+{"sentence": "time to replace my credit card", "label": "replacement_card_duration"}
+{"sentence": "how long before the replacement card is mailed to me", "label": "replacement_card_duration"}
+{"sentence": "how much longer before the card is mailed to me", "label": "replacement_card_duration"}
+{"sentence": "how long will it takes to get a new credit card", "label": "replacement_card_duration"}
+{"sentence": "what is the shipping wait for my card", "label": "replacement_card_duration"}
+{"sentence": "when will the replaecment card arrive", "label": "replacement_card_duration"}
+{"sentence": "let me know the wait on a replacement credit card", "label": "replacement_card_duration"}
+{"sentence": "let me know when the replacement card will arrive", "label": "replacement_card_duration"}
+{"sentence": "how soon can i expect a replacement card for my lost card to arrive", "label": "replacement_card_duration"}
+{"sentence": "how is the status of my credit card application coming along", "label": "application_status"}
+{"sentence": "what exactly is the status of my application for the credit card", "label": "application_status"}
+{"sentence": "i need to know the status of my credit card application", "label": "application_status"}
+{"sentence": "i would like to know the status of my credit card application", "label": "application_status"}
+{"sentence": "let me know if my application for american saving bank", "label": "application_status"}
+{"sentence": "check the status of my credit card application for me", "label": "application_status"}
+{"sentence": "i want to know if my credit card application has been processed", "label": "application_status"}
+{"sentence": "i want to know the status of my credit card application", "label": "application_status"}
+{"sentence": "can you check if my credit card application has been processed", "label": "application_status"}
+{"sentence": "i want to know how is my credit card application going", "label": "application_status"}
+{"sentence": "can you let me know the status of my discover credit card application status", "label": "application_status"}
+{"sentence": "can you tell me the status of my credit card application", "label": "application_status"}
+{"sentence": "has my application for american express gone through yet", "label": "application_status"}
+{"sentence": "let me know about the status of my credit card application", "label": "application_status"}
+{"sentence": "can you please tell me about the status of my credit card application", "label": "application_status"}
+{"sentence": "can you please let me know the status of my capital one application", "label": "application_status"}
+{"sentence": "let me know the credit card application status", "label": "application_status"}
+{"sentence": "has my application for discover card gone through yet", "label": "application_status"}
+{"sentence": "can you tell me the credit card application status", "label": "application_status"}
+{"sentence": "has my application for the hsbc card been approved yet", "label": "application_status"}
+{"sentence": "please tell me if my application for the hsbc card has gone through yet", "label": "application_status"}
+{"sentence": "how far has my application for the hsbc card gone till now", "label": "application_status"}
+{"sentence": "what's the status on my application for the hsbc credit card", "label": "application_status"}
+{"sentence": "how far has my application for the hsbc card proceeded till now", "label": "application_status"}
+{"sentence": "did the application for my visa card finish", "label": "application_status"}
+{"sentence": "has my mastercard application gone through the process", "label": "application_status"}
+{"sentence": "has my mastercard application gone through yet", "label": "application_status"}
+{"sentence": "has my application for my visa card gone through", "label": "application_status"}
+{"sentence": "has my mastercard application been processed", "label": "application_status"}
+{"sentence": "when will i know if my visa card application was approved", "label": "application_status"}
+{"sentence": "x card has earned how many points", "label": "rewards_balance"}
+{"sentence": "can you give me a points update on my rewards plus card", "label": "rewards_balance"}
+{"sentence": "can you pull up how many points i've earned with travel card", "label": "rewards_balance"}
+{"sentence": "what is the updated points that i earned with synovus card", "label": "rewards_balance"}
+{"sentence": "how many points do i have on my six flags rewards card", "label": "rewards_balance"}
+{"sentence": "i would like to check my rewards for my credit card", "label": "rewards_balance"}
+{"sentence": "i need to check my rewards for my credit card", "label": "rewards_balance"}
+{"sentence": "i wanna know how many points have i earned with my credit card", "label": "rewards_balance"}
+{"sentence": "i would like to know my debit card's rewards balance", "label": "rewards_balance"}
+{"sentence": "i would like to know how many points have i earned with my credit card", "label": "rewards_balance"}
+{"sentence": "i need to know my credit card's rewards balance", "label": "rewards_balance"}
+{"sentence": "i wanna know my credit card's rewards balance", "label": "rewards_balance"}
+{"sentence": "i really need to check my rewards for my credit card", "label": "rewards_balance"}
+{"sentence": "i would like to check my rewards for my debit card", "label": "rewards_balance"}
+{"sentence": "i wish to know my debit card's rewards balance", "label": "rewards_balance"}
+{"sentence": "i wanna check my rewards for my credit card", "label": "rewards_balance"}
+{"sentence": "tell me my debit card's rewards balance", "label": "rewards_balance"}
+{"sentence": "i need to understand how many points have i earned with my credit card", "label": "rewards_balance"}
+{"sentence": "i must know how many points have i earned with my credit card", "label": "rewards_balance"}
+{"sentence": "i gotta know how many points i have gotten with my debit card", "label": "rewards_balance"}
+{"sentence": "how many points earned do i have with my american express card", "label": "rewards_balance"}
+{"sentence": "how many points have i earned with my paypal credit card so far", "label": "rewards_balance"}
+{"sentence": "i have points on my capital one card and i'd like to know how many i've earned", "label": "rewards_balance"}
+{"sentence": "have i earned points with my venture card, and how many", "label": "rewards_balance"}
+{"sentence": "what do my visa points look like", "label": "rewards_balance"}
+{"sentence": "how many points do i have on my visa", "label": "rewards_balance"}
+{"sentence": "tell me the number of points on my visa card", "label": "rewards_balance"}
+{"sentence": "give me the point total on my visa card", "label": "rewards_balance"}
+{"sentence": "what points have i earned on my visa", "label": "rewards_balance"}
+{"sentence": "how many rewards points do i have on my rewards points i have on my mastercard", "label": "rewards_balance"}
+{"sentence": "i would like to know my credit score", "label": "credit_score"}
+{"sentence": "tell me what my credit score is", "label": "credit_score"}
+{"sentence": "can you find what my credit score is", "label": "credit_score"}
+{"sentence": "how is my credit score numberwise", "label": "credit_score"}
+{"sentence": "what credit score number do i have", "label": "credit_score"}
+{"sentence": "what is my credit score number", "label": "credit_score"}
+{"sentence": "how much is my credit score", "label": "credit_score"}
+{"sentence": "what number is my credit score currently", "label": "credit_score"}
+{"sentence": "is my credit score over 700 yet", "label": "credit_score"}
+{"sentence": "please give me my current credit score", "label": "credit_score"}
+{"sentence": "i'm trying to raise my credit score can you tell me what it is now", "label": "credit_score"}
+{"sentence": "i need to know what my credit score is", "label": "credit_score"}
+{"sentence": "could you tell me what my credit score is", "label": "credit_score"}
+{"sentence": "give me my credit score please", "label": "credit_score"}
+{"sentence": "could you share my credit score", "label": "credit_score"}
+{"sentence": "how's my credit score", "label": "credit_score"}
+{"sentence": "i was wondering what my credit score is", "label": "credit_score"}
+{"sentence": "where do i go for my credit score", "label": "credit_score"}
+{"sentence": "i need to find my credit score", "label": "credit_score"}
+{"sentence": "how can i locate my credit score", "label": "credit_score"}
+{"sentence": "what is my credit rating", "label": "credit_score"}
+{"sentence": "i want to know my credit rating", "label": "credit_score"}
+{"sentence": "my credit rating is what", "label": "credit_score"}
+{"sentence": "tell me my credit raing", "label": "credit_score"}
+{"sentence": "give me my credit rating", "label": "credit_score"}
+{"sentence": "please tell me what my credit score is", "label": "credit_score"}
+{"sentence": "i'd like you to check on my credit score", "label": "credit_score"}
+{"sentence": "let me know what my credit score is today", "label": "credit_score"}
+{"sentence": "can you check my credit score", "label": "credit_score"}
+{"sentence": "can you check my credit score for me", "label": "credit_score"}
+{"sentence": "i would like to get a new credt card", "label": "new_card"}
+{"sentence": "i would love to get a new credit card", "label": "new_card"}
+{"sentence": "do you have any information on how to open a new credit card", "label": "new_card"}
+{"sentence": "tell me how to apply for a new credit card", "label": "new_card"}
+{"sentence": "tell me how to apply for a credit card", "label": "new_card"}
+{"sentence": "i want to know how to go about getting a new credit card", "label": "new_card"}
+{"sentence": "please tell me how to get a new credit card", "label": "new_card"}
+{"sentence": "am i eligible for a new credit card", "label": "new_card"}
+{"sentence": "i need to get a new credit card application", "label": "new_card"}
+{"sentence": "what's the best way to get a mastercard", "label": "new_card"}
+{"sentence": "is this where i apply for a new credit card", "label": "new_card"}
+{"sentence": "how do i apply do get myself a visa", "label": "new_card"}
+{"sentence": "can you complete an application for a new credit card for me", "label": "new_card"}
+{"sentence": "i need to get a mastercard somehow", "label": "new_card"}
+{"sentence": "how can i get a visa card", "label": "new_card"}
+{"sentence": "can i apply here for a new card", "label": "new_card"}
+{"sentence": "does bank of america give credit cards to people like me", "label": "new_card"}
+{"sentence": "what do i do to get a visa card", "label": "new_card"}
+{"sentence": "is it possible for me to get a better credit card", "label": "new_card"}
+{"sentence": "how do i submit an application for a discover card", "label": "new_card"}
+{"sentence": "how do i apply for american express", "label": "new_card"}
+{"sentence": "find out if there's a new credit card that suits me", "label": "new_card"}
+{"sentence": "how do i apply for a new credit card", "label": "new_card"}
+{"sentence": "what's it take to get a mastercard", "label": "new_card"}
+{"sentence": "can i apply for a visa card", "label": "new_card"}
+{"sentence": "how do i apply for a visa card", "label": "new_card"}
+{"sentence": "i wish to apply for a visa card", "label": "new_card"}
+{"sentence": "help me apply for a visa card", "label": "new_card"}
+{"sentence": "is there a list of good credit cards i can choose from to apply for", "label": "new_card"}
+{"sentence": "how can i find a new credit card to apply to", "label": "new_card"}
+{"sentence": "you need to tell me my credit card's apr", "label": "apr"}
+{"sentence": "now tell me my credit card's apr", "label": "apr"}
+{"sentence": "i need to know the apr on my wells fargo credit card", "label": "apr"}
+{"sentence": "tell me my chase credit card's apr", "label": "apr"}
+{"sentence": "tell me what my wells fargo credit card apr is", "label": "apr"}
+{"sentence": "what is my b of a credit card's apr", "label": "apr"}
+{"sentence": "can you tell me the apr of my target credit card", "label": "apr"}
+{"sentence": "what is my apr rate", "label": "apr"}
+{"sentence": "is my apr rate above average", "label": "apr"}
+{"sentence": "does my apr rate suck", "label": "apr"}
+{"sentence": "what is my card's apr rate", "label": "apr"}
+{"sentence": "is my apr rate better than most", "label": "apr"}
+{"sentence": "what's my credit card's annual percentage rate", "label": "apr"}
+{"sentence": "what's the annual percentage rate for my credit card", "label": "apr"}
+{"sentence": "how high is the apr on my credit card", "label": "apr"}
+{"sentence": "what's the apr on my credit card", "label": "apr"}
+{"sentence": "how much am i paying for apr on my credit card", "label": "apr"}
+{"sentence": "is my card's apr a decent rate", "label": "apr"}
+{"sentence": "can you tell me my apr on my credit card", "label": "apr"}
+{"sentence": "would you consider my apr to be good", "label": "apr"}
+{"sentence": "what's the current apr on my credit card", "label": "apr"}
+{"sentence": "what kind of credit card apr do i get", "label": "apr"}
+{"sentence": "what's my apr rate", "label": "apr"}
+{"sentence": "tell me my apr rate", "label": "apr"}
+{"sentence": "could you share my credit card's apr", "label": "apr"}
+{"sentence": "is my apr rate good", "label": "apr"}
+{"sentence": "i need to know what the current apr is for my chase sapphire, please", "label": "apr"}
+{"sentence": "can you find me the apr listed on the statement for my citi mastercard", "label": "apr"}
+{"sentence": "what's the apr on my capital one venture card", "label": "apr"}
+{"sentence": "inform me on what my credit card's apr is", "label": "apr"}
+{"sentence": "i need to tell you about my lost card", "label": "report_lost_card"}
+{"sentence": "i lost my card, what do i do next", "label": "report_lost_card"}
+{"sentence": "i have lost my card, what am i supposed to do", "label": "report_lost_card"}
+{"sentence": "where do i report that my card was lost", "label": "report_lost_card"}
+{"sentence": "who do i speak with about my card that was lost", "label": "report_lost_card"}
+{"sentence": "please help me report my lost card", "label": "report_lost_card"}
+{"sentence": "set up a report for a lost card", "label": "report_lost_card"}
+{"sentence": "can you report a lost card for me", "label": "report_lost_card"}
+{"sentence": "i lost my card and need to report it", "label": "report_lost_card"}
+{"sentence": "what is the process for reporting my card as lost", "label": "report_lost_card"}
+{"sentence": "someone used my chase card without my authorization", "label": "report_lost_card"}
+{"sentence": "can you tell me how to report a card lost", "label": "report_lost_card"}
+{"sentence": "please tell me how to go about reporting a lost card", "label": "report_lost_card"}
+{"sentence": "search steps for how to report a card lost", "label": "report_lost_card"}
+{"sentence": "i need to to know how to report a lost card", "label": "report_lost_card"}
+{"sentence": "my bank of america visa platinum was swiped from my belongings", "label": "report_lost_card"}
+{"sentence": "who do i call to report my card as lost", "label": "report_lost_card"}
+{"sentence": "what should i do if i need to report my card lost", "label": "report_lost_card"}
+{"sentence": "my capital one visa was taken without permission", "label": "report_lost_card"}
+{"sentence": "i need to report that someone ran off with my td bank card earlier", "label": "report_lost_card"}
+{"sentence": "what steps do i need to take to report a card lost", "label": "report_lost_card"}
+{"sentence": "i would like to report my american express card stolen", "label": "report_lost_card"}
+{"sentence": "how do i report that i lost my card", "label": "report_lost_card"}
+{"sentence": "how do i report that i actually lost my card", "label": "report_lost_card"}
+{"sentence": "how do i report that i lost the card", "label": "report_lost_card"}
+{"sentence": "how do i report my very lost card", "label": "report_lost_card"}
+{"sentence": "how do i report the card as lost", "label": "report_lost_card"}
+{"sentence": "lost report card, need new one", "label": "report_lost_card"}
+{"sentence": "my report card was stolen", "label": "report_lost_card"}
+{"sentence": "my report card was lost help!", "label": "report_lost_card"}
+{"sentence": "tell me how to go about reporting a damaged card", "label": "damaged_card"}
+{"sentence": "my card is damaged", "label": "damaged_card"}
+{"sentence": "i want to report a damaged card", "label": "damaged_card"}
+{"sentence": "where should i report a damaged card", "label": "damaged_card"}
+{"sentence": "can you find out how to report a damaged card", "label": "damaged_card"}
+{"sentence": "my card has become too frayed and torn to use", "label": "damaged_card"}
+{"sentence": "what do i do about a card that's too messed up to be properly scanned", "label": "damaged_card"}
+{"sentence": "my card became damaged when i dropped it in the parking lot and it got ran over", "label": "damaged_card"}
+{"sentence": "i have a damaged card that needs replaced because my son dropped it in a blender", "label": "damaged_card"}
+{"sentence": "i sat on my credit card and broke it in half and need it replaced", "label": "damaged_card"}
+{"sentence": "my credit card got torn and i need a new one", "label": "damaged_card"}
+{"sentence": "what do i do with a damaged credit card", "label": "damaged_card"}
+{"sentence": "how do i replace a damaged card", "label": "damaged_card"}
+{"sentence": "i have a card that needs replaced because my wine dumped wine on it", "label": "damaged_card"}
+{"sentence": "i spilled wine on my credit card and now its all mushy and needs to be replaced", "label": "damaged_card"}
+{"sentence": "my dog swallowed my credit card and i need a new one", "label": "damaged_card"}
+{"sentence": "i want to report a damaged card that my cat shredded with its claws", "label": "damaged_card"}
+{"sentence": "i need to replace a card that my daughter spilled juice on", "label": "damaged_card"}
+{"sentence": "i'm unable to use my card because it's been ruined", "label": "damaged_card"}
+{"sentence": "i can't use my card because it’s damaged badly", "label": "damaged_card"}
+{"sentence": "i cannot use my card cuz it's damaged", "label": "damaged_card"}
+{"sentence": "i can't use my card because it’s messed up", "label": "damaged_card"}
+{"sentence": "i can't use my card because it’s broken", "label": "damaged_card"}
+{"sentence": "i can't use my card because i damaged it", "label": "damaged_card"}
+{"sentence": "who should i talk to about the fact that i inadvertently split my card almost in half", "label": "damaged_card"}
+{"sentence": "i accidentally deactivated the magnetic stripe on my visa debit card and i need to report it", "label": "damaged_card"}
+{"sentence": "can i talk to someone to let them know my card was damaged from being melted on a radiator", "label": "damaged_card"}
+{"sentence": "i would like to report a damaged card that was burnt", "label": "damaged_card"}
+{"sentence": "i would like to report my card damaged since i accidentally spilled gorilla glue all over it and the numbers are now obscured", "label": "damaged_card"}
+{"sentence": "my visa has been damaged", "label": "damaged_card"}
+{"sentence": "what's the most i can charge on my card", "label": "credit_limit"}
+{"sentence": "how much do i have available on my visa card", "label": "credit_limit"}
+{"sentence": "what is my visa credit limit", "label": "credit_limit"}
+{"sentence": "how much of a credit limit does visa allow", "label": "credit_limit"}
+{"sentence": "is there a substantial credit limit on my visa", "label": "credit_limit"}
+{"sentence": "as my visa got a high enough limit on it", "label": "credit_limit"}
+{"sentence": "what is my credit max", "label": "credit_limit"}
+{"sentence": "what is my credit card spending limit", "label": "credit_limit"}
+{"sentence": "what's my daily spending limit", "label": "credit_limit"}
+{"sentence": "tell me my credit limit", "label": "credit_limit"}
+{"sentence": "how much credit do i have on my discover card", "label": "credit_limit"}
+{"sentence": "do i have a monthly spending limit", "label": "credit_limit"}
+{"sentence": "what's the limit on my discover card", "label": "credit_limit"}
+{"sentence": "is there a spending limit", "label": "credit_limit"}
+{"sentence": "what is my credit limit on my discover", "label": "credit_limit"}
+{"sentence": "what's my spending limit on my discover", "label": "credit_limit"}
+{"sentence": "how much is my maximum to spend on credit cards", "label": "credit_limit"}
+{"sentence": "what's my discover credit limit", "label": "credit_limit"}
+{"sentence": "how much can i use on my visa", "label": "credit_limit"}
+{"sentence": "my visa has what limit", "label": "credit_limit"}
+{"sentence": "tell me my visa limit", "label": "credit_limit"}
+{"sentence": "look up how high my visa limit is", "label": "credit_limit"}
+{"sentence": "what is the limit on my visa", "label": "credit_limit"}
+{"sentence": "what is my state bank of india card credit limit", "label": "credit_limit"}
+{"sentence": "calculate the limit i have available for spending on my natwest card", "label": "credit_limit"}
+{"sentence": "tell me my hsbc card credit limit", "label": "credit_limit"}
+{"sentence": "what's the spending limit on my lloyds card", "label": "credit_limit"}
+{"sentence": "i need you to tell me the credit limit for my republic bank card", "label": "credit_limit"}
+{"sentence": "how high is my credit limit", "label": "credit_limit"}
+{"sentence": "i want to know my credit limit", "label": "credit_limit"}
+{"sentence": "will i be charged transaction fees if i use my american card internationally", "label": "international_fees"}
+{"sentence": "will i incur transaction fees if i use my american card internationally", "label": "international_fees"}
+{"sentence": "do i have transaction fees if i use my american card internationally", "label": "international_fees"}
+{"sentence": "could you find out if my bank charges transaction fees on my american card if use internationally", "label": "international_fees"}
+{"sentence": "will the bank charge transaction fees if i use my american card internationally", "label": "international_fees"}
+{"sentence": "do i get charged extra for using my card in portland", "label": "international_fees"}
+{"sentence": "will i get charged for using my credit card in portland", "label": "international_fees"}
+{"sentence": "if i'm in portland can i still use my card without getting charged extra", "label": "international_fees"}
+{"sentence": "is there a fee for using my card in portland", "label": "international_fees"}
+{"sentence": "does using my card in portland charge me extra", "label": "international_fees"}
+{"sentence": "what are the transaction fees associated with my discover card if i am in rome", "label": "international_fees"}
+{"sentence": "how many transaction fees are there when i use my discover card in rome", "label": "international_fees"}
+{"sentence": "are there transaction fees for discover cards used in rome", "label": "international_fees"}
+{"sentence": "will using a discover card in rome cause transaction fees", "label": "international_fees"}
+{"sentence": "do i have transaction fees when i use my discover card in rome", "label": "international_fees"}
+{"sentence": "are there transaction fees using my discover if i'm in cuba", "label": "international_fees"}
+{"sentence": "when i go to cuba will there be a transaction fee for using my discover card", "label": "international_fees"}
+{"sentence": "is there a fee to use my card in france", "label": "international_fees"}
+{"sentence": "will i be charged a transaction fee on my discover card in cuba", "label": "international_fees"}
+{"sentence": "is there a charge to use my card in france", "label": "international_fees"}
+{"sentence": "if i use my discover card in cuba are there transaction fees", "label": "international_fees"}
+{"sentence": "are there transaction fees in cuba for using my discover card", "label": "international_fees"}
+{"sentence": "so i get charged if i use my card in france", "label": "international_fees"}
+{"sentence": "is there an international charge for using my card in france", "label": "international_fees"}
+{"sentence": "is there a fee if i use my card in france", "label": "international_fees"}
+{"sentence": "is there a charge to use my card in croatia", "label": "international_fees"}
+{"sentence": "in x, will i be charged to use my card", "label": "international_fees"}
+{"sentence": "in x, what is the charge if i use my card", "label": "international_fees"}
+{"sentence": "if i use my card in x, will there be a charge", "label": "international_fees"}
+{"sentence": "will it cost me anything to use my card in turin", "label": "international_fees"}
+{"sentence": "when can i change my credit limit", "label": "credit_limit_change"}
+{"sentence": "can i change my credit limit", "label": "credit_limit_change"}
+{"sentence": "can i get more credit", "label": "credit_limit_change"}
+{"sentence": "i need to change the credit limit i have", "label": "credit_limit_change"}
+{"sentence": "you need to tell me how to increase credit limit for my chase card", "label": "credit_limit_change"}
+{"sentence": "need to increase credit limit for chase card", "label": "credit_limit_change"}
+{"sentence": "i need to increase credit limit for my chase card", "label": "credit_limit_change"}
+{"sentence": "please tell me how to increase credit limit for the chase card", "label": "credit_limit_change"}
+{"sentence": "tell me how to increase credit limit for chase card", "label": "credit_limit_change"}
+{"sentence": "is it possible for me to increase my credit limit by 500 dollars", "label": "credit_limit_change"}
+{"sentence": "can my credit limit be increased by 500 dollars", "label": "credit_limit_change"}
+{"sentence": "i would like to increase my credit limit, can i do so by 500 dollars", "label": "credit_limit_change"}
+{"sentence": "may i increase my credit limit by 500 dollars", "label": "credit_limit_change"}
+{"sentence": "could i perhaps increase by credit limit by 500 dollars", "label": "credit_limit_change"}
+{"sentence": "can i increase the credit limit on my mastercard", "label": "credit_limit_change"}
+{"sentence": "can i increase the credit limit on my visa card", "label": "credit_limit_change"}
+{"sentence": "can i increase the credit limit on my discover card", "label": "credit_limit_change"}
+{"sentence": "can i increase the credit limit on my capital one card", "label": "credit_limit_change"}
+{"sentence": "can i increase the credit limit on my travel rewards card", "label": "credit_limit_change"}
+{"sentence": "how can i get my credit limit to be increased to $1000", "label": "credit_limit_change"}
+{"sentence": "can you get my credit limit increased to $1000", "label": "credit_limit_change"}
+{"sentence": "how do i get my credit limit increased to $1000", "label": "credit_limit_change"}
+{"sentence": "how do i ask for a limit increase on my discover card", "label": "credit_limit_change"}
+{"sentence": "can i get my limit increased on my discover card", "label": "credit_limit_change"}
+{"sentence": "how can i get a limit increase on my discover card", "label": "credit_limit_change"}
+{"sentence": "who do i need to contact to ask for a credit limit increase on my discover card", "label": "credit_limit_change"}
+{"sentence": "can you increase my credit limit to $1000", "label": "credit_limit_change"}
+{"sentence": "can my credit limit be increased to $1000", "label": "credit_limit_change"}
+{"sentence": "how do i adjust my credit limit", "label": "credit_limit_change"}
+{"sentence": "how can i increase the credit limit on my discover card", "label": "credit_limit_change"}
+{"sentence": "how do i get stuff with visa points", "label": "redeem_rewards"}
+{"sentence": "what are my mastercard points good for", "label": "redeem_rewards"}
+{"sentence": "how many points do i have to cash", "label": "redeem_rewards"}
+{"sentence": "where can i cash out my card points", "label": "redeem_rewards"}
+{"sentence": "what do i have to do to use my credit points acquired through purchases", "label": "redeem_rewards"}
+{"sentence": "how do i use my card reward points for my next flight", "label": "redeem_rewards"}
+{"sentence": "how do i go about getting cash for my card points accumulated", "label": "redeem_rewards"}
+{"sentence": "tell me how to get my points from credit card use cashed in", "label": "redeem_rewards"}
+{"sentence": "i want to use my card reward points", "label": "redeem_rewards"}
+{"sentence": "can i redeem my points by transferring them to someone as a gift", "label": "redeem_rewards"}
+{"sentence": "can i redeem my points on gas", "label": "redeem_rewards"}
+{"sentence": "can i redeem my points for flights", "label": "redeem_rewards"}
+{"sentence": "can i get cash back for my points", "label": "redeem_rewards"}
+{"sentence": "can i use my points to pay my credit card", "label": "redeem_rewards"}
+{"sentence": "what are the steps to get my rewards for my visa card", "label": "redeem_rewards"}
+{"sentence": "how can i cash out my rewards for a visa card", "label": "redeem_rewards"}
+{"sentence": "how can i claim my rewards for my visa card", "label": "redeem_rewards"}
+{"sentence": "how can i get my rewards for my master card", "label": "redeem_rewards"}
+{"sentence": "where would i get my rewards for my master card", "label": "redeem_rewards"}
+{"sentence": "let me cash my credit rewards", "label": "redeem_rewards"}
+{"sentence": "help me redeem my reward points", "label": "redeem_rewards"}
+{"sentence": "put in a request for cashing in credit points", "label": "redeem_rewards"}
+{"sentence": "i want to use my credit rewards now", "label": "redeem_rewards"}
+{"sentence": "i need to use my credit points", "label": "redeem_rewards"}
+{"sentence": "i need to redeem my visa points", "label": "redeem_rewards"}
+{"sentence": "whats the policy to redeem my visa reward points", "label": "redeem_rewards"}
+{"sentence": "what can i get with my mastercard points", "label": "redeem_rewards"}
+{"sentence": "how do i cash in my amex reward points", "label": "redeem_rewards"}
+{"sentence": "how do i redeem my visa points", "label": "redeem_rewards"}
+{"sentence": "i want to shop using credit card points", "label": "redeem_rewards"}
+{"sentence": "i want to bring my card on the texas trip in june, will it be expired by then", "label": "expiration_date"}
+{"sentence": "what's the month, year, and day that my card expires", "label": "expiration_date"}
+{"sentence": "does my card ending in 1234, or any of my cards, expire soon", "label": "expiration_date"}
+{"sentence": "does my card have an expiration date and if so, what is it", "label": "expiration_date"}
+{"sentence": "when does my card expire, the one ending in 1234", "label": "expiration_date"}
+{"sentence": "give me my credit card expiration date", "label": "expiration_date"}
+{"sentence": "what is the expiration month and year on my credit car", "label": "expiration_date"}
+{"sentence": "when is the date of expiration for my first bank card", "label": "expiration_date"}
+{"sentence": "what is the expiration month of my card", "label": "expiration_date"}
+{"sentence": "what is the expiration date of my credit card", "label": "expiration_date"}
+{"sentence": "let me know when my credit card expire", "label": "expiration_date"}
+{"sentence": "when will my citi card expire", "label": "expiration_date"}
+{"sentence": "when is my credit card expire", "label": "expiration_date"}
+{"sentence": "when is the expiration month for my card", "label": "expiration_date"}
+{"sentence": "when is the expiration date of my credit card", "label": "expiration_date"}
+{"sentence": "what is the expiration date on my chase card", "label": "expiration_date"}
+{"sentence": "when is the expiration date for me discover", "label": "expiration_date"}
+{"sentence": "when it my citi card expired", "label": "expiration_date"}
+{"sentence": "when is my card expired", "label": "expiration_date"}
+{"sentence": "tell me the expiration date on my credit card", "label": "expiration_date"}
+{"sentence": "what month is my card expired in", "label": "expiration_date"}
+{"sentence": "how soon does my credit card expire", "label": "expiration_date"}
+{"sentence": "when will my new credit card arrive", "label": "expiration_date"}
+{"sentence": "what month does my credit card expire", "label": "expiration_date"}
+{"sentence": "what is the date when my visa card will expire", "label": "expiration_date"}
+{"sentence": "can you tell me what the date of expiry for my visa card is", "label": "expiration_date"}
+{"sentence": "tell me the expiration date for my visa card", "label": "expiration_date"}
+{"sentence": "show me the expiration date for my visa card", "label": "expiration_date"}
+{"sentence": "where should i look for my credit card expiration day", "label": "expiration_date"}
+{"sentence": "when will my credit card no longer be good", "label": "expiration_date"}
+{"sentence": "my card got declined; why", "label": "card_declined"}
+{"sentence": "can you help me understand why my card got declined", "label": "card_declined"}
+{"sentence": "why was my card not accepted", "label": "card_declined"}
+{"sentence": "can you tell me why my card got declined", "label": "card_declined"}
+{"sentence": "i was at publix trying to buy some food but my card wouldnt work", "label": "card_declined"}
+{"sentence": "who do i need to contact to find out why my card got declined", "label": "card_declined"}
+{"sentence": "i need to know why my card got declined", "label": "card_declined"}
+{"sentence": "how do i fix my card, it was declined", "label": "card_declined"}
+{"sentence": "why did my card get declined at public when i was trying to buy food", "label": "card_declined"}
+{"sentence": "i was trying to buy food at publix but my card got declined", "label": "card_declined"}
+{"sentence": "i was trying to use my card to get food at publix but it got declined", "label": "card_declined"}
+{"sentence": "how can i fix my card being declined", "label": "card_declined"}
+{"sentence": "i was trying to get food at publix, why was my card declined", "label": "card_declined"}
+{"sentence": "do you know why my card got declined", "label": "card_declined"}
+{"sentence": "why my card stop working", "label": "card_declined"}
+{"sentence": "my card declined", "label": "card_declined"}
+{"sentence": "i was in australia trying to buy chips and my cards got declined", "label": "card_declined"}
+{"sentence": "i was in thailand trying to buy candies and my card got declined", "label": "card_declined"}
+{"sentence": "why was my card got declined when i am trying to pay for dinner when i am in vietnam", "label": "card_declined"}
+{"sentence": "i could not buy food using my card when i was in vietnam", "label": "card_declined"}
+{"sentence": "i was in thailand and i could not use my card to buy snacks", "label": "card_declined"}
+{"sentence": "can you explain why i couldn't use my card at target", "label": "card_declined"}
+{"sentence": "why was my card not working at target", "label": "card_declined"}
+{"sentence": "my credit card was turned down at target and i'd like to know why", "label": "card_declined"}
+{"sentence": "how come i got declined", "label": "card_declined"}
+{"sentence": "why can't i use my credit card", "label": "card_declined"}
+{"sentence": "why won't you let me pay with my credit card", "label": "card_declined"}
+{"sentence": "why did i get rejected on my card", "label": "card_declined"}
+{"sentence": "how come my credit card isn't working", "label": "card_declined"}
+{"sentence": "why didn't my card work", "label": "card_declined"}

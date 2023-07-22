@@ -1,0 +1,450 @@
+{"sentence": "i would like to change my insurance policy", "label": "insurance_change"}
+{"sentence": "can i edit my insurance policy", "label": "insurance_change"}
+{"sentence": "i am interested in a new insurance plan", "label": "insurance_change"}
+{"sentence": "i really would like to get a new insurance plan", "label": "insurance_change"}
+{"sentence": "i am in the market for a new insurance plan", "label": "insurance_change"}
+{"sentence": "is there a way to alter my insurance policy", "label": "insurance_change"}
+{"sentence": "how can i change to new insurance plan", "label": "insurance_change"}
+{"sentence": "help me find a new insurance plan", "label": "insurance_change"}
+{"sentence": "can i update my insurance policy", "label": "insurance_change"}
+{"sentence": "who do i contact about updating my insurance", "label": "insurance_change"}
+{"sentence": "can you help me change my insurance policy", "label": "insurance_change"}
+{"sentence": "i need to change my insurance policy, do you know how", "label": "insurance_change"}
+{"sentence": "what are the steps to change my insurance policy", "label": "insurance_change"}
+{"sentence": "do you know how i can change my insurance policy", "label": "insurance_change"}
+{"sentence": "how to i change the policy on my insurace", "label": "insurance_change"}
+{"sentence": "what do i need to do to get new insurance", "label": "insurance_change"}
+{"sentence": "do you know how i get new insurance", "label": "insurance_change"}
+{"sentence": "what is the protocol for getting new insurance", "label": "insurance_change"}
+{"sentence": "let me know the process for new insurance", "label": "insurance_change"}
+{"sentence": "i want to sign up for a new allstate insurance plan", "label": "insurance_change"}
+{"sentence": "i need to sign up for a new allstate plan", "label": "insurance_change"}
+{"sentence": "what is the procedure for signing up for a new allstate plan", "label": "insurance_change"}
+{"sentence": "how do i sign up for a new allstatedplan", "label": "insurance_change"}
+{"sentence": "i want to change to a new allstate insurance plan", "label": "insurance_change"}
+{"sentence": "i want a new insurance plan", "label": "insurance_change"}
+{"sentence": "what if i want to switch insurance plans", "label": "insurance_change"}
+{"sentence": "is there a way to get a new insurance plan", "label": "insurance_change"}
+{"sentence": "i want to switch to a new insurance plan", "label": "insurance_change"}
+{"sentence": "how do i switch insurance plans", "label": "insurance_change"}
+{"sentence": "phone number to state farm to change insurance", "label": "insurance_change"}
+{"sentence": "please help me set up a vacation request", "label": "pto_request"}
+{"sentence": "how does one go about putting in a vacation request", "label": "pto_request"}
+{"sentence": "how do i put in a vacation request", "label": "pto_request"}
+{"sentence": "walk me through on how to make a vacation request", "label": "pto_request"}
+{"sentence": "please put in a vacation request", "label": "pto_request"}
+{"sentence": "how is a vacation request done", "label": "pto_request"}
+{"sentence": "how is a vacation request made", "label": "pto_request"}
+{"sentence": "what is the process of making a vacation request", "label": "pto_request"}
+{"sentence": "how would one make a vacation request", "label": "pto_request"}
+{"sentence": "can i put in a pto request for september 1st to september 8th", "label": "pto_request"}
+{"sentence": "if i want to make a vacation request, how do i do it", "label": "pto_request"}
+{"sentence": "can i put in a pto request for august 1st to august 10th", "label": "pto_request"}
+{"sentence": "can i put in a pto request for january 4th to january 9th", "label": "pto_request"}
+{"sentence": "can i put in a pto request for december 3rd to december 10th", "label": "pto_request"}
+{"sentence": "can i put in a pto request for december 25th to january 1st", "label": "pto_request"}
+{"sentence": "can i take pto from the end of the month to the 5th of the next month", "label": "pto_request"}
+{"sentence": "can you help me plan a vacation", "label": "pto_request"}
+{"sentence": "it it possible to take pto from the 8th to the 11th", "label": "pto_request"}
+{"sentence": "is it ok if i use some of my pto on may 24th to may 29th", "label": "pto_request"}
+{"sentence": "what do i do to set up a vacation", "label": "pto_request"}
+{"sentence": "i need to use pto on october 5th to october 10th", "label": "pto_request"}
+{"sentence": "how do i plan a vacation", "label": "pto_request"}
+{"sentence": "can i put in a pto request for monday to wednesday", "label": "pto_request"}
+{"sentence": "can i purchase a vacation using this", "label": "pto_request"}
+{"sentence": "how do i get help with a vacation itinerary", "label": "pto_request"}
+{"sentence": "how do i request a vacation", "label": "pto_request"}
+{"sentence": "i'd like to request a vacation", "label": "pto_request"}
+{"sentence": "i need to request a vacation", "label": "pto_request"}
+{"sentence": "vacation request information", "label": "pto_request"}
+{"sentence": "vacation request please", "label": "pto_request"}
+{"sentence": "how long until my paycheck shows up", "label": "payday"}
+{"sentence": "can you tell me the date of my last check", "label": "payday"}
+{"sentence": "what was the date when i last go paid", "label": "payday"}
+{"sentence": "what's the date on my last pay stub", "label": "payday"}
+{"sentence": "when can i expect my paycheck", "label": "payday"}
+{"sentence": "when is the next time i'll receive a paycheck", "label": "payday"}
+{"sentence": "when did i last collect my salary", "label": "payday"}
+{"sentence": "when do i next get paid", "label": "payday"}
+{"sentence": "when is my paycheck arriving", "label": "payday"}
+{"sentence": "what day is payday", "label": "payday"}
+{"sentence": "do you know when my next check is coming", "label": "payday"}
+{"sentence": "when do i get my next paycheck", "label": "payday"}
+{"sentence": "when's pay day for me", "label": "payday"}
+{"sentence": "i need to know when i get paid next", "label": "payday"}
+{"sentence": "when's my next pay day", "label": "payday"}
+{"sentence": "what day's my pay coming next", "label": "payday"}
+{"sentence": "when do i get paid for my work", "label": "payday"}
+{"sentence": "look up when my payday is supposed to be", "label": "payday"}
+{"sentence": "when can i expect to be paid", "label": "payday"}
+{"sentence": "look up the date for my next payday", "label": "payday"}
+{"sentence": "what day will i earn my payment from work", "label": "payday"}
+{"sentence": "find out when my next upcoming payday will be", "label": "payday"}
+{"sentence": "when is the next payday i can look forward to", "label": "payday"}
+{"sentence": "what day can i expect to receive payment on", "label": "payday"}
+{"sentence": "when will my next paycheck be coming", "label": "payday"}
+{"sentence": "when will my payment be deposited", "label": "payday"}
+{"sentence": "when do i get my next pay check", "label": "payday"}
+{"sentence": "is it payday", "label": "payday"}
+{"sentence": "do you know when i'll receive my next paycheck", "label": "payday"}
+{"sentence": "what date do i get paid", "label": "payday"}
+{"sentence": "i heard i can transfer my 401k, but don't know how, do you", "label": "rollover_401k"}
+{"sentence": "i need some help with transferring my 401k, can you help", "label": "rollover_401k"}
+{"sentence": "can you tell me how to transfer my 401k", "label": "rollover_401k"}
+{"sentence": "i want to transfer my 401k", "label": "rollover_401k"}
+{"sentence": "i wanna transfer my 401k", "label": "rollover_401k"}
+{"sentence": "i have to rollover my 401k", "label": "rollover_401k"}
+{"sentence": "i must rollover my 401k", "label": "rollover_401k"}
+{"sentence": "i want help to transfer my 401k", "label": "rollover_401k"}
+{"sentence": "help me to transfer my 401k", "label": "rollover_401k"}
+{"sentence": "i will rollover my 401k", "label": "rollover_401k"}
+{"sentence": "i need help to transfer my 401k", "label": "rollover_401k"}
+{"sentence": "i want to rollover my 401k", "label": "rollover_401k"}
+{"sentence": "how do i transfer my 401k to a new firm", "label": "rollover_401k"}
+{"sentence": "how do i roll over my 401k", "label": "rollover_401k"}
+{"sentence": "can i move my 401k to an ira", "label": "rollover_401k"}
+{"sentence": "how do i do a 401(k) rollover", "label": "rollover_401k"}
+{"sentence": "can 401ks be moved", "label": "rollover_401k"}
+{"sentence": "can i transfer my 401k somewhere", "label": "rollover_401k"}
+{"sentence": "how do i switch 401k companies", "label": "rollover_401k"}
+{"sentence": "tell me how to roll over my 401k", "label": "rollover_401k"}
+{"sentence": "how can i transfer my 401k", "label": "rollover_401k"}
+{"sentence": "what are the steps to rollover my 401k", "label": "rollover_401k"}
+{"sentence": "my 401k, can i roll it over", "label": "rollover_401k"}
+{"sentence": "i want to rollover my 401k , can i", "label": "rollover_401k"}
+{"sentence": "help me rollover my 401k", "label": "rollover_401k"}
+{"sentence": "do you know the process to rollover my 401k", "label": "rollover_401k"}
+{"sentence": "tell me how to rollover my 401k", "label": "rollover_401k"}
+{"sentence": "my 401k needs to rollover and i need your help", "label": "rollover_401k"}
+{"sentence": "let me know how to rollover my 401k", "label": "rollover_401k"}
+{"sentence": "what do i have to do to transfer my 401k", "label": "rollover_401k"}
+{"sentence": "did my vacation get approval", "label": "pto_request_status"}
+{"sentence": "do you know if vacation got approved", "label": "pto_request_status"}
+{"sentence": "does my vacation have approval", "label": "pto_request_status"}
+{"sentence": "can you let me know if my vacation was approved", "label": "pto_request_status"}
+{"sentence": "any news on my vacation", "label": "pto_request_status"}
+{"sentence": "tell me if my vacation was approved yet", "label": "pto_request_status"}
+{"sentence": "was there any progress on my vacation request", "label": "pto_request_status"}
+{"sentence": "is my vacation approved", "label": "pto_request_status"}
+{"sentence": "is my request going to be approved for vacation", "label": "pto_request_status"}
+{"sentence": "is vacation a go", "label": "pto_request_status"}
+{"sentence": "will i get my time off approved", "label": "pto_request_status"}
+{"sentence": "how is my vacation looking", "label": "pto_request_status"}
+{"sentence": "did the manager approve my vacation yet", "label": "pto_request_status"}
+{"sentence": "any new info on my vacation", "label": "pto_request_status"}
+{"sentence": "any update on my vacation", "label": "pto_request_status"}
+{"sentence": "is there a status update on my vacation approval", "label": "pto_request_status"}
+{"sentence": "can you notify me when my vacation days have approved", "label": "pto_request_status"}
+{"sentence": "when will my vacation time be confirmed", "label": "pto_request_status"}
+{"sentence": "when will i hear back about my days off", "label": "pto_request_status"}
+{"sentence": "am i okay to take those vacation days", "label": "pto_request_status"}
+{"sentence": "has my vacation time been approved", "label": "pto_request_status"}
+{"sentence": "what is the day off request status as of now", "label": "pto_request_status"}
+{"sentence": "what is the day off request status please", "label": "pto_request_status"}
+{"sentence": "what is the day off request status if you would tell me", "label": "pto_request_status"}
+{"sentence": "what is the day off request status", "label": "pto_request_status"}
+{"sentence": "what is the day off request status if you could tell me", "label": "pto_request_status"}
+{"sentence": "i need to know status of my day off request", "label": "pto_request_status"}
+{"sentence": "i want to know the status of my vacation request", "label": "pto_request_status"}
+{"sentence": "tell me status of my day off request", "label": "pto_request_status"}
+{"sentence": "please let me know the status of my vacation request", "label": "pto_request_status"}
+{"sentence": "which insurance plan to i have", "label": "insurance"}
+{"sentence": "do you know which insurance plan i have", "label": "insurance"}
+{"sentence": "what kind of insurance plan am i in", "label": "insurance"}
+{"sentence": "what health coverage do i have", "label": "insurance"}
+{"sentence": "what are the details on my health care plan", "label": "insurance"}
+{"sentence": "which insurance plan am i enrolled in", "label": "insurance"}
+{"sentence": "what is my health insurance", "label": "insurance"}
+{"sentence": "what insurance plan am i enrolled in", "label": "insurance"}
+{"sentence": "check on my health care plan", "label": "insurance"}
+{"sentence": "what's my health insurance plan", "label": "insurance"}
+{"sentence": "what sort of health benefits do i have", "label": "insurance"}
+{"sentence": "which health plan do i have, again", "label": "insurance"}
+{"sentence": "tell me about my health benefits", "label": "insurance"}
+{"sentence": "what's the name of my health insurance plan", "label": "insurance"}
+{"sentence": "explain my health benefits", "label": "insurance"}
+{"sentence": "what are my health insurance benefits", "label": "insurance"}
+{"sentence": "what specific health plan do i have", "label": "insurance"}
+{"sentence": "tell me the full name of my health plan", "label": "insurance"}
+{"sentence": "how do my health benefits work", "label": "insurance"}
+{"sentence": "can you tell me what health plan i am on", "label": "insurance"}
+{"sentence": "tell me my current health plan", "label": "insurance"}
+{"sentence": "which health plan am i currently enrolled in", "label": "insurance"}
+{"sentence": "i want to know what health plan i'm currently on", "label": "insurance"}
+{"sentence": "could you please inform me what health plan i am currently on", "label": "insurance"}
+{"sentence": "what are the benefits associated with my insurance", "label": "insurance"}
+{"sentence": "what are the benefits of having this insurance", "label": "insurance"}
+{"sentence": "what are my benefits with this insurance", "label": "insurance"}
+{"sentence": "what are my benefits on the insurance", "label": "insurance"}
+{"sentence": "google find out what health plan i am under", "label": "insurance"}
+{"sentence": "tell me what health plan coverage i have", "label": "insurance"}
+{"sentence": "how many days did i take off", "label": "pto_used"}
+{"sentence": "tell me how many days i took off", "label": "pto_used"}
+{"sentence": "so how many days did i take off sir", "label": "pto_used"}
+{"sentence": "so how many days did i take off", "label": "pto_used"}
+{"sentence": "i need to know how many days i toof off", "label": "pto_used"}
+{"sentence": "what is the total number of days that i have taken off work since january", "label": "pto_used"}
+{"sentence": "how many days off have i taken so far this year", "label": "pto_used"}
+{"sentence": "i want to know how many days off are listed on my time off sheet that i have taken this year", "label": "pto_used"}
+{"sentence": "tell me how many days off you see that i have taken so far this year please", "label": "pto_used"}
+{"sentence": "can you look and see how many days off i have taken so far since january", "label": "pto_used"}
+{"sentence": "check how many days off i've taken", "label": "pto_used"}
+{"sentence": "how many hours of pto have i used", "label": "pto_used"}
+{"sentence": "how much pto is gone", "label": "pto_used"}
+{"sentence": "see how many days i've taken off so far", "label": "pto_used"}
+{"sentence": "how much of my pto is left", "label": "pto_used"}
+{"sentence": "how much of my pto is gone", "label": "pto_used"}
+{"sentence": "please let me know how many days i've taken off", "label": "pto_used"}
+{"sentence": "what is the amount of my taken off days so far", "label": "pto_used"}
+{"sentence": "i need to know how many days off i have used so far", "label": "pto_used"}
+{"sentence": "how many days off have i taken until right now", "label": "pto_used"}
+{"sentence": "notify me how many days off i have used so far", "label": "pto_used"}
+{"sentence": "tell me how many days off i have taken so far", "label": "pto_used"}
+{"sentence": "i want to know how many days off i have utilized until now", "label": "pto_used"}
+{"sentence": "how much so far pto have i used", "label": "pto_used"}
+{"sentence": "i have used how much pto so far", "label": "pto_used"}
+{"sentence": "pto i have used so far is how much", "label": "pto_used"}
+{"sentence": "pto so far i have used is how much", "label": "pto_used"}
+{"sentence": "so far how much pto have i used", "label": "pto_used"}
+{"sentence": "how many vacation days i have used", "label": "pto_used"}
+{"sentence": "i want to know how many vacation days i have used", "label": "pto_used"}
+{"sentence": "what site can i get my w2", "label": "w2"}
+{"sentence": "where do we get our w2 forms", "label": "w2"}
+{"sentence": "where can i get my w2", "label": "w2"}
+{"sentence": "where can i get my w2 from", "label": "w2"}
+{"sentence": "i would like to know where i can find my w2 for tax reasons", "label": "w2"}
+{"sentence": "what steps do i need to take to obtain my w2 for taxes", "label": "w2"}
+{"sentence": "what do i do if i need my w2 for my my taxes", "label": "w2"}
+{"sentence": "how can i get get a copy of my w2 for tax purposes", "label": "w2"}
+{"sentence": "can you tell me the process for obtaining a copy of my w2 for my taxes", "label": "w2"}
+{"sentence": "where do i go to get that work tax form thing", "label": "w2"}
+{"sentence": "what do i need to do to get that tax form thing from my job", "label": "w2"}
+{"sentence": "how do i get that tax form from my employer", "label": "w2"}
+{"sentence": "where can i find that tax form my employer gives me", "label": "w2"}
+{"sentence": "how do i get the form to file my taxes from my employer", "label": "w2"}
+{"sentence": "where do i look to get a w2", "label": "w2"}
+{"sentence": "i need a w2 form from", "label": "w2"}
+{"sentence": "can you trll me where to get my w2", "label": "w2"}
+{"sentence": "i want to get the w-2 form", "label": "w2"}
+{"sentence": "i wanna know where to find a w2", "label": "w2"}
+{"sentence": "i wanna know where to get my w2", "label": "w2"}
+{"sentence": "tell me where to a w2 form", "label": "w2"}
+{"sentence": "i must know where to get my w2", "label": "w2"}
+{"sentence": "i wanna get my w-2 form", "label": "w2"}
+{"sentence": "i need a w2, so where is it", "label": "w2"}
+{"sentence": "where can i find a w2", "label": "w2"}
+{"sentence": "i must get the w-2 form", "label": "w2"}
+{"sentence": "help me get w-2 form", "label": "w2"}
+{"sentence": "i wanna know where the w2 is", "label": "w2"}
+{"sentence": "help me get my w-2 form", "label": "w2"}
+{"sentence": "can't find w-2", "label": "w2"}
+{"sentence": "please book a meeting room for thusday at 4:00", "label": "schedule_meeting"}
+{"sentence": "would you please schedule a meeting room for 4:00 on thursday", "label": "schedule_meeting"}
+{"sentence": "could you schedule a meeting room for 4:00 on thursday", "label": "schedule_meeting"}
+{"sentence": "will you schedule a conference room for thursday at 4:00", "label": "schedule_meeting"}
+{"sentence": "can you reserve a meeting space for 4:00 on thursday", "label": "schedule_meeting"}
+{"sentence": "i need to know how to schedule a meeting", "label": "schedule_meeting"}
+{"sentence": "please help me figure out how to set up a meeting", "label": "schedule_meeting"}
+{"sentence": "i need assistance scheduling a meeting", "label": "schedule_meeting"}
+{"sentence": "walk me through the process of scheduling a meeting", "label": "schedule_meeting"}
+{"sentence": "help me set up a meeting please", "label": "schedule_meeting"}
+{"sentence": "i need a meeting room between 3-7, are any available", "label": "schedule_meeting"}
+{"sentence": "can you tell me if there are meeting rooms available between 1 and 4", "label": "schedule_meeting"}
+{"sentence": "are meeting rooms free between 8-3", "label": "schedule_meeting"}
+{"sentence": "do you know if meeting rooms are open to use 1-2", "label": "schedule_meeting"}
+{"sentence": "can you check if meeting rooms are available between 4 and 5", "label": "schedule_meeting"}
+{"sentence": "meeting rooms open between one and three pm", "label": "schedule_meeting"}
+{"sentence": "check meeting room availability between one and three pm", "label": "schedule_meeting"}
+{"sentence": "what meeting rooms are available for meeting 5pm friday", "label": "schedule_meeting"}
+{"sentence": "reserve a meeting room for friday, 5pm", "label": "schedule_meeting"}
+{"sentence": "one and three pm are there meeting rooms open", "label": "schedule_meeting"}
+{"sentence": "friday 5pm schedule a room for meeting", "label": "schedule_meeting"}
+{"sentence": "open meeting rooms from one to three pm", "label": "schedule_meeting"}
+{"sentence": "can you reserve a room for a friday meeting at 5pm", "label": "schedule_meeting"}
+{"sentence": "reserve a meeting room for 5pm on friday", "label": "schedule_meeting"}
+{"sentence": "check meeting rooms available between one and three pm", "label": "schedule_meeting"}
+{"sentence": "i need to schedule meeting room for monday at 2:30 pm, please", "label": "schedule_meeting"}
+{"sentence": "i would like you to reserve a conference room for noon tomorrow", "label": "schedule_meeting"}
+{"sentence": "please reserve a meeting room for 1:00 pm on tuesday", "label": "schedule_meeting"}
+{"sentence": "go ahead and hold a conference room for friday at 11 am, please", "label": "schedule_meeting"}
+{"sentence": "can you book a meeting room for friday at 9:00 am", "label": "schedule_meeting"}
+{"sentence": "on what day is our next free day", "label": "next_holiday"}
+{"sentence": "on what day is our next day off", "label": "next_holiday"}
+{"sentence": "what day is our next day off", "label": "next_holiday"}
+{"sentence": "is our next day off soon", "label": "next_holiday"}
+{"sentence": "do you know when our next day off is", "label": "next_holiday"}
+{"sentence": "when are we off work next", "label": "next_holiday"}
+{"sentence": "when is the next day we have off", "label": "next_holiday"}
+{"sentence": "when will our next day off be", "label": "next_holiday"}
+{"sentence": "are there any holidays coming and when", "label": "next_holiday"}
+{"sentence": "how many holidays are there and when is the next one here", "label": "next_holiday"}
+{"sentence": "for the holidays when is the next one we do here", "label": "next_holiday"}
+{"sentence": "what holiday is next and when", "label": "next_holiday"}
+{"sentence": "how long before the next holiday here", "label": "next_holiday"}
+{"sentence": "what's the wait period until the next day off", "label": "next_holiday"}
+{"sentence": "when will my next vacation day be", "label": "next_holiday"}
+{"sentence": "how long do i have to wait to get a day off", "label": "next_holiday"}
+{"sentence": "when's the next day off", "label": "next_holiday"}
+{"sentence": "how many days left until the next day out of work", "label": "next_holiday"}
+{"sentence": "tell me the next holiday", "label": "next_holiday"}
+{"sentence": "tell me how long until the next day off", "label": "next_holiday"}
+{"sentence": "i got to know how long until the next day off", "label": "next_holiday"}
+{"sentence": "i wanna know how long until the next day off", "label": "next_holiday"}
+{"sentence": "i need to know how long until the next day off", "label": "next_holiday"}
+{"sentence": "i wanna know the next holiday", "label": "next_holiday"}
+{"sentence": "let me know how long until the next day off", "label": "next_holiday"}
+{"sentence": "i wish to know the next holiday", "label": "next_holiday"}
+{"sentence": "i must know the next holiday", "label": "next_holiday"}
+{"sentence": "i would like to know the next holiday", "label": "next_holiday"}
+{"sentence": "find the next holiday", "label": "next_holiday"}
+{"sentence": "when is the soonest holiday", "label": "next_holiday"}
+{"sentence": "are there meetings scheduled for today", "label": "meeting_schedule"}
+{"sentence": "check today's calendar for meetings", "label": "meeting_schedule"}
+{"sentence": "check my schedule for meetings today", "label": "meeting_schedule"}
+{"sentence": "list meetings on calendar for today", "label": "meeting_schedule"}
+{"sentence": "exactly what time is my meeting with robin scheduled for on", "label": "meeting_schedule"}
+{"sentence": "for what time is my meeting with marketing scheduled", "label": "meeting_schedule"}
+{"sentence": "what time is my meeting with design team scheduled for", "label": "meeting_schedule"}
+{"sentence": "when is my meeting with infrastructure", "label": "meeting_schedule"}
+{"sentence": "when is my meeting with invoicing scheduled", "label": "meeting_schedule"}
+{"sentence": "is the meeting with lisa today", "label": "meeting_schedule"}
+{"sentence": "are there meetings from 1 to 5 pm", "label": "meeting_schedule"}
+{"sentence": "when for i meet jane for our meeting", "label": "meeting_schedule"}
+{"sentence": "tell me if i have a meeting with liz today", "label": "meeting_schedule"}
+{"sentence": "is there a meeting with sam today", "label": "meeting_schedule"}
+{"sentence": "do i have a meeting with paul today", "label": "meeting_schedule"}
+{"sentence": "is there any meetings from 5 to 6 pm", "label": "meeting_schedule"}
+{"sentence": "when is my meeting with jim scheduled for", "label": "meeting_schedule"}
+{"sentence": "are there any meetings between 2 and 5 pm", "label": "meeting_schedule"}
+{"sentence": "is it possible i have a meeting with kim today", "label": "meeting_schedule"}
+{"sentence": "my meeting with alice is scheduled for when", "label": "meeting_schedule"}
+{"sentence": "when is my meeting with jack for", "label": "meeting_schedule"}
+{"sentence": "when is my meeting with ann", "label": "meeting_schedule"}
+{"sentence": "do i have any meetings between 1 and 8 pm", "label": "meeting_schedule"}
+{"sentence": "i need to know if i have meetings from 3 to 6 pm", "label": "meeting_schedule"}
+{"sentence": "do i have any meetings scheduled today", "label": "meeting_schedule"}
+{"sentence": "give me a summary of today's meetings", "label": "meeting_schedule"}
+{"sentence": "tell me when today's meeting is supposed to happen", "label": "meeting_schedule"}
+{"sentence": "what time is today's meeting", "label": "meeting_schedule"}
+{"sentence": "check the start time of the meeting scheduled for today", "label": "meeting_schedule"}
+{"sentence": "am i supposed to attend any meetings today", "label": "meeting_schedule"}
+{"sentence": "tell me what my federal taxes amount to", "label": "taxes"}
+{"sentence": "what taxes do i owe", "label": "taxes"}
+{"sentence": "lets talk about what my federal taxes look like", "label": "taxes"}
+{"sentence": "what taxes will i owe from my income", "label": "taxes"}
+{"sentence": "whats the total of my taxes", "label": "taxes"}
+{"sentence": "what do my federal taxes look like", "label": "taxes"}
+{"sentence": "how much are the taxes on my income", "label": "taxes"}
+{"sentence": "please share my federal taxes total with me", "label": "taxes"}
+{"sentence": "how much in taxes will i owe", "label": "taxes"}
+{"sentence": "what do my state taxes look like", "label": "taxes"}
+{"sentence": "whats the total of taxes from my income", "label": "taxes"}
+{"sentence": "tell me how much my state taxes amount to", "label": "taxes"}
+{"sentence": "whats the total of my federal taxes", "label": "taxes"}
+{"sentence": "look up how much my state taxes are", "label": "taxes"}
+{"sentence": "talk to me about the total of my state taxes", "label": "taxes"}
+{"sentence": "what am i paying in taxes", "label": "taxes"}
+{"sentence": "what is the total of my state taxes", "label": "taxes"}
+{"sentence": "how much do i owe the irs", "label": "taxes"}
+{"sentence": "how much do i pay the irs", "label": "taxes"}
+{"sentence": "do you know my state tax total", "label": "taxes"}
+{"sentence": "what's the amount of taxes for my income", "label": "taxes"}
+{"sentence": "how much are my taxes for my income", "label": "taxes"}
+{"sentence": "i pay how much of taxes with my income", "label": "taxes"}
+{"sentence": "how much is my state taxes", "label": "taxes"}
+{"sentence": "i need the data and price from my state taxes", "label": "taxes"}
+{"sentence": "do you know the price for my taxes in income", "label": "taxes"}
+{"sentence": "what is the amount of my state taxes", "label": "taxes"}
+{"sentence": "what is the price of my state taxes that i owe", "label": "taxes"}
+{"sentence": "do you know the total for taxes for my income", "label": "taxes"}
+{"sentence": "what should i squirrel away to pay in taxes", "label": "taxes"}
+{"sentence": "i would like to know my vacation days balance", "label": "pto_balance"}
+{"sentence": "give me vacation days remaining, please", "label": "pto_balance"}
+{"sentence": "how many vacation days do i still have available", "label": "pto_balance"}
+{"sentence": "please tell me the exact number of days i have still for vacation", "label": "pto_balance"}
+{"sentence": "what's the number of vacation days i have left", "label": "pto_balance"}
+{"sentence": "what amount of vacation days do i have", "label": "pto_balance"}
+{"sentence": "what is the number of pto days i have left", "label": "pto_balance"}
+{"sentence": "what amount of pto days do i have left", "label": "pto_balance"}
+{"sentence": "what are the amount of vacation days i have", "label": "pto_balance"}
+{"sentence": "how much pto days do i have remaining", "label": "pto_balance"}
+{"sentence": "what number of days do i have for vacation", "label": "pto_balance"}
+{"sentence": "what is my remaining amount of pto days", "label": "pto_balance"}
+{"sentence": "what do my pto days amount to", "label": "pto_balance"}
+{"sentence": "what do my vacation days amount to", "label": "pto_balance"}
+{"sentence": "how many days of vacation do i have left", "label": "pto_balance"}
+{"sentence": "what day am i on on vacation and how much do i got left", "label": "pto_balance"}
+{"sentence": "how many vacation days are remaining on my time", "label": "pto_balance"}
+{"sentence": "how many days of vacation are left now", "label": "pto_balance"}
+{"sentence": "how many days on holiday do i have", "label": "pto_balance"}
+{"sentence": "can you see if i have any vacation days available for a request", "label": "pto_balance"}
+{"sentence": "how much vacation time have i earned", "label": "pto_balance"}
+{"sentence": "how much vacation time do i have", "label": "pto_balance"}
+{"sentence": "how many weeks of vacation time have i earned", "label": "pto_balance"}
+{"sentence": "how many weeks of vacation time do i have", "label": "pto_balance"}
+{"sentence": "how many days can i take for vacation", "label": "pto_balance"}
+{"sentence": "what is the balance on my vacation days", "label": "pto_balance"}
+{"sentence": "how many days are remaining on my vacation days", "label": "pto_balance"}
+{"sentence": "so i have any vacation days left", "label": "pto_balance"}
+{"sentence": "what is the year to date total on my vacation days", "label": "pto_balance"}
+{"sentence": "how many sick days do i have", "label": "pto_balance"}
+{"sentence": "how do i set up a direct deposit", "label": "direct_deposit"}
+{"sentence": "how do i set up direct deposit", "label": "direct_deposit"}
+{"sentence": "chase account direct deposit options", "label": "direct_deposit"}
+{"sentence": "set my paycheck to direct deposit to chase account", "label": "direct_deposit"}
+{"sentence": "activate direct deposit to chase account", "label": "direct_deposit"}
+{"sentence": "chase account options direct deposit", "label": "direct_deposit"}
+{"sentence": "bank options direct deposit", "label": "direct_deposit"}
+{"sentence": "how do i set up a direct deposit for my paycheck", "label": "direct_deposit"}
+{"sentence": "how to activate direct deposit to chase account", "label": "direct_deposit"}
+{"sentence": "get my paycheck to direct deposit", "label": "direct_deposit"}
+{"sentence": "direct deposit", "label": "direct_deposit"}
+{"sentence": "i need a direct deposit", "label": "direct_deposit"}
+{"sentence": "can we get a direct deposit", "label": "direct_deposit"}
+{"sentence": "set up direct deposit", "label": "direct_deposit"}
+{"sentence": "i want to set up direct deposit", "label": "direct_deposit"}
+{"sentence": "setting up direct deposit", "label": "direct_deposit"}
+{"sentence": "how do i get my paycheck into direct deposit at nations bank", "label": "direct_deposit"}
+{"sentence": "could you tell me how to set up direct deposit for my check from work at nations bank", "label": "direct_deposit"}
+{"sentence": "if i want to direct deposit my check into my nations bank account how do i do that", "label": "direct_deposit"}
+{"sentence": "i need to know how to do direct deposit with my paycheck at nations bank", "label": "direct_deposit"}
+{"sentence": "could you tell me how to direct deposit my check from work into nations bank", "label": "direct_deposit"}
+{"sentence": "how does one set up direct deposit to my bank account", "label": "direct_deposit"}
+{"sentence": "what do i need to do to set up direct deposit", "label": "direct_deposit"}
+{"sentence": "what is the process of setting up direct deposit", "label": "direct_deposit"}
+{"sentence": "if i want to set up direct deposit, how do i do it", "label": "direct_deposit"}
+{"sentence": "i'm not sure how to set up direct deposit", "label": "direct_deposit"}
+{"sentence": "can you tell me how to set up direct deposit", "label": "direct_deposit"}
+{"sentence": "i'd like my checks to be deposited into my account directly, how do i do that", "label": "direct_deposit"}
+{"sentence": "i'd like to set up direct deposit", "label": "direct_deposit"}
+{"sentence": "how do i set up my direct deposit", "label": "direct_deposit"}
+{"sentence": "how much money do i make", "label": "income"}
+{"sentence": "how much money do i earn", "label": "income"}
+{"sentence": "what amount of money do i earn", "label": "income"}
+{"sentence": "what do i take home", "label": "income"}
+{"sentence": "how much do i take home yearly", "label": "income"}
+{"sentence": "how much do i earn", "label": "income"}
+{"sentence": "what's my yearly salary", "label": "income"}
+{"sentence": "what's my salary", "label": "income"}
+{"sentence": "how much do i earn a year", "label": "income"}
+{"sentence": "what do i make annually", "label": "income"}
+{"sentence": "what do i bring in over a year", "label": "income"}
+{"sentence": "please tell me what amount i'm earning", "label": "income"}
+{"sentence": "can you please tell me my income", "label": "income"}
+{"sentence": "how much money am i earning", "label": "income"}
+{"sentence": "what is my compensation", "label": "income"}
+{"sentence": "how much am i paid", "label": "income"}
+{"sentence": "how much do i get paid", "label": "income"}
+{"sentence": "what is my income this year", "label": "income"}
+{"sentence": "how much money do i make from work", "label": "income"}
+{"sentence": "what will i make this year", "label": "income"}
+{"sentence": "what will i get paid this year", "label": "income"}
+{"sentence": "how much am i paid a year", "label": "income"}
+{"sentence": "how much money am i making this year at work", "label": "income"}
+{"sentence": "what's my salary for this year", "label": "income"}
+{"sentence": "what is my current salary", "label": "income"}
+{"sentence": "what's the amount of my income", "label": "income"}
+{"sentence": "what amount is my income", "label": "income"}
+{"sentence": "i want to know my income", "label": "income"}
+{"sentence": "what is my payment going to be", "label": "income"}
+{"sentence": "how much is the pay offered for my work", "label": "income"}

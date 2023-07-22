@@ -1,0 +1,450 @@
+{"sentence": "how would you say fly in italian", "label": "translate"}
+{"sentence": "what's the spanish word for pasta", "label": "translate"}
+{"sentence": "how would they say butter in zambia", "label": "translate"}
+{"sentence": "how do you say fast in spanish", "label": "translate"}
+{"sentence": "what's the word for trees in norway", "label": "translate"}
+{"sentence": "how does one say wonderful in german", "label": "translate"}
+{"sentence": "how do they say tacos in mexico", "label": "translate"}
+{"sentence": "how would one say cruiser in china", "label": "translate"}
+{"sentence": "what's the french word you use for potato", "label": "translate"}
+{"sentence": "what would the word for grass be in finland", "label": "translate"}
+{"sentence": "how do you say please in french", "label": "translate"}
+{"sentence": "how would i say nice to meet you if i were russian", "label": "translate"}
+{"sentence": "what is the right way to say excuse me in spanish", "label": "translate"}
+{"sentence": "how do i say i'm sorry in chinese", "label": "translate"}
+{"sentence": "how would i say thank you if i were mexican", "label": "translate"}
+{"sentence": "how would i say what is your name if i were french", "label": "translate"}
+{"sentence": "how would i say i must be going now if i were german", "label": "translate"}
+{"sentence": "how do i say bathroom in italian", "label": "translate"}
+{"sentence": "how might i say hello if i were scottish", "label": "translate"}
+{"sentence": "i must know how to say thank you in german", "label": "translate"}
+{"sentence": "how would i say i love you if i were german", "label": "translate"}
+{"sentence": "how would i say how are you today if i were mexican", "label": "translate"}
+{"sentence": "how would i say where is the bathroom if i were korean", "label": "translate"}
+{"sentence": "how would i say i need directions if i were french", "label": "translate"}
+{"sentence": "how would i say i am lost if i were japanese", "label": "translate"}
+{"sentence": "english to spanish for dog", "label": "translate"}
+{"sentence": "what is dog in spanish", "label": "translate"}
+{"sentence": "how do you say dog in spanish", "label": "translate"}
+{"sentence": "dog in spanish", "label": "translate"}
+{"sentence": "what's the spanish word for dog", "label": "translate"}
+{"sentence": "is there a travel alert in spain", "label": "travel_alert"}
+{"sentence": "travel alert in cuba", "label": "travel_alert"}
+{"sentence": "alerts for travel in colombia", "label": "travel_alert"}
+{"sentence": "are there travel alerts in mexico", "label": "travel_alert"}
+{"sentence": "mexico travel alerts", "label": "travel_alert"}
+{"sentence": "have there been any travel alerts for the us", "label": "travel_alert"}
+{"sentence": "are there any travel advisories for the us", "label": "travel_alert"}
+{"sentence": "what are the travel alerts for the us", "label": "travel_alert"}
+{"sentence": "are there travel alerts for the us", "label": "travel_alert"}
+{"sentence": "what travel alerts are in effect for the us", "label": "travel_alert"}
+{"sentence": "i want to know if i will be safe if i travel to europe", "label": "travel_alert"}
+{"sentence": "would i be safe if i traveled to japan", "label": "travel_alert"}
+{"sentence": "is it safe to go to north korea", "label": "travel_alert"}
+{"sentence": "will i be safe going to south america", "label": "travel_alert"}
+{"sentence": "am i safe to go to africa", "label": "travel_alert"}
+{"sentence": "which countries have travel alerts", "label": "travel_alert"}
+{"sentence": "is it safe in italy", "label": "travel_alert"}
+{"sentence": "what are the travel conditions for haiti", "label": "travel_alert"}
+{"sentence": "are there any travel bulletins about haiti", "label": "travel_alert"}
+{"sentence": "note any travel alerts for haiti", "label": "travel_alert"}
+{"sentence": "find travel alerts for haiti", "label": "travel_alert"}
+{"sentence": "does the state department say anything about traveling to haiti", "label": "travel_alert"}
+{"sentence": "is there a travel alert for france", "label": "travel_alert"}
+{"sentence": "is it safe for me to go to turkey", "label": "travel_alert"}
+{"sentence": "is it safe to go to serbia", "label": "travel_alert"}
+{"sentence": "safety concerns for malaysia", "label": "travel_alert"}
+{"sentence": "is it safe for me to visit malawi", "label": "travel_alert"}
+{"sentence": "is travel to monterrey safe now", "label": "travel_alert"}
+{"sentence": "is it safe for people to travel to pakistan", "label": "travel_alert"}
+{"sentence": "can people safely travel to cambodia", "label": "travel_alert"}
+{"sentence": "what's the status of by delta flight", "label": "flight_status"}
+{"sentence": "what's the status of my virgin airlines flight", "label": "flight_status"}
+{"sentence": "what's the status of my jetblue flight", "label": "flight_status"}
+{"sentence": "what's the status of my southwest flight", "label": "flight_status"}
+{"sentence": "what's the status of my american airlines flight", "label": "flight_status"}
+{"sentence": "what's the news with my delta flight", "label": "flight_status"}
+{"sentence": "where is my delta flight", "label": "flight_status"}
+{"sentence": "what can you tell me about flight dl123", "label": "flight_status"}
+{"sentence": "where is flight dl123", "label": "flight_status"}
+{"sentence": "has flight dl123 left", "label": "flight_status"}
+{"sentence": "is flight dl123 going to arrive on time", "label": "flight_status"}
+{"sentence": "is my spirit flight running on time", "label": "flight_status"}
+{"sentence": "what's the status for my delta flight this afternoon", "label": "flight_status"}
+{"sentence": "give me the status on my united airlines flight", "label": "flight_status"}
+{"sentence": "what's up with my american airline flight will it be on time", "label": "flight_status"}
+{"sentence": "tell me what the status is for my aa flight", "label": "flight_status"}
+{"sentence": "i need for you to get me the status of my american airlines flight", "label": "flight_status"}
+{"sentence": "tell me the status of my american airlines flight", "label": "flight_status"}
+{"sentence": "i need to know the status of my american airlines flight", "label": "flight_status"}
+{"sentence": "would you let me know the status of my american airlines flight", "label": "flight_status"}
+{"sentence": "let me know the status of my american airlines flight", "label": "flight_status"}
+{"sentence": "has flight dl123 landed", "label": "flight_status"}
+{"sentence": "is my flight, dl123 on time", "label": "flight_status"}
+{"sentence": "how far out is flight dl123", "label": "flight_status"}
+{"sentence": "is flight dl123 delayed", "label": "flight_status"}
+{"sentence": "what time is boarding scheduled", "label": "flight_status"}
+{"sentence": "when is boarding scheduled", "label": "flight_status"}
+{"sentence": "what time is boarding for my flight", "label": "flight_status"}
+{"sentence": "when is boarding scheduled for my flight", "label": "flight_status"}
+{"sentence": "when is my flight scheduled to board", "label": "flight_status"}
+{"sentence": "what's the timezone for britain", "label": "timezone"}
+{"sentence": "i need the time zone for la", "label": "timezone"}
+{"sentence": "i would like to know the timezone for britain", "label": "timezone"}
+{"sentence": "i need la's time zone", "label": "timezone"}
+{"sentence": "i need to know britain's timezone", "label": "timezone"}
+{"sentence": "what timezone is britain in", "label": "timezone"}
+{"sentence": "can you tell me britain's timezone", "label": "timezone"}
+{"sentence": "what is the la's time zone", "label": "timezone"}
+{"sentence": "can you tell me the time zone for la", "label": "timezone"}
+{"sentence": "what is texas's timezone", "label": "timezone"}
+{"sentence": "tell me the timezone for california", "label": "timezone"}
+{"sentence": "what timezone would missouri be in", "label": "timezone"}
+{"sentence": "what timezone do they use in arizona", "label": "timezone"}
+{"sentence": "is new york in mountain timezone", "label": "timezone"}
+{"sentence": "what is the timezone for la", "label": "timezone"}
+{"sentence": "what is the timezone for new york", "label": "timezone"}
+{"sentence": "what is the timezone for san francisco", "label": "timezone"}
+{"sentence": "what is the timezone for paris", "label": "timezone"}
+{"sentence": "what is the timezone for houston", "label": "timezone"}
+{"sentence": "denver's timezone is what", "label": "timezone"}
+{"sentence": "does denver reside in the eastern timezones", "label": "timezone"}
+{"sentence": "which timezone is denver located", "label": "timezone"}
+{"sentence": "denver's timezone is a mystery, i wonder where its located", "label": "timezone"}
+{"sentence": "in which time zone does denver reside", "label": "timezone"}
+{"sentence": "what's the timezone in valencia", "label": "timezone"}
+{"sentence": "what's the timezone now in hiram", "label": "timezone"}
+{"sentence": "timezone in salt lake city", "label": "timezone"}
+{"sentence": "timezone currently in mobile", "label": "timezone"}
+{"sentence": "what time is it in phoenix", "label": "timezone"}
+{"sentence": "can you give me the timezone for the country", "label": "timezone"}
+{"sentence": "is my luggage lost", "label": "lost_luggage"}
+{"sentence": "why is my luggage not here", "label": "lost_luggage"}
+{"sentence": "what happened to my luggage", "label": "lost_luggage"}
+{"sentence": "i need help finding my luggage", "label": "lost_luggage"}
+{"sentence": "what steps should i take if my luggage has been lost", "label": "lost_luggage"}
+{"sentence": "i seem to have lost my luggage! what are my options now", "label": "lost_luggage"}
+{"sentence": "what would be the best way to deal with lost luggage", "label": "lost_luggage"}
+{"sentence": "it appears that my luggage has been lost", "label": "lost_luggage"}
+{"sentence": "i'm afraid my luggage has gone missing", "label": "lost_luggage"}
+{"sentence": "i am a bit panicked because my luggage seems to have gone missing", "label": "lost_luggage"}
+{"sentence": "i have no idea where my luggage went!", "label": "lost_luggage"}
+{"sentence": "unfortunately it would appear that my luggage is totally lost", "label": "lost_luggage"}
+{"sentence": "how should i proceed if i accidentally lost my luggage", "label": "lost_luggage"}
+{"sentence": "if i lost my luggage, what should i do next", "label": "lost_luggage"}
+{"sentence": "i have no idea where my luggage is", "label": "lost_luggage"}
+{"sentence": "i think my luggage has been misplaced", "label": "lost_luggage"}
+{"sentence": "what do i have to do if i lost my luggage", "label": "lost_luggage"}
+{"sentence": "i think my luggage is lost", "label": "lost_luggage"}
+{"sentence": "my luggage appears to be lost", "label": "lost_luggage"}
+{"sentence": "i can't seem to track down my luggage", "label": "lost_luggage"}
+{"sentence": "what is the next thing i should do if i lost my luggage", "label": "lost_luggage"}
+{"sentence": "what step should i take next if i lost my luggage", "label": "lost_luggage"}
+{"sentence": "i've lost my luggage what should i do now", "label": "lost_luggage"}
+{"sentence": "what should i do about losing my luggage", "label": "lost_luggage"}
+{"sentence": "where would i find my luggage", "label": "lost_luggage"}
+{"sentence": "my luggage has been misplaced", "label": "lost_luggage"}
+{"sentence": "i can't find my luggage", "label": "lost_luggage"}
+{"sentence": "i lost all my stuff that i had packed", "label": "lost_luggage"}
+{"sentence": "my luggage has disappeared", "label": "lost_luggage"}
+{"sentence": "it appears my luggage is lost", "label": "lost_luggage"}
+{"sentence": "what are some interesting things i can do while in raleigh", "label": "travel_suggestion"}
+{"sentence": "can you help me pick some fun things to do in london during my trip", "label": "travel_suggestion"}
+{"sentence": "help me plan my traveling itinerary for my trip to madrid, i want to see lots of sights!", "label": "travel_suggestion"}
+{"sentence": "help me pick a new location to travel to", "label": "travel_suggestion"}
+{"sentence": "can you do some research about the best places to travel", "label": "travel_suggestion"}
+{"sentence": "tell me some fun activities to do in oklahoma city", "label": "travel_suggestion"}
+{"sentence": "what are some popular tourist activities in mexico city", "label": "travel_suggestion"}
+{"sentence": "i am itching to travel but don't know where to go", "label": "travel_suggestion"}
+{"sentence": "give me some recommendations of good tourist attractions in montreal", "label": "travel_suggestion"}
+{"sentence": "tell me some fun tourist attractions in london", "label": "travel_suggestion"}
+{"sentence": "give me some ideas of what to do during my trip to dallas", "label": "travel_suggestion"}
+{"sentence": "find out the best tourist attractions to visit in moscow", "label": "travel_suggestion"}
+{"sentence": "i want some suggestions for tourist activities in dublin", "label": "travel_suggestion"}
+{"sentence": "i am traveling to paris soon and would like some suggestions of what to do and see", "label": "travel_suggestion"}
+{"sentence": "what are some local attractions in portland", "label": "travel_suggestion"}
+{"sentence": "what sorts of activities should i get up to while i am in dublin", "label": "travel_suggestion"}
+{"sentence": "i want to explore a new place but don't know where i should go do you have any ideas", "label": "travel_suggestion"}
+{"sentence": "please give me some ideas of fun tourist activities to do while i am in paris", "label": "travel_suggestion"}
+{"sentence": "can you throw out some suggestions to me of places to travel to", "label": "travel_suggestion"}
+{"sentence": "suggest some things for me to do while i am in los angeles", "label": "travel_suggestion"}
+{"sentence": "let me know some things to do in phoenix", "label": "travel_suggestion"}
+{"sentence": "let me know some things i can do in dallas", "label": "travel_suggestion"}
+{"sentence": "i wanna know some things to do in phoenix", "label": "travel_suggestion"}
+{"sentence": "i would like to do some things in phoenix", "label": "travel_suggestion"}
+{"sentence": "tell me some things to do in phoenix", "label": "travel_suggestion"}
+{"sentence": "what are some fun silly things to do in new jersey", "label": "travel_suggestion"}
+{"sentence": "what are some cool tourist attractions in england", "label": "travel_suggestion"}
+{"sentence": "what are some fun local experiences in canada", "label": "travel_suggestion"}
+{"sentence": "what are some fun tourist things to do in mumbai", "label": "travel_suggestion"}
+{"sentence": "what are some fun cheap activities to do in colorado", "label": "travel_suggestion"}
+{"sentence": "what restrictions do they have for carry-on", "label": "carry_on"}
+{"sentence": "ist all carry-on restrictions applicable to my flight", "label": "carry_on"}
+{"sentence": "what are the size limits regarding-carry on bags", "label": "carry_on"}
+{"sentence": "how many bags can i carry-on", "label": "carry_on"}
+{"sentence": "can i bring perfume on the plane or what is the size limit", "label": "carry_on"}
+{"sentence": "what are the rules for traveling with toothpaste", "label": "carry_on"}
+{"sentence": "can i bring suntan lotion in my carry on", "label": "carry_on"}
+{"sentence": "can i fly with my razors or are there restrictions", "label": "carry_on"}
+{"sentence": "are there restrictions for carrying lighters in my backpack on a plane", "label": "carry_on"}
+{"sentence": "how many carry ons can i take on a flight with american airlines to japan", "label": "carry_on"}
+{"sentence": "how many carry ons can i take on a flight with panam to wales", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on panam", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on lufthansa", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on delta airlines", "label": "carry_on"}
+{"sentence": "how many carry ons can i take on a flight with southwestern to tampa", "label": "carry_on"}
+{"sentence": "how many carry ons can i take on a flight with delta to seattle", "label": "carry_on"}
+{"sentence": "how many carry ons can i take on a flight with united airlines to austin", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on the airline called jetblue", "label": "carry_on"}
+{"sentence": "i need to know the carry-on rules for southwest", "label": "carry_on"}
+{"sentence": "tell me the carry-on rules for my flight", "label": "carry_on"}
+{"sentence": "i am flying to finland and wanna know the carry-on rules", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on southwest", "label": "carry_on"}
+{"sentence": "i need to know the the carry-on restrictions for american airlines", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on transaero", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on jetblue", "label": "carry_on"}
+{"sentence": "i gotta know the the carry-on restrictions for american airlines", "label": "carry_on"}
+{"sentence": "what is the carry-on policy for flights on american airlines", "label": "carry_on"}
+{"sentence": "i must know the the carry-on restrictions for american airlines", "label": "carry_on"}
+{"sentence": "i wanna know the carry-on rules for the flight i have", "label": "carry_on"}
+{"sentence": "tell me the the carry-on restrictions for american airlines", "label": "carry_on"}
+{"sentence": "i will be traveling to lima alert my bank", "label": "travel_notification"}
+{"sentence": "assure my bank i really am going to california", "label": "travel_notification"}
+{"sentence": "please tell my bank i'm traveling to mexico between next wednesday for a week after", "label": "travel_notification"}
+{"sentence": "please inform my bank i'll be vacationing in the bahamas in a couple of days", "label": "travel_notification"}
+{"sentence": "i'm going to be in mexico from thursday to friday, so can you let my bank know", "label": "travel_notification"}
+{"sentence": "please kindly inform my bank i'm going to be in canada from next week to two weeks after", "label": "travel_notification"}
+{"sentence": "let my bank know i'll be in ireland from may 01, 2019 to august 02, 2019", "label": "travel_notification"}
+{"sentence": "alert my bank i'm checking out seattle for the next month", "label": "travel_notification"}
+{"sentence": "i'm going to brazil soon and want to let my bank now", "label": "travel_notification"}
+{"sentence": "i'm leaving for montreal tomorrow and need to let my bank know", "label": "travel_notification"}
+{"sentence": "inform my bank i'm traveling to australia between february 23rd to february 25th", "label": "travel_notification"}
+{"sentence": "please tell my bank i'll be in anchorage this week", "label": "travel_notification"}
+{"sentence": "i need to tell my bank i am, indeed, going to be in london in a few hours", "label": "travel_notification"}
+{"sentence": "please alert my bank i'm going to be in the caymans from may 1st to june 2nd", "label": "travel_notification"}
+{"sentence": "let my bank know i actually am visiting brazil", "label": "travel_notification"}
+{"sentence": "i'll be travelling to russia from april 1 through april 20 and need my financial institute apprised of it", "label": "travel_notification"}
+{"sentence": "please alert my bank i'm traveling to europe between april 1st and 5th", "label": "travel_notification"}
+{"sentence": "tell my bank's fraud department i'm going to mexico", "label": "travel_notification"}
+{"sentence": "please notify my bank i'm going to africa between tomorrow and next tuesday", "label": "travel_notification"}
+{"sentence": "tell my bank i'm in canada the entire week of the 6th to the 13th", "label": "travel_notification"}
+{"sentence": "inform my bank i'm seeing italy", "label": "travel_notification"}
+{"sentence": "can you notify my bank that i will be traveling to mexico between march 1st and 15th", "label": "travel_notification"}
+{"sentence": "please let my bank know that i will be visiting spain from june 12th to the 24th", "label": "travel_notification"}
+{"sentence": "i need you to make my bank aware that i will be visiting taiwan from the 22nd of february until the 3rd of march", "label": "travel_notification"}
+{"sentence": "send a notification to my bank of my travel dates from february 19th to 26th to peru", "label": "travel_notification"}
+{"sentence": "alert my bank of my travel to dubai for the dates april 14th through april 22nd", "label": "travel_notification"}
+{"sentence": "from sunday to wednesday, i will be in oakland, so should i call my bank to let them know", "label": "travel_notification"}
+{"sentence": "my bank needs to know about my traveling to georgia in europe", "label": "travel_notification"}
+{"sentence": "must call my bank about my travel plans", "label": "travel_notification"}
+{"sentence": "contact bank and let them know about my travel plans", "label": "travel_notification"}
+{"sentence": "would a socket converter be needed in france", "label": "plug_type"}
+{"sentence": "how do i plug stuff in in france", "label": "plug_type"}
+{"sentence": "is socket converter required in france", "label": "plug_type"}
+{"sentence": "does france use a socket converter", "label": "plug_type"}
+{"sentence": "is electricity the same in france", "label": "plug_type"}
+{"sentence": "will i need a plug converter when i visit costa rica", "label": "plug_type"}
+{"sentence": "will i require a plug converter when i visit kenya", "label": "plug_type"}
+{"sentence": "will i need to get a plug converter when i visit guam", "label": "plug_type"}
+{"sentence": "do i require a plug converter when i visit puerto rico", "label": "plug_type"}
+{"sentence": "will i need to have a plug converter when i visit madrid", "label": "plug_type"}
+{"sentence": "z uses which type of plug", "label": "plug_type"}
+{"sentence": "what sort of plug is used in the caribbean", "label": "plug_type"}
+{"sentence": "which plug is used in japan", "label": "plug_type"}
+{"sentence": "plug used in china", "label": "plug_type"}
+{"sentence": "what kind of plug is used in england", "label": "plug_type"}
+{"sentence": "what do i need for a plug in wales", "label": "plug_type"}
+{"sentence": "does z used the same plus as we do in the united states", "label": "plug_type"}
+{"sentence": "can i used the same type of plug in z as i do in the us", "label": "plug_type"}
+{"sentence": "electrical plugs used in that country", "label": "plug_type"}
+{"sentence": "are the electric plugs the same over in that country", "label": "plug_type"}
+{"sentence": "what kind of electrical outlet does that country use", "label": "plug_type"}
+{"sentence": "do i need a converter for my electronics when i go to that coutntry", "label": "plug_type"}
+{"sentence": "can i plug in my electronics there like normal", "label": "plug_type"}
+{"sentence": "is a socket converter necessary if i'm travelling to london", "label": "plug_type"}
+{"sentence": "are socket converters something i need to bring if going to australia", "label": "plug_type"}
+{"sentence": "can i use electronic devices in mexico without a socket converter", "label": "plug_type"}
+{"sentence": "are socket converters needed if i'm going to cape town", "label": "plug_type"}
+{"sentence": "does sweden use the same kind of socket or do i need a converter", "label": "plug_type"}
+{"sentence": "what plug type is used internationally", "label": "plug_type"}
+{"sentence": "what's the plug type in honduras", "label": "plug_type"}
+{"sentence": "convert 200 us dollars to british pounds", "label": "exchange_rate"}
+{"sentence": "how many japanese yen are in a us dollar", "label": "exchange_rate"}
+{"sentence": "how much is 5 us dollars worth in canadian dollars", "label": "exchange_rate"}
+{"sentence": "can you tell me what 100 british pounds equals in us dollars", "label": "exchange_rate"}
+{"sentence": "what is the exchange rate between us dollars and japanese yen", "label": "exchange_rate"}
+{"sentence": "whats the current exchange rate between usd and eur", "label": "exchange_rate"}
+{"sentence": "what's the exhange rate between mxn and gbp", "label": "exchange_rate"}
+{"sentence": "what is the current exchange rate between mxn and eur", "label": "exchange_rate"}
+{"sentence": "what's the exchange rate between ils and usd", "label": "exchange_rate"}
+{"sentence": "what is the usd mxn exchange rate", "label": "exchange_rate"}
+{"sentence": "how many mexican pesos is a us dollar worth", "label": "exchange_rate"}
+{"sentence": "how much is one us dollar in british pounds", "label": "exchange_rate"}
+{"sentence": "whats the exchange rate for us dollars to british pounds", "label": "exchange_rate"}
+{"sentence": "what is a british pound worth in mexican pesos", "label": "exchange_rate"}
+{"sentence": "how many mexican pesos can i get for one us dollar", "label": "exchange_rate"}
+{"sentence": "look up the rate of exchange between pesos and usd", "label": "exchange_rate"}
+{"sentence": "find me the exchange rate between usd and cad", "label": "exchange_rate"}
+{"sentence": "what is the exchange rate between euros and pesos", "label": "exchange_rate"}
+{"sentence": "tell me the current exchange rate between cad and euros", "label": "exchange_rate"}
+{"sentence": "what is the present exchange rate between usd and british pound", "label": "exchange_rate"}
+{"sentence": "convert 20 yen to dollars", "label": "exchange_rate"}
+{"sentence": "how many dollars can i get for 20 yen", "label": "exchange_rate"}
+{"sentence": "how many dollars is 20 yen worth", "label": "exchange_rate"}
+{"sentence": "20 yen is how many dollars", "label": "exchange_rate"}
+{"sentence": "20 yen equals how many dollars", "label": "exchange_rate"}
+{"sentence": "is $30 usd more or less in canada", "label": "exchange_rate"}
+{"sentence": "in canadian dollars, what is $30", "label": "exchange_rate"}
+{"sentence": "what is the conversion of $30 in canadian dollars", "label": "exchange_rate"}
+{"sentence": "can you please convert $30 usd to canadian dollars", "label": "exchange_rate"}
+{"sentence": "how much is $30 usd in canadian dollar", "label": "exchange_rate"}
+{"sentence": "i really need you to find me a hotel with good reviews in phoenix", "label": "book_hotel"}
+{"sentence": "i wanna book a place to stay in phoenix from the 5th to the 9th of march", "label": "book_hotel"}
+{"sentence": "i wanna find a hotel with good reviews in phoenix", "label": "book_hotel"}
+{"sentence": "i want a hotel in phoenix near chase field from january 4th to the 8th", "label": "book_hotel"}
+{"sentence": "i would like to book a place to stay in phoenix from the 5th to the 9th of march", "label": "book_hotel"}
+{"sentence": "i need a hotel in phoenix near chase field from january 4th to the 8th", "label": "book_hotel"}
+{"sentence": "i need a hotel room that is big enough for eleven people from march 10th to the 15th in phoenix", "label": "book_hotel"}
+{"sentence": "i must get a hotel in phoenix near chase field from january 4th to the 8th", "label": "book_hotel"}
+{"sentence": "go ahead and find me a hotel with good reviews in phoenix", "label": "book_hotel"}
+{"sentence": "find me a hotel with good reviews in phoenix", "label": "book_hotel"}
+{"sentence": "i need you to find me a hotel with good reviews in phoenix", "label": "book_hotel"}
+{"sentence": "get me a hotel in phoenix near chase field from january 4th to the 8th", "label": "book_hotel"}
+{"sentence": "i need to get a hotel in phoenix near chase field from january 4th to the 8th", "label": "book_hotel"}
+{"sentence": "please book me a place to stay in phoenix from the 5th to the 9th of march", "label": "book_hotel"}
+{"sentence": "i need to book a place to stay in phoenix from the 5th to the 9th of march", "label": "book_hotel"}
+{"sentence": "i really gotta book a place to stay in phoenix from the 5th to the 9th of march", "label": "book_hotel"}
+{"sentence": "i need to get a hotel room that is big enough for eleven people from march 10th to the 15th in phoenix", "label": "book_hotel"}
+{"sentence": "can you find me a reputable hotel in honolulu", "label": "book_hotel"}
+{"sentence": "i want a hotel with good review in honolulu, can you find one", "label": "book_hotel"}
+{"sentence": "find for me a hotel with great reviews in ho chi minh", "label": "book_hotel"}
+{"sentence": "i need your help to find a good reviewed hotel in washington", "label": "book_hotel"}
+{"sentence": "can you find me a good reviewed hotel in japan", "label": "book_hotel"}
+{"sentence": "i need a hotel between january 1st through 3rd in jacksonville near the stadium", "label": "book_hotel"}
+{"sentence": "find me a place to stay in jacksonville near the stadium from january 1st through 3rd", "label": "book_hotel"}
+{"sentence": "book me a hotel in jacksonville near the stadium from january 1st to 3rd", "label": "book_hotel"}
+{"sentence": "id like a room in jacksonville near the stadium between january 1st to 3rd", "label": "book_hotel"}
+{"sentence": "find me a room near the jacksonville stadium between january 1st through january 3rd", "label": "book_hotel"}
+{"sentence": "get me a hotel room big enough for 4 people from may 3 to may 5 in boston", "label": "book_hotel"}
+{"sentence": "i'm travelling to boston on march 2 until march 4 please make a hotel reservation for me", "label": "book_hotel"}
+{"sentence": "i need a hotel room for 4 people from may 3 to may 5 in boston", "label": "book_hotel"}
+{"sentence": "are visas needed to travel to jamaica", "label": "international_visa"}
+{"sentence": "do i need a visa for south korea", "label": "international_visa"}
+{"sentence": "if i go to columbia, will i need a visa", "label": "international_visa"}
+{"sentence": "are visas required to go to cuba", "label": "international_visa"}
+{"sentence": "do i need to apply for a visa for my trip to india", "label": "international_visa"}
+{"sentence": "if i go to indonesia would i need a visa", "label": "international_visa"}
+{"sentence": "do i need a visa to travel to indonesia", "label": "international_visa"}
+{"sentence": "should i apply for a visa if i am traveling to mexico", "label": "international_visa"}
+{"sentence": "is a visa necessary for traveling to south africa", "label": "international_visa"}
+{"sentence": "if i want to travel to singapore do i need a visa", "label": "international_visa"}
+{"sentence": "do americans need visas in canada", "label": "international_visa"}
+{"sentence": "would i need a visa in taiwan", "label": "international_visa"}
+{"sentence": "i'd like to go to malaysia so do i need a visa", "label": "international_visa"}
+{"sentence": "is a travel visa needed for thailand", "label": "international_visa"}
+{"sentence": "what are the visa requirements for brazil", "label": "international_visa"}
+{"sentence": "is a travel visa required to visit paraguay", "label": "international_visa"}
+{"sentence": "does travelling to st petersburg require a travel visa", "label": "international_visa"}
+{"sentence": "should i get a travel visa if i want to go to guyana", "label": "international_visa"}
+{"sentence": "will i be able to visit peru without a travel visa", "label": "international_visa"}
+{"sentence": "if i want to go to x, do i need a travel visa", "label": "international_visa"}
+{"sentence": "can i get to cuba with this visa", "label": "international_visa"}
+{"sentence": "do i need a visa to get to puerto rico", "label": "international_visa"}
+{"sentence": "do i need a visa to go to colombia", "label": "international_visa"}
+{"sentence": "do i need a states visa to get to cuba", "label": "international_visa"}
+{"sentence": "do i need a us visa for cuba", "label": "international_visa"}
+{"sentence": "if i get a visa can i travel to japan", "label": "international_visa"}
+{"sentence": "do i need a visa if i'm going to san jose", "label": "international_visa"}
+{"sentence": "do i need a visa to travel outside of the us", "label": "international_visa"}
+{"sentence": "are visas for international travel", "label": "international_visa"}
+{"sentence": "can you travel outside of the united states without a visa", "label": "international_visa"}
+{"sentence": "do i need to get any shots before i travel to morocco", "label": "vaccines"}
+{"sentence": "do i need to get any shots before i travel to south africa", "label": "vaccines"}
+{"sentence": "do i need to get any shots before i travel to zimbabwe", "label": "vaccines"}
+{"sentence": "do i need to get any shots before i travel to liberia", "label": "vaccines"}
+{"sentence": "do i need to get any shots before i travel to spain", "label": "vaccines"}
+{"sentence": "are there any required shots to travel to astana", "label": "vaccines"}
+{"sentence": "what shots do i need if i'm travelling to odessa", "label": "vaccines"}
+{"sentence": "are there any shots i need to travel to karachi", "label": "vaccines"}
+{"sentence": "are there any required shots in indonesia", "label": "vaccines"}
+{"sentence": "what are the required shots in mozambique", "label": "vaccines"}
+{"sentence": "are more shots needed to travel to argentina", "label": "vaccines"}
+{"sentence": "what sorts of vaccinations should i get prior to a trip to hong kong", "label": "vaccines"}
+{"sentence": "before i embark on a trip to europe should i get more shots", "label": "vaccines"}
+{"sentence": "would you need more shots to go to mexico", "label": "vaccines"}
+{"sentence": "is vaccination necessary for travel to asia", "label": "vaccines"}
+{"sentence": "do you think my shots would be needed, before traveling to columbia", "label": "vaccines"}
+{"sentence": "will having my shots updated be a good idea, before i travel to south america", "label": "vaccines"}
+{"sentence": "should i have my shots up to date before i travel to the virgin islands", "label": "vaccines"}
+{"sentence": "if you were traveling to indonesia, as i am, would you have your shots updated before your visit", "label": "vaccines"}
+{"sentence": "are shots required before traveling to china", "label": "vaccines"}
+{"sentence": "does cuba require vaccines", "label": "vaccines"}
+{"sentence": "which vaccines are meant for cuba", "label": "vaccines"}
+{"sentence": "which vaccines will i need for cuba", "label": "vaccines"}
+{"sentence": "do i need a vaccine for the congo", "label": "vaccines"}
+{"sentence": "vaccines for my trip to cuba", "label": "vaccines"}
+{"sentence": "are there vaccinations needed if i go there", "label": "vaccines"}
+{"sentence": "would vaccinations be needed if i go here", "label": "vaccines"}
+{"sentence": "if i travel abroad, do i need vaccinations", "label": "vaccines"}
+{"sentence": "if i travel here, do i need vaccinations", "label": "vaccines"}
+{"sentence": "do i need vaccinations if i go this country", "label": "vaccines"}
+{"sentence": "book me a flight to jackson, mississippi from austin texas on american airlines", "label": "book_flight"}
+{"sentence": "book me a place to chicago from atlanta united airlines", "label": "book_flight"}
+{"sentence": "can you book me a flight to memphis from st louis on delta airlines", "label": "book_flight"}
+{"sentence": "book a flight to los angeles from las vegas on american airlines", "label": "book_flight"}
+{"sentence": "book me a flight to dallas from st, paul, minnesota on delta airlines", "label": "book_flight"}
+{"sentence": "i need a flight on delta from los angeles to seattle", "label": "book_flight"}
+{"sentence": "i need to book a flight on jet blue to boston from new york", "label": "book_flight"}
+{"sentence": "can you get me a flight from san francisco to san jose using american airlines", "label": "book_flight"}
+{"sentence": "i want a flight from new york to san francisco using delta", "label": "book_flight"}
+{"sentence": "get me a flight from barcelona to paris from jet blue", "label": "book_flight"}
+{"sentence": "\"i'll be travelling from lax and headed to phl for 120 on the 10th of may", "label": "book_flight"}
+{"sentence": "\"i'm fly out from lax to phl this weekend for around $120", "label": "book_flight"}
+{"sentence": "\"i\"m headed out to lax and going to phl for a low price of $120 this weekend on the 12th", "label": "book_flight"}
+{"sentence": "\"i'm going on a flight from lax and going to phl, which is only $120 on june 15th", "label": "book_flight"}
+{"sentence": "\"i'll leave to lax and go to phl for $120 on nov 5th", "label": "book_flight"}
+{"sentence": "book me a flight from midway to jfk for less than 200 dollars", "label": "book_flight"}
+{"sentence": "i need a flight from boston to miami for under 300 dollars", "label": "book_flight"}
+{"sentence": "can i fly from atlanta to san francisco for less than 100 dollars", "label": "book_flight"}
+{"sentence": "book a flight from new york to la for less than 200 dollars", "label": "book_flight"}
+{"sentence": "find me a flight from seattle to detroit for less than 200 dollars", "label": "book_flight"}
+{"sentence": "i want to a book a roundtrip flight from san antonio to dtw departing on friday and returning on wednesday", "label": "book_flight"}
+{"sentence": "i'm looking for a flight from billings to cleveland on may 2 and a return on may 9", "label": "book_flight"}
+{"sentence": "i'm looking for flights that depart on the 3rd and return on z from monday to friday", "label": "book_flight"}
+{"sentence": "what roundtrip flights from orlando to vegas are available from thursday to monday", "label": "book_flight"}
+{"sentence": "are there any roundtrip flights from shanghai to seatac that depart on wednesday and return on the thirty first", "label": "book_flight"}
+{"sentence": "make sure i get a delta flight from pittsburgh to arizona", "label": "book_flight"}
+{"sentence": "book a delta flight to arizona from pittsburgh", "label": "book_flight"}
+{"sentence": "schedule a flight from pittsburgh to arizona on delta", "label": "book_flight"}
+{"sentence": "i want to fly to atlanta for under 300 from pittsburgh", "label": "book_flight"}
+{"sentence": "i need a flight for under 300 from pittsburgh to atlanta", "label": "book_flight"}
+{"sentence": "i need to rent an suv in charlestown for the first week in june who do you suggest", "label": "car_rental"}
+{"sentence": "find a decent rental care for next week at the philadelphia airport", "label": "car_rental"}
+{"sentence": "who can i rent a car from next month in orlando", "label": "car_rental"}
+{"sentence": "i need to rent a car kfor one week in ocean city, nj so who has the best deal", "label": "car_rental"}
+{"sentence": "find me a car rental for the weekend in asheville, nc via priceline", "label": "car_rental"}
+{"sentence": "what is the phone number of the car rental place", "label": "car_rental"}
+{"sentence": "book a rental car to rhode island for friday, tomorrow", "label": "car_rental"}
+{"sentence": "alexa, book a rental car to los angeles county in 2 hours", "label": "car_rental"}
+{"sentence": "can you book a car rental today to new york city to philadelphia", "label": "car_rental"}
+{"sentence": "book a car rental to miami florida today", "label": "car_rental"}
+{"sentence": "siri, book a car rental to the poconos today right now", "label": "car_rental"}
+{"sentence": "where in syracuse can i book a car", "label": "car_rental"}
+{"sentence": "in x, help me book a car", "label": "car_rental"}
+{"sentence": "book me a car rental in wichita", "label": "car_rental"}
+{"sentence": "how many places in dallas can i rent a car", "label": "car_rental"}
+{"sentence": "where can i rent a car in singapore", "label": "car_rental"}
+{"sentence": "march 2nd through march 18th, i'm going to need a jeep in frankfort", "label": "car_rental"}
+{"sentence": "rent a car for 3/1 through 3/3 in boston; i'd prefer an suv", "label": "car_rental"}
+{"sentence": "can i rent a sports car in augusta for 3/4 through 3/8", "label": "car_rental"}
+{"sentence": "in tampa, i'd like to rent a sedan from 4/1 until 4/5", "label": "car_rental"}
+{"sentence": "i'm going to need a coupe car in sedona from 5/1 until 5/4", "label": "car_rental"}
+{"sentence": "schedule a rental car starting monday the 5th thru friday the 9th at rent a car in town", "label": "car_rental"}
+{"sentence": "can you find a rental car for me that is available this monday through thursday , any make will do", "label": "car_rental"}
+{"sentence": "i need to rent a car from traveler's rent a car downtown and make it from friday the 6th to monday the 9th cheapest available", "label": "car_rental"}
+{"sentence": "i want a rental car that is available tomorrow and that i can keep for four days please find me one", "label": "car_rental"}
+{"sentence": "find me a rental car for next week , from friday the 5th thru monday the 8th, any kind", "label": "car_rental"}
+{"sentence": "i need to rent a car for may 8th to may 25th in danville and i'd like a ford", "label": "car_rental"}
+{"sentence": "i need to rent a car for may 10th to may 15th in lizton and i'd like a bmw", "label": "car_rental"}
+{"sentence": "i need to rent a car for may 3rd to may 5th in indianapolis and i'd like a mercedes", "label": "car_rental"}
+{"sentence": "i need to rent a car for may 11thto may 13th in chicago and i'd like a coupe", "label": "car_rental"}
