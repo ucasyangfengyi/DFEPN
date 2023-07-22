@@ -1,0 +1,64 @@
+alarm query#alarm set
+alarm remove#alarm set
+audio volume mute#audio volume up
+datetime query#datetime convert
+general explain#general affirm
+general joke#general commandstop
+general negate#general confirm
+general quirky#general dontcare
+general repeat#general praise
+music likeness#music settings
+play audiobook#play radio
+recommendation events#recommendation locations
+recommendation movies#recommendation locations
+takeaway order#iot hue lightchange
+takeaway query#calendar query
+transport taxi#transport traffic
+alarm set#datetime convert
+audio volume down#audio volume up
+audio volume up#audio volume down
+calendar query#calendar set
+calendar remove#calendar query
+calendar set#calendar remove
+cooking recipe#iot coffee
+datetime convert#alarm set
+email addcontact#email sendemail
+email querycontact#email addcontact
+email query#email querycontact
+email sendemail#email query
+general affirm#general praise
+general commandstop#general affirm
+general confirm#general commandstop
+general dontcare#general confirm
+general praise#general dontcare
+iot cleaning#iot coffee
+iot coffee#iot cleaning
+iot hue lightchange#iot hue lightdim
+iot hue lightdim#iot hue lightchange
+iot hue lightoff#iot hue lightdim
+iot hue lighton#iot hue lightoff
+iot hue lightup#iot hue lighton
+iot wemo off#iot wemo on
+iot wemo on#iot wemo off
+lists createoradd#lists remove
+lists query#lists createoradd
+lists remove#lists query
+music query#music settings
+music settings#music query
+news query#social query
+play game#play radio
+play music#play game
+play podcasts#play music
+play radio#play podcasts
+qa currency#qa stock
+qa definition#qa currency
+qa factoid#qa definition
+qa maths#qa factoid
+qa stock#qa maths
+recommendation locations#transport ticket
+social post#social query
+social query#social post
+transport query#transport traffic
+transport ticket#transport query
+transport traffic#transport ticket
+weather query#social query
