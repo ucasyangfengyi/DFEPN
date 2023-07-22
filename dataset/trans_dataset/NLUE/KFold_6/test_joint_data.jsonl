@@ -1,0 +1,1869 @@
+{"sentence": "remove today's meeting at evening", "label": "calendar remove"}
+{"sentence": "what lists are in my notebook", "label": "lists query"}
+{"sentence": "please delete the last song that played from the playlist", "label": "lists remove"}
+{"sentence": "how far does my dollar go in japan", "label": "qa factoid"}
+{"sentence": "what is the square root of thirty six", "label": "qa maths"}
+{"sentence": "heading to gym please post to facebook", "label": "social post"}
+{"sentence": "where is the best place to buy party supplies in town", "label": "recommendation locations"}
+{"sentence": "olly please cancel.", "label": "general commandstop"}
+{"sentence": "play sam harris please", "label": "play radio"}
+{"sentence": "please send email to pawel with reminder", "label": "email sendemail"}
+{"sentence": "make the room light blue", "label": "iot hue lightchange"}
+{"sentence": "explanation of the song", "label": "music query"}
+{"sentence": "give some of delete in today events", "label": "calendar remove"}
+{"sentence": "will you check what i said please.", "label": "general confirm"}
+{"sentence": "what is john doe's address", "label": "email querycontact"}
+{"sentence": "look up the exchange rate between dollars and bitcoin", "label": "qa currency"}
+{"sentence": "what's going on on wall street this week", "label": "qa stock"}
+{"sentence": "would you like to play a game", "label": "play game"}
+{"sentence": "start radio play", "label": "play radio"}
+{"sentence": "hi what is happening in twitter today", "label": "social query"}
+{"sentence": "i'm looking for a casual restaurant for a dinner date", "label": "recommendation locations"}
+{"sentence": "get me up at eight am", "label": "alarm set"}
+{"sentence": "where is a good place to eat in seattle", "label": "recommendation locations"}
+{"sentence": "let's hear some indie rock okay", "label": "play music"}
+{"sentence": "please open and play chess with me", "label": "play game"}
+{"sentence": "check my facebook for notifications", "label": "social query"}
+{"sentence": "confirm last thing said please.", "label": "general confirm"}
+{"sentence": "i want to go to mcdo", "label": "transport query"}
+{"sentence": "yeap your understanding was confirmed.", "label": "general affirm"}
+{"sentence": "what's still on the list", "label": "lists query"}
+{"sentence": "please arrange to make all lights to show brighter", "label": "iot hue lightup"}
+{"sentence": "give me the name of all the shops in my area", "label": "recommendation locations"}
+{"sentence": "add new email to contacts", "label": "email addcontact"}
+{"sentence": "play podcast for the philadelphia eagles content", "label": "play podcasts"}
+{"sentence": "can you give me the train times to nyc", "label": "transport query"}
+{"sentence": "read me the last email from stefan and oil change", "label": "email query"}
+{"sentence": "give me some lavender toned light", "label": "iot hue lightchange"}
+{"sentence": "please turn off all the lights outdoor", "label": "iot hue lightoff"}
+{"sentence": "please would you confirm detail.", "label": "general confirm"}
+{"sentence": "all lights has to be turned off during the day", "label": "iot hue lightoff"}
+{"sentence": "list the latest apple stock prices", "label": "qa stock"}
+{"sentence": "did dan send me any emails", "label": "email query"}
+{"sentence": "invite people to the calendar event", "label": "calendar set"}
+{"sentence": "send email to daddy i'll be going to the birthday party", "label": "email sendemail"}
+{"sentence": "turn on new smart socket", "label": "iot wemo on"}
+{"sentence": "please turn on my music", "label": "play music"}
+{"sentence": "please set a monthly reminder for paying rent", "label": "calendar set"}
+{"sentence": "please play the podcast from happypeoplecom", "label": "play podcasts"}
+{"sentence": "get me up in half an hour", "label": "alarm set"}
+{"sentence": "schedule meeting with laura", "label": "calendar set"}
+{"sentence": "what is the price for marvel", "label": "qa stock"}
+{"sentence": "please send a complaint to someone", "label": "social post"}
+{"sentence": "yes amazing response.", "label": "general affirm"}
+{"sentence": "set a notification on third march about company meeting", "label": "calendar set"}
+{"sentence": "actually what is the life style of sahara desert", "label": "qa factoid"}
+{"sentence": "please i want to hear we will rock you from queen", "label": "play music"}
+{"sentence": "please create a new contact information about jo", "label": "email addcontact"}
+{"sentence": "that's nice job, thank you so much.", "label": "general praise"}
+{"sentence": "what are trending topics on twitter right now", "label": "social query"}
+{"sentence": "what does a grapefruit look like", "label": "qa definition"}
+{"sentence": "show me the stock prices of target today", "label": "qa stock"}
+{"sentence": "have the vacuum cleaner clean the room", "label": "iot cleaning"}
+{"sentence": "add new songs to playlist", "label": "lists createoradd"}
+{"sentence": "play uno together", "label": "play game"}
+{"sentence": "set meeting with the ceo tomorrow", "label": "calendar set"}
+{"sentence": "anything would be good with me, olly.", "label": "general dontcare"}
+{"sentence": "set alarm for nine am", "label": "alarm set"}
+{"sentence": "play the last next episode", "label": "play podcasts"}
+{"sentence": "remove the guest list i created last week", "label": "lists remove"}
+{"sentence": "schedule a journey to las vegas by train", "label": "transport ticket"}
+{"sentence": "change my music player volume to eighty percent", "label": "audio volume up"}
+{"sentence": "definition of velocity", "label": "qa definition"}
+{"sentence": "change your colors to something different", "label": "iot hue lightchange"}
+{"sentence": "lower all volume on speakers please", "label": "audio volume down"}
+{"sentence": "please check and confirm the command.", "label": "general confirm"}
+{"sentence": "it is dark", "label": "iot hue lighton"}
+{"sentence": "would not bother, olly.", "label": "general dontcare"}
+{"sentence": "show me my calendar event this Friday afternoon", "label": "calendar query"}
+{"sentence": "can you please turn off my wemo plug", "label": "iot wemo off"}
+{"sentence": "do i have anything scheduled in my events", "label": "calendar query"}
+{"sentence": "up the brightness on these lights", "label": "iot hue lightup"}
+{"sentence": "what is the song name", "label": "music query"}
+{"sentence": "are there any unread messages in my inbox", "label": "email query"}
+{"sentence": "set an alarm for five am", "label": "alarm set"}
+{"sentence": "i want a train ticket from los angeles to phoenix", "label": "transport ticket"}
+{"sentence": "do i have any undone tasks", "label": "calendar query"}
+{"sentence": "i wouldn't bother, olly.", "label": "general dontcare"}
+{"sentence": "change my plan erase my next event", "label": "calendar remove"}
+{"sentence": "what is the cooking time for boiled eggs", "label": "cooking recipe"}
+{"sentence": "do i need a sweater today", "label": "weather query"}
+{"sentence": "cancel meeting at three", "label": "calendar remove"}
+{"sentence": "what train companies are near me", "label": "recommendation locations"}
+{"sentence": "make me happy juice", "label": "iot coffee"}
+{"sentence": "tell me the temperature in pheonix", "label": "weather query"}
+{"sentence": "rahul marriage reminder", "label": "calendar query"}
+{"sentence": "that's cool, thank you very much, olly.", "label": "general praise"}
+{"sentence": "buy me today train ticket to city leeds", "label": "transport ticket"}
+{"sentence": "open games", "label": "play game"}
+{"sentence": "do i have anything outstanding on any lists", "label": "lists query"}
+{"sentence": "what song is currently playing", "label": "music query"}
+{"sentence": "really i don't mind, olly.", "label": "general dontcare"}
+{"sentence": "solve the calculation", "label": "qa maths"}
+{"sentence": "new scenario time or calendar to new list", "label": "lists createoradd"}
+{"sentence": "on the plug", "label": "iot wemo on"}
+{"sentence": "read the list", "label": "lists query"}
+{"sentence": "what temperature do you bake a potato", "label": "cooking recipe"}
+{"sentence": "what does happy mean", "label": "qa definition"}
+{"sentence": "check and confirm last thing said please.", "label": "general confirm"}
+{"sentence": "is there anything left on my list", "label": "lists query"}
+{"sentence": "add event to date", "label": "calendar set"}
+{"sentence": "olly please read me today's news", "label": "news query"}
+{"sentence": "what is next in my calendar", "label": "calendar query"}
+{"sentence": "could you turn off light", "label": "iot hue lightoff"}
+{"sentence": "your volume is too high please repeat that lower", "label": "audio volume down"}
+{"sentence": "tell me when will indians economy touch that of americas", "label": "qa factoid"}
+{"sentence": "what is marketing", "label": "qa definition"}
+{"sentence": "how many mega pixel is listed in the description of the canon", "label": "qa factoid"}
+{"sentence": "please turn on the lights", "label": "iot hue lighton"}
+{"sentence": "tell me updates", "label": "news query"}
+{"sentence": "what is four plus five", "label": "qa maths"}
+{"sentence": "find easy recipe for almond milk", "label": "cooking recipe"}
+{"sentence": "olly i would like you stop.", "label": "general commandstop"}
+{"sentence": "what are some good restaurants near by", "label": "recommendation locations"}
+{"sentence": "am i gonna hit traffic", "label": "transport traffic"}
+{"sentence": "next train to dc", "label": "transport query"}
+{"sentence": "start a new email to george brown", "label": "email sendemail"}
+{"sentence": "tell me the time when punjab mail will reach gwalior", "label": "transport query"}
+{"sentence": "can you send an email to my mother about the weekly weather", "label": "email sendemail"}
+{"sentence": "please clean the floor", "label": "iot cleaning"}
+{"sentence": "olly what songs have i listened to at least ten times", "label": "music query"}
+{"sentence": "make a contrast one", "label": "iot hue lightchange"}
+{"sentence": "what is time of indianapolis express", "label": "transport query"}
+{"sentence": "how me the highest weather this week", "label": "weather query"}
+{"sentence": "set up each day an alarm at ten time for my meal", "label": "alarm set"}
+{"sentence": "set alarm for one hour from now", "label": "alarm set"}
+{"sentence": "turn on console", "label": "play game"}
+{"sentence": "skip this one", "label": "play podcasts"}
+{"sentence": "show me some vegan restaurants close by", "label": "recommendation locations"}
+{"sentence": "what is the traffic situation at the bazaar highway", "label": "transport traffic"}
+{"sentence": "access coffee maker begin process", "label": "iot coffee"}
+{"sentence": "fantastic job, you've done well, olly.", "label": "general praise"}
+{"sentence": "set my alarm for six am tomorrow", "label": "alarm set"}
+{"sentence": "play candy crush", "label": "play game"}
+{"sentence": "open vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "hey play the songs from my playlist named good tunes", "label": "play music"}
+{"sentence": "tell me about the meetings over a period of time", "label": "calendar query"}
+{"sentence": "whats ten percent off forty dollars", "label": "qa maths"}
+{"sentence": "store my contacts", "label": "email addcontact"}
+{"sentence": "name the capital of nigeria", "label": "qa factoid"}
+{"sentence": "can you look up and add john's old email to my contacts again", "label": "email addcontact"}
+{"sentence": "current traffic", "label": "transport traffic"}
+{"sentence": "what is the capital of china", "label": "qa factoid"}
+{"sentence": "olly will you shut down please.", "label": "general commandstop"}
+{"sentence": "what is two plus four", "label": "qa maths"}
+{"sentence": "remind me of my appointment on the fifteenth", "label": "calendar set"}
+{"sentence": "calculate two plus 29", "label": "qa maths"}
+{"sentence": "what clothing shops are close to my current location", "label": "recommendation locations"}
+{"sentence": "repeat all", "label": "music settings"}
+{"sentence": "check for all emails from tom brady", "label": "email query"}
+{"sentence": "don't mind for whatever.", "label": "general dontcare"}
+{"sentence": "how much is an euro worth", "label": "qa currency"}
+{"sentence": "yeap you get your understanding exactly.", "label": "general affirm"}
+{"sentence": "i need the lights raised can you do that", "label": "iot hue lightup"}
+{"sentence": "Lets play tic tac toe", "label": "play game"}
+{"sentence": "describe what a sphere is", "label": "qa definition"}
+{"sentence": "are there any accidents on harvard", "label": "transport traffic"}
+{"sentence": "set a two day notification before maria's birthday please", "label": "calendar set"}
+{"sentence": "how is the traffic presently near central park road", "label": "transport traffic"}
+{"sentence": "make the speaker volume on maximum", "label": "audio volume up"}
+{"sentence": "tell me about neal adams", "label": "qa factoid"}
+{"sentence": "olly stop please.", "label": "general commandstop"}
+{"sentence": "make sound louder", "label": "audio volume up"}
+{"sentence": "take off this list", "label": "lists remove"}
+{"sentence": "call mom", "label": "email querycontact"}
+{"sentence": "go back to previous episode of podcast", "label": "play podcasts"}
+{"sentence": "play fishing podcasts that are favorited", "label": "play podcasts"}
+{"sentence": "run the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "please tell me how can I remove the item", "label": "lists remove"}
+{"sentence": "send the following email to bro hi come down for dinner tonight", "label": "email sendemail"}
+{"sentence": "you've done that right.", "label": "general praise"}
+{"sentence": "give me my social media update", "label": "social query"}
+{"sentence": "excellent job, you have done well.", "label": "general praise"}
+{"sentence": "what is the current weather in denver", "label": "weather query"}
+{"sentence": "display latest emails", "label": "email query"}
+{"sentence": "i would like to know the train timings to bournemouth tomorrow", "label": "transport query"}
+{"sentence": "u. s. d. to yen", "label": "qa currency"}
+{"sentence": "there is a pile of torn paper on the rug to suck up", "label": "iot cleaning"}
+{"sentence": "play the latest seahawks podcast", "label": "play podcasts"}
+{"sentence": "let me know of the meeting on tuesday", "label": "calendar set"}
+{"sentence": "how many dollars are in a pound", "label": "qa currency"}
+{"sentence": "give me the headline news", "label": "news query"}
+{"sentence": "play only songs by the beatles please", "label": "play music"}
+{"sentence": "turn off the lights in the bedroom", "label": "iot hue lightoff"}
+{"sentence": "remove my list of contacts from work", "label": "lists remove"}
+{"sentence": "open my list", "label": "lists query"}
+{"sentence": "make the bedroom lights light blue", "label": "iot hue lightchange"}
+{"sentence": "that's enough, just stop it.", "label": "general commandstop"}
+{"sentence": "play me the bbc radio podcast", "label": "play podcasts"}
+{"sentence": "go to the third episode of this podcast", "label": "play podcasts"}
+{"sentence": "start my jazz playlist", "label": "play music"}
+{"sentence": "who recently posted on social media", "label": "social query"}
+{"sentence": "how much rate will be calculated", "label": "qa stock"}
+{"sentence": "give me the opening stock price of infosys technologies today", "label": "qa stock"}
+{"sentence": "alarm five pm tuesday", "label": "alarm set"}
+{"sentence": "can you make the lights go out", "label": "iot hue lightoff"}
+{"sentence": "when did mount saint helens last erupt", "label": "qa factoid"}
+{"sentence": "can you turn off the living room lights", "label": "iot hue lightoff"}
+{"sentence": "tweet for me the complaint about drainage choke up", "label": "social post"}
+{"sentence": "that's enough, just cancel it.", "label": "general commandstop"}
+{"sentence": "delete my dr k appointment in march", "label": "calendar remove"}
+{"sentence": "please put radio in shuffle", "label": "music settings"}
+{"sentence": "what is the departure time for the next train leaving new york city", "label": "transport query"}
+{"sentence": "hey olly turn up the lights a little", "label": "iot hue lightup"}
+{"sentence": "please add dan's email to my contacts", "label": "email addcontact"}
+{"sentence": "how much is dollars american worth in yen", "label": "qa currency"}
+{"sentence": "remove all upcoming events please", "label": "calendar remove"}
+{"sentence": "take out the milk from the shopping list", "label": "lists remove"}
+{"sentence": "would you shut up please.", "label": "general commandstop"}
+{"sentence": "this is a tweet for comcast if i have my internet and phone service from you and it goes out how can i contact you", "label": "social post"}
+{"sentence": "set alarm for tomorrow morning at six am", "label": "alarm set"}
+{"sentence": "yeah exact response.", "label": "general affirm"}
+{"sentence": "complaint to dept for food quality", "label": "social post"}
+{"sentence": "hi olly post my last clicked photo on facebook with title marry christmas", "label": "social post"}
+{"sentence": "get me updates from kenny's facebook from the weekend", "label": "social query"}
+{"sentence": "turn off all lights", "label": "iot hue lightoff"}
+{"sentence": "weather report of the week", "label": "weather query"}
+{"sentence": "please make me wake up at four am tomorrow", "label": "alarm set"}
+{"sentence": "it's dark in here", "label": "iot hue lighton"}
+{"sentence": "what is the lowest microsoft stock price today", "label": "qa stock"}
+{"sentence": "please set the vacuum to start going now", "label": "iot cleaning"}
+{"sentence": "please find the recipe for meatballs", "label": "cooking recipe"}
+{"sentence": "weather like", "label": "weather query"}
+{"sentence": "i want to play blackjack", "label": "play game"}
+{"sentence": "i would talk to you later on.", "label": "general commandstop"}
+{"sentence": "calculate distance from boston to new york", "label": "qa factoid"}
+{"sentence": "up", "label": "audio volume up"}
+{"sentence": "confirm the last thing said please.", "label": "general confirm"}
+{"sentence": "what is my schedule for june fourteenth two thousand and seventeen", "label": "calendar query"}
+{"sentence": "nearest restaurants available at this time", "label": "recommendation locations"}
+{"sentence": "i want to hear purple haze", "label": "play music"}
+{"sentence": "remove item three from the list", "label": "lists remove"}
+{"sentence": "email my sister about mom's birthday jane we should think about arranging the party at the park", "label": "email sendemail"}
+{"sentence": "i need more milk", "label": "lists createoradd"}
+{"sentence": "repeat jazz", "label": "music settings"}
+{"sentence": "i would not bother.", "label": "general dontcare"}
+{"sentence": "tell me how to make garlic bread", "label": "cooking recipe"}
+{"sentence": "what do i have on my shopping list", "label": "lists query"}
+{"sentence": "how much traffic does atlanta georgia usually have", "label": "transport traffic"}
+{"sentence": "open a new list for me", "label": "lists createoradd"}
+{"sentence": "pull up lights control", "label": "iot hue lightup"}
+{"sentence": "how's the traffic", "label": "transport traffic"}
+{"sentence": "who is the singer of this song right now", "label": "music query"}
+{"sentence": "whatever is good with me, olly.", "label": "general dontcare"}
+{"sentence": "whatever is okay with me.", "label": "general dontcare"}
+{"sentence": "tell how vegetable is cooked", "label": "cooking recipe"}
+{"sentence": "play radio ninety five point five", "label": "play radio"}
+{"sentence": "how long should i cook a steak to be medium", "label": "cooking recipe"}
+{"sentence": "sum of five and two", "label": "qa maths"}
+{"sentence": "radio play nine hundred and eighty nine please", "label": "play radio"}
+{"sentence": "show me share price of amazon", "label": "qa stock"}
+{"sentence": "decrease twenty percent", "label": "audio volume down"}
+{"sentence": "please start the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "mobile shop", "label": "recommendation locations"}
+{"sentence": "power off the wemo plug", "label": "iot wemo off"}
+{"sentence": "remind me to take the casserole out of the oven at seven hundred and forty five pm", "label": "calendar set"}
+{"sentence": "that is cool, musch appreciated.", "label": "general praise"}
+{"sentence": "find all the contacts named john", "label": "email querycontact"}
+{"sentence": "it seems cold", "label": "weather query"}
+{"sentence": "play bbc radio", "label": "play radio"}
+{"sentence": "do i have any new friend requests", "label": "social query"}
+{"sentence": "change my room lights to blue", "label": "iot hue lightchange"}
+{"sentence": "what are the news stories on the cnn website", "label": "news query"}
+{"sentence": "shazam this music", "label": "music settings"}
+{"sentence": "is keith richards dead", "label": "qa factoid"}
+{"sentence": "lists i have", "label": "lists query"}
+{"sentence": "please delete this file", "label": "lists remove"}
+{"sentence": "this event needs to be deleted", "label": "calendar remove"}
+{"sentence": "play solitaire", "label": "play game"}
+{"sentence": "is summer going on", "label": "weather query"}
+{"sentence": "how do i make mashed potatoes", "label": "cooking recipe"}
+{"sentence": "hi there tell me latest updates of times of india page in facebook", "label": "social query"}
+{"sentence": "show me the stock price for google", "label": "qa stock"}
+{"sentence": "send a tweet to meijer tell them that they have the worst customer service", "label": "social post"}
+{"sentence": "i need to make a grocery list", "label": "lists createoradd"}
+{"sentence": "mario", "label": "play game"}
+{"sentence": "make the smart socket turn off", "label": "iot wemo off"}
+{"sentence": "what is new news for today", "label": "news query"}
+{"sentence": "make some coffee", "label": "iot coffee"}
+{"sentence": "send an email to my boss and attach the presentation file with it apologize for being late", "label": "email sendemail"}
+{"sentence": "tell me about new emails", "label": "email query"}
+{"sentence": "add this new email with contact", "label": "email addcontact"}
+{"sentence": "put dark colours instead of light ones in the house", "label": "iot hue lightchange"}
+{"sentence": "delete mike stein from contacts list", "label": "lists remove"}
+{"sentence": "please check and confirm the last thing said.", "label": "general confirm"}
+{"sentence": "how do i reach sarah", "label": "email querycontact"}
+{"sentence": "can i have an espresso please", "label": "iot coffee"}
+{"sentence": "tell artist and title of this song", "label": "music query"}
+{"sentence": "tell comcast i am still on hold", "label": "social post"}
+{"sentence": "what's john's home phone number", "label": "email querycontact"}
+{"sentence": "select and play only christian rock from one thousand nine hundred and ninety upwards", "label": "play music"}
+{"sentence": "set alarm at six thirty am", "label": "alarm set"}
+{"sentence": "play the bjork album i've heard the least", "label": "play music"}
+{"sentence": "what is twenty three times fifty two", "label": "qa maths"}
+{"sentence": "my games to play in my computers", "label": "play game"}
+{"sentence": "how old is mary s.", "label": "email querycontact"}
+{"sentence": "how many songs did michael jackson write", "label": "qa factoid"}
+{"sentence": "where can i shop as a local tourist", "label": "recommendation locations"}
+{"sentence": "do i need pants", "label": "weather query"}
+{"sentence": "how long was bryan cranston on breaking bad", "label": "qa factoid"}
+{"sentence": "delete event from mine", "label": "calendar remove"}
+{"sentence": "now playing", "label": "play music"}
+{"sentence": "play pong against me", "label": "play game"}
+{"sentence": "dim the lights at the living room", "label": "iot hue lightdim"}
+{"sentence": "activate a one week notification before my anniversary please", "label": "calendar set"}
+{"sentence": "perfect response to command.", "label": "general affirm"}
+{"sentence": "please tweet about the problem i m facing with the product of company", "label": "social post"}
+{"sentence": "please will you check it.", "label": "general confirm"}
+{"sentence": "light off", "label": "iot hue lightoff"}
+{"sentence": "did i receive any email in the past hour", "label": "email query"}
+{"sentence": "that's amazing job, musch appreciated.", "label": "general praise"}
+{"sentence": "delete sherlock holmes from library", "label": "lists remove"}
+{"sentence": "complain to philips", "label": "social post"}
+{"sentence": "olly will you shut off.", "label": "general commandstop"}
+{"sentence": "direction to local train station", "label": "transport query"}
+{"sentence": "set a neighbor party for next week", "label": "calendar set"}
+{"sentence": "what are the latest tweets from the new york times", "label": "social query"}
+{"sentence": "what is the yen us dollar exchange rate", "label": "qa currency"}
+{"sentence": "set the alarm to seven am for work", "label": "alarm set"}
+{"sentence": "show me my lists", "label": "lists query"}
+{"sentence": "do i need to wear sunscreen today", "label": "weather query"}
+{"sentence": "where is russia located", "label": "qa factoid"}
+{"sentence": "this is unimportant, olly.", "label": "general dontcare"}
+{"sentence": "what's the next thing on my list of appointments", "label": "lists query"}
+{"sentence": "plan a meeting in office with all employees tomorrow morning at eight", "label": "calendar set"}
+{"sentence": "activate vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "i need a cup of coffee", "label": "iot coffee"}
+{"sentence": "lights off bathroom", "label": "iot hue lightoff"}
+{"sentence": "remove birthday party", "label": "calendar remove"}
+{"sentence": "play for me the game cricket", "label": "play game"}
+{"sentence": "book a ticket to ny by train", "label": "transport ticket"}
+{"sentence": "i want to hear this podcast", "label": "play podcasts"}
+{"sentence": "olly please would you stop.", "label": "general commandstop"}
+{"sentence": "convert g. m. t. to ist", "label": "datetime convert"}
+{"sentence": "rahul contact", "label": "email querycontact"}
+{"sentence": "please search for beginners guide to cooking", "label": "cooking recipe"}
+{"sentence": "please update me on my social media accounts", "label": "social query"}
+{"sentence": "let's play some pong", "label": "play game"}
+{"sentence": "erase all events", "label": "calendar remove"}
+{"sentence": "what is jeff's number", "label": "email querycontact"}
+{"sentence": "what's my to do list for today", "label": "lists query"}
+{"sentence": "whats the average temperature in mangalore for this week", "label": "weather query"}
+{"sentence": "please confirm it.", "label": "general confirm"}
+{"sentence": "you are hero, appreciated.", "label": "general praise"}
+{"sentence": "please go to amtrak dot com to purchase tickets", "label": "transport ticket"}
+{"sentence": "remove eggs for the shopping list", "label": "lists remove"}
+{"sentence": "when it is nine in the east what time is it in the west", "label": "datetime convert"}
+{"sentence": "what time does the first train depart from chicago", "label": "transport query"}
+{"sentence": "take lunch meeting off my calendar", "label": "calendar remove"}
+{"sentence": "turn on vacuum", "label": "iot cleaning"}
+{"sentence": "how do i set the timer on my coffee machine", "label": "iot coffee"}
+{"sentence": "give me the release date of this song", "label": "music query"}
+{"sentence": "what time does the last train arrive in dallas", "label": "transport query"}
+{"sentence": "pull up list", "label": "lists query"}
+{"sentence": "is it possible to drive now in ohio", "label": "transport traffic"}
+{"sentence": "describe a rotor", "label": "qa definition"}
+{"sentence": "lighten the light", "label": "iot hue lightup"}
+{"sentence": "skip forward", "label": "play podcasts"}
+{"sentence": "did mark post anything new on facebook", "label": "social query"}
+{"sentence": "what is the weather for this week", "label": "weather query"}
+{"sentence": "that's great one, thanks.", "label": "general praise"}
+{"sentence": "switch to eastern time zone", "label": "datetime convert"}
+{"sentence": "cancel.", "label": "general commandstop"}
+{"sentence": "start house cleanup", "label": "iot cleaning"}
+{"sentence": "put a seven pm meeting time down for march fourteenth", "label": "calendar set"}
+{"sentence": "make the coffee", "label": "iot coffee"}
+{"sentence": "get me a seat on the next train going to new york", "label": "transport ticket"}
+{"sentence": "please tell me a shop where i can find books to buy", "label": "recommendation locations"}
+{"sentence": "tell me when it is five pm", "label": "alarm set"}
+{"sentence": "lights on", "label": "iot hue lighton"}
+{"sentence": "wouldn't know, olly.", "label": "general dontcare"}
+{"sentence": "show stock value of goog", "label": "qa stock"}
+{"sentence": "play football match for myself now", "label": "play game"}
+{"sentence": "what would be the exchange rate of currency in japan", "label": "qa currency"}
+{"sentence": "please turn up the speaker volume", "label": "audio volume up"}
+{"sentence": "directions to nearest apple store", "label": "transport query"}
+{"sentence": "dim lights in living room", "label": "iot hue lightdim"}
+{"sentence": "the volume of the music playing now should be raised", "label": "audio volume up"}
+{"sentence": "will you stop.", "label": "general commandstop"}
+{"sentence": "play i spy with me", "label": "play game"}
+{"sentence": "what's the stock price of this", "label": "qa stock"}
+{"sentence": "book a train ticket from baltimore maryland to new york new york", "label": "transport ticket"}
+{"sentence": "can you define this word", "label": "qa definition"}
+{"sentence": "switch off all lights", "label": "iot hue lightoff"}
+{"sentence": "book a train ticket to new york", "label": "transport ticket"}
+{"sentence": "play the kansas city hip hop station", "label": "play radio"}
+{"sentence": "what is the traffic like", "label": "transport traffic"}
+{"sentence": "play chess with me please", "label": "play game"}
+{"sentence": "i want a train ticket to edinburgh", "label": "transport ticket"}
+{"sentence": "turn the left light off", "label": "iot hue lightoff"}
+{"sentence": "given it is four thirty five pm in london what time is it in melbourne", "label": "datetime convert"}
+{"sentence": "olly that is all, just stop it.", "label": "general commandstop"}
+{"sentence": "turn the volume down a little please", "label": "audio volume down"}
+{"sentence": "divide one thousand five hundred by one hundred and sixty", "label": "qa maths"}
+{"sentence": "would you shut up.", "label": "general commandstop"}
+{"sentence": "can I get the recipe for chocolate brownies", "label": "cooking recipe"}
+{"sentence": "how much is the us dollar worth in canada", "label": "qa currency"}
+{"sentence": "send an email to bob", "label": "email sendemail"}
+{"sentence": "how many bots are in a dollar", "label": "qa currency"}
+{"sentence": "how many dollars can i get for one yen", "label": "qa currency"}
+{"sentence": "please turn off kitchen light for me", "label": "iot hue lightoff"}
+{"sentence": "open sirius app and play the classical channel", "label": "play radio"}
+{"sentence": "erase that from my calendar", "label": "calendar remove"}
+{"sentence": "could you list out the list of trains heading to chester the day after", "label": "transport query"}
+{"sentence": "would you check and confirm the question please.", "label": "general confirm"}
+{"sentence": "what was the first car made", "label": "qa factoid"}
+{"sentence": "what does a baguette look like", "label": "qa definition"}
+{"sentence": "please program volume settings for sixteen when i'm in the room at fourteen for when i've gone to bed", "label": "music settings"}
+{"sentence": "definition for object name", "label": "qa definition"}
+{"sentence": "look up word", "label": "qa definition"}
+{"sentence": "tell me the top stories in the news", "label": "news query"}
+{"sentence": "set an alarm for five hundred and thirty", "label": "alarm set"}
+{"sentence": "give me the exchange rate between japanese yen and the australian dollar", "label": "qa currency"}
+{"sentence": "remove emma's birthday from events", "label": "calendar remove"}
+{"sentence": "will you put on the music", "label": "play music"}
+{"sentence": "turn off lights in bedroom", "label": "iot hue lightoff"}
+{"sentence": "can i have my list", "label": "lists query"}
+{"sentence": "please tweet a complaint about slow service at applebee's", "label": "social post"}
+{"sentence": "decrease lighting", "label": "iot hue lightdim"}
+{"sentence": "i need to create a new to do list", "label": "lists createoradd"}
+{"sentence": "brighten the light of hall", "label": "iot hue lightup"}
+{"sentence": "show me the shortest route towards nearest train station", "label": "transport query"}
+{"sentence": "please tweet waited sixty five minutes for a table at tgi fridays never going back", "label": "social post"}
+{"sentence": "are there any emails i haven't read yet", "label": "email query"}
+{"sentence": "add dr rosenstock as an email contact", "label": "email addcontact"}
+{"sentence": "what day is this event scheduled for", "label": "calendar query"}
+{"sentence": "please make me nice coffee", "label": "iot coffee"}
+{"sentence": "would you stop please.", "label": "general commandstop"}
+{"sentence": "tweet something for me", "label": "social post"}
+{"sentence": "where can i eat along route sixty six", "label": "recommendation locations"}
+{"sentence": "send email to bro and say hi come down for dinner tonight", "label": "email sendemail"}
+{"sentence": "remove event from my list", "label": "lists remove"}
+{"sentence": "how many euros for one u. s. d.", "label": "qa currency"}
+{"sentence": "change lighting colours", "label": "iot hue lightchange"}
+{"sentence": "can i see my work lists", "label": "lists query"}
+{"sentence": "what does pda mean", "label": "qa definition"}
+{"sentence": "begin radio play", "label": "play radio"}
+{"sentence": "coffee please", "label": "iot coffee"}
+{"sentence": "current traffic conditions", "label": "transport traffic"}
+{"sentence": "what are the best italian restaurants in los angeles", "label": "recommendation locations"}
+{"sentence": "tell me what the word organism means", "label": "qa definition"}
+{"sentence": "add to calendar may two is mary's birthday repeat every year", "label": "calendar set"}
+{"sentence": "turn wemo plug socket off", "label": "iot wemo off"}
+{"sentence": "do i have any emails from jessica", "label": "email query"}
+{"sentence": "how much does stock cost in walmart", "label": "qa stock"}
+{"sentence": "could you create a new list for me", "label": "lists createoradd"}
+{"sentence": "change the time zone from irish time zone to moscow time zone", "label": "datetime convert"}
+{"sentence": "hows many more reminders are left", "label": "calendar query"}
+{"sentence": "what are the new rock radio stations", "label": "play radio"}
+{"sentence": "rewind the episode of podcast", "label": "play podcasts"}
+{"sentence": "tweet to mcdonalds saying that i found a hair in their burger", "label": "social post"}
+{"sentence": "add a new contact for daniel bell dbell@aol dot com", "label": "email addcontact"}
+{"sentence": "jazz could be choice for me", "label": "play music"}
+{"sentence": "send an email to my brother and say wedding anniversary", "label": "email sendemail"}
+{"sentence": "what are the big news stories on twitter", "label": "social query"}
+{"sentence": "make curser adjustable position", "label": "iot hue lightchange"}
+{"sentence": "remove item three", "label": "lists remove"}
+{"sentence": "book me a train ticket for saturday", "label": "transport ticket"}
+{"sentence": "include this", "label": "lists createoradd"}
+{"sentence": "please increase the volume to maximum", "label": "audio volume up"}
+{"sentence": "how many miles in five kilometers", "label": "qa maths"}
+{"sentence": "will there be snow tomorrow", "label": "weather query"}
+{"sentence": "switch off main light", "label": "iot hue lightoff"}
+{"sentence": "can you begin the brew", "label": "iot coffee"}
+{"sentence": "book a train ticket to charleston west virginia eight am", "label": "transport ticket"}
+{"sentence": "whats around", "label": "recommendation locations"}
+{"sentence": "compose an email to parisa", "label": "email sendemail"}
+{"sentence": "book a train ticket for friday april fourteenth for boston", "label": "transport ticket"}
+{"sentence": "find updates from vicki's facebook from mardi gras day", "label": "social query"}
+{"sentence": "when's mark lanegan's next album out", "label": "qa factoid"}
+{"sentence": "can i make back home without a traffic jam", "label": "transport traffic"}
+{"sentence": "convert one us dollar to british pound", "label": "qa currency"}
+{"sentence": "did apple stocks go up or down", "label": "qa stock"}
+{"sentence": "add email address iamironman@gmail dot com", "label": "email addcontact"}
+{"sentence": "could you play you don't bring me flowers", "label": "play music"}
+{"sentence": "yeah you've understood my instructions perfectly.", "label": "general affirm"}
+{"sentence": "provide what is there on the list", "label": "lists query"}
+{"sentence": "read the ticket for tesla", "label": "transport ticket"}
+{"sentence": "who has sent me an email in the past week", "label": "email query"}
+{"sentence": "i would not mind, olly.", "label": "general dontcare"}
+{"sentence": "write a tweet of complaint about my tv to samsung", "label": "social post"}
+{"sentence": "turn room lights off now", "label": "iot hue lightoff"}
+{"sentence": "what is the square root of four", "label": "qa maths"}
+{"sentence": "please open chess game i would like to play with you", "label": "play game"}
+{"sentence": "make me a cup of coffee with salted carmel flavored cream", "label": "iot coffee"}
+{"sentence": "add jpearsonjessica@gmail dot com to email contacts", "label": "email addcontact"}
+{"sentence": "any new emails after five pm", "label": "email query"}
+{"sentence": "olly can you shut down.", "label": "general commandstop"}
+{"sentence": "queue up ymca", "label": "play music"}
+{"sentence": "turn office lights off", "label": "iot hue lightoff"}
+{"sentence": "how many sides are on a pentagon", "label": "qa factoid"}
+{"sentence": "post a tweet as follows very bad follow up by abc company not satisfied in my account", "label": "social post"}
+{"sentence": "prepare my morning coffee", "label": "iot coffee"}
+{"sentence": "let's play fmod", "label": "play game"}
+{"sentence": "i need to book rajdhani train ticket from mumbai to ahmedabad", "label": "transport ticket"}
+{"sentence": "change color", "label": "iot hue lightchange"}
+{"sentence": "do i have any missed call from patrick", "label": "email querycontact"}
+{"sentence": "save to contacts", "label": "email addcontact"}
+{"sentence": "erase spaghetti from list", "label": "lists remove"}
+{"sentence": "go to radio", "label": "play radio"}
+{"sentence": "delete list for groceries", "label": "lists remove"}
+{"sentence": "what is the answer to four plus four", "label": "qa maths"}
+{"sentence": "describe rock sand", "label": "qa definition"}
+{"sentence": "don't really bother.", "label": "general dontcare"}
+{"sentence": "it was nice job, thank you so much.", "label": "general praise"}
+{"sentence": "make a cup of coffee", "label": "iot coffee"}
+{"sentence": "delete the dog list for me", "label": "lists remove"}
+{"sentence": "confirmed.", "label": "general affirm"}
+{"sentence": "start playing fm ninety six point five when it is one pm", "label": "play radio"}
+{"sentence": "how many emails do i have from work today", "label": "email query"}
+{"sentence": "can you make some coffee", "label": "iot coffee"}
+{"sentence": "can you tell me the phone number of me", "label": "email querycontact"}
+{"sentence": "lindafancy55@gmail dot com", "label": "email sendemail"}
+{"sentence": "please cancel my next hair cut", "label": "calendar remove"}
+{"sentence": "did mom text me", "label": "email querycontact"}
+{"sentence": "send an email to my mum that i will visit her next weekend", "label": "email sendemail"}
+{"sentence": "i want to turn on the blue lights", "label": "iot hue lighton"}
+{"sentence": "can you just cancel it.", "label": "general commandstop"}
+{"sentence": "please will you confirm command.", "label": "general confirm"}
+{"sentence": "yes exact response.", "label": "general affirm"}
+{"sentence": "exchange rate of euro with dollar", "label": "qa currency"}
+{"sentence": "read me new emails", "label": "email query"}
+{"sentence": "rj raunak programme play on ninety two point seven fm", "label": "play radio"}
+{"sentence": "how long should i cook chicken for", "label": "cooking recipe"}
+{"sentence": "post a facebook status update", "label": "social post"}
+{"sentence": "It's too dark in here", "label": "iot hue lighton"}
+{"sentence": "turn off the light in the living room", "label": "iot hue lightoff"}
+{"sentence": "are there any tornado warnings today", "label": "weather query"}
+{"sentence": "shut off the lights", "label": "iot hue lightoff"}
+{"sentence": "My weekly plan", "label": "calendar query"}
+{"sentence": "remember to remind me about client meet at four pm", "label": "calendar set"}
+{"sentence": "start vacuum cleaner now", "label": "iot cleaning"}
+{"sentence": "count the number of food items on the list", "label": "lists query"}
+{"sentence": "turn off this light", "label": "iot hue lightoff"}
+{"sentence": "i want to know the stocks of amazon", "label": "qa stock"}
+{"sentence": "where does john smith live and what is his phone number", "label": "email querycontact"}
+{"sentence": "olly will you stop it.", "label": "general commandstop"}
+{"sentence": "how would you describe the sun", "label": "qa definition"}
+{"sentence": "what times may i travel to location a", "label": "transport query"}
+{"sentence": "has wendy posted on facebook", "label": "social query"}
+{"sentence": "i need to change the color of this light", "label": "iot hue lightchange"}
+{"sentence": "start play spider", "label": "play game"}
+{"sentence": "i need you to mark next monday", "label": "calendar set"}
+{"sentence": "increase the volume", "label": "audio volume up"}
+{"sentence": "start the league of legends game", "label": "play game"}
+{"sentence": "play music for me", "label": "play music"}
+{"sentence": "refer the stock price of hdfc", "label": "qa stock"}
+{"sentence": "please block off friday at eight am on my calendar", "label": "calendar set"}
+{"sentence": "reply to the latest email", "label": "email sendemail"}
+{"sentence": "set the lights on blue", "label": "iot hue lightchange"}
+{"sentence": "can you please turn off the wemo plug socket", "label": "iot wemo off"}
+{"sentence": "show me a spaghetti recipe", "label": "cooking recipe"}
+{"sentence": "book me the cheapest train ticket to new york", "label": "transport ticket"}
+{"sentence": "play the song title", "label": "play music"}
+{"sentence": "play the next podcast episode", "label": "play podcasts"}
+{"sentence": "send email new address", "label": "email sendemail"}
+{"sentence": "confirm that my notification is set to remind me when i leave", "label": "calendar query"}
+{"sentence": "search cost for amtrak luxury to los angeles", "label": "transport query"}
+{"sentence": "activate the radio please", "label": "play radio"}
+{"sentence": "can you change my time zone from central time to pacific", "label": "datetime convert"}
+{"sentence": "ah it's amazing.", "label": "general praise"}
+{"sentence": "play cricket", "label": "play game"}
+{"sentence": "can you confirm the details please.", "label": "general confirm"}
+{"sentence": "light green", "label": "iot hue lightchange"}
+{"sentence": "show me future events", "label": "calendar query"}
+{"sentence": "celeb news", "label": "news query"}
+{"sentence": "shut off the lights in the kitchen", "label": "iot hue lightoff"}
+{"sentence": "create a new list by tomorrow", "label": "lists createoradd"}
+{"sentence": "it was wonderful.", "label": "general affirm"}
+{"sentence": "play my rock station on pandora", "label": "play radio"}
+{"sentence": "what time is the train to san francisco due", "label": "transport query"}
+{"sentence": "play my game", "label": "play game"}
+{"sentence": "play game", "label": "play game"}
+{"sentence": "turn the light off", "label": "iot hue lightoff"}
+{"sentence": "open a new email to contact", "label": "email sendemail"}
+{"sentence": "what will be the highest temperature this week", "label": "weather query"}
+{"sentence": "search for the best spagetti recipe", "label": "cooking recipe"}
+{"sentence": "what is the best mexican restaurant in seattle", "label": "recommendation locations"}
+{"sentence": "who sings this song", "label": "music query"}
+{"sentence": "where does joe joe live", "label": "email querycontact"}
+{"sentence": "back one episode", "label": "play podcasts"}
+{"sentence": "i'd like you check and confirm that please.", "label": "general confirm"}
+{"sentence": "in the following week repeat this event at ten am every day", "label": "calendar set"}
+{"sentence": "i would like you to check the question please.", "label": "general confirm"}
+{"sentence": "what's the news in politics on cnn", "label": "news query"}
+{"sentence": "please send a notification when john replies", "label": "email query"}
+{"sentence": "play my latest podcast", "label": "play podcasts"}
+{"sentence": "that's amazing, thanks, olly.", "label": "general praise"}
+{"sentence": "turn on vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "i'm looking for some dress shows can you find clothing stores within one mile", "label": "recommendation locations"}
+{"sentence": "play old", "label": "play radio"}
+{"sentence": "play yesterday's hot ninety seven morning show", "label": "play radio"}
+{"sentence": "make the light more brighter", "label": "iot hue lightup"}
+{"sentence": "that's good, thanks.", "label": "general praise"}
+{"sentence": "make all the lights in the house orange", "label": "iot hue lightchange"}
+{"sentence": "i want to drink coffee", "label": "iot coffee"}
+{"sentence": "turn the lights down in the living room", "label": "iot hue lightdim"}
+{"sentence": "get more information on geographic information about this place", "label": "qa factoid"}
+{"sentence": "wake me at daybreak", "label": "alarm set"}
+{"sentence": "exact response to the command.", "label": "general affirm"}
+{"sentence": "play what i am by edie brickel", "label": "play music"}
+{"sentence": "how do i deglaze a pan", "label": "cooking recipe"}
+{"sentence": "launch super mario", "label": "play game"}
+{"sentence": "forex rate of euro to u. s. d.", "label": "qa currency"}
+{"sentence": "what's in my list of tasks", "label": "lists query"}
+{"sentence": "dollar rate of philippiness peso", "label": "qa currency"}
+{"sentence": "please tell me some international news", "label": "news query"}
+{"sentence": "Switch off the smart socket", "label": "iot wemo off"}
+{"sentence": "i want you to delete my shopping list from last month", "label": "lists remove"}
+{"sentence": "do you know actor surya", "label": "qa factoid"}
+{"sentence": "best ticket price air plane to chester on the twenty first", "label": "transport ticket"}
+{"sentence": "want to wake up can you order a cappochino", "label": "iot coffee"}
+{"sentence": "create appointment to list", "label": "lists createoradd"}
+{"sentence": "turn off lights in my room", "label": "iot hue lightoff"}
+{"sentence": "please check my playlists for jazz music", "label": "music settings"}
+{"sentence": "make it brighter in here", "label": "iot hue lightup"}
+{"sentence": "give me lists", "label": "lists query"}
+{"sentence": "begin a new list", "label": "lists createoradd"}
+{"sentence": "please set an alarm at six am", "label": "alarm set"}
+{"sentence": "how does merriam webster define ultra", "label": "qa definition"}
+{"sentence": "how far away is the sun", "label": "qa factoid"}
+{"sentence": "i want to play fifa seventeen", "label": "play game"}
+{"sentence": "what are they saying about donald trump on this topic", "label": "news query"}
+{"sentence": "is there valet service at the event", "label": "calendar query"}
+{"sentence": "play my morning playlist", "label": "play music"}
+{"sentence": "anything would be fine with me.", "label": "general dontcare"}
+{"sentence": "delete appointment at time", "label": "calendar remove"}
+{"sentence": "can you confirm what just said please.", "label": "general confirm"}
+{"sentence": "what is the home phone number for sarah", "label": "email querycontact"}
+{"sentence": "how far above sea level is denver", "label": "qa factoid"}
+{"sentence": "search the item", "label": "lists createoradd"}
+{"sentence": "yeah amazing response.", "label": "general affirm"}
+{"sentence": "can you please make me a cup of black coffee", "label": "iot coffee"}
+{"sentence": "find me a recipe for carrot soup", "label": "cooking recipe"}
+{"sentence": "does not really matter to me.", "label": "general dontcare"}
+{"sentence": "identify song", "label": "music query"}
+{"sentence": "i need more light", "label": "iot hue lightup"}
+{"sentence": "how much is the dollar verus the pound", "label": "qa currency"}
+{"sentence": "you've done it right thank you so much.", "label": "general praise"}
+{"sentence": "update the calendar with the last event removed", "label": "calendar remove"}
+{"sentence": "find the meaning of promise", "label": "qa definition"}
+{"sentence": "yeap the command was exact.", "label": "general affirm"}
+{"sentence": "find new email", "label": "email query"}
+{"sentence": "tell me summary forecast microsoft stock forecast to thirty days ahead", "label": "qa stock"}
+{"sentence": "what is the weather like in grand rapids mi", "label": "weather query"}
+{"sentence": "speak loudly", "label": "audio volume up"}
+{"sentence": "play hoizer radio station from my pandora app", "label": "play radio"}
+{"sentence": "delete this from list", "label": "lists remove"}
+{"sentence": "tweet complaint", "label": "social post"}
+{"sentence": "can you turn msnbc on in the car", "label": "play radio"}
+{"sentence": "what is john smith's number", "label": "email querycontact"}
+{"sentence": "where can i use this word", "label": "qa definition"}
+{"sentence": "i dont want to carry an umbrella will we have rain today", "label": "weather query"}
+{"sentence": "i need to change my house lights colour to blue", "label": "iot hue lightchange"}
+{"sentence": "i want to listen to electric slide", "label": "play music"}
+{"sentence": "please make me a cup of coffee", "label": "iot coffee"}
+{"sentence": "you are so smart.", "label": "general praise"}
+{"sentence": "give me the number to mom", "label": "email querycontact"}
+{"sentence": "what are the vietnamese restaurants in the area", "label": "recommendation locations"}
+{"sentence": "tweet @phohouse your server was rude #badpho", "label": "social post"}
+{"sentence": "when is my doctor's appointment", "label": "calendar query"}
+{"sentence": "please check and confirm detail.", "label": "general confirm"}
+{"sentence": "convert one dollars to rupees", "label": "qa currency"}
+{"sentence": "display recent email from john", "label": "email query"}
+{"sentence": "initiate polling for new email", "label": "email query"}
+{"sentence": "what is happening with brexit today", "label": "news query"}
+{"sentence": "open radio frequency ninety nine point five", "label": "play radio"}
+{"sentence": "tell me if five hundred and forty is subtracted seven time by twenty eight", "label": "qa maths"}
+{"sentence": "what is the total of 500 and 23", "label": "qa maths"}
+{"sentence": "please update me the traffic status", "label": "transport traffic"}
+{"sentence": "where can i get shawarma in this area", "label": "recommendation locations"}
+{"sentence": "play radio station", "label": "play radio"}
+{"sentence": "rowan atkinson info", "label": "qa factoid"}
+{"sentence": "can you read me my lists", "label": "lists query"}
+{"sentence": "switch off the lights", "label": "iot hue lightoff"}
+{"sentence": "send report to consumer service", "label": "social post"}
+{"sentence": "hey go from off to on my vacuum in five minutes", "label": "iot cleaning"}
+{"sentence": "that was helpful,.", "label": "general praise"}
+{"sentence": "dim the lights in the bathroom", "label": "iot hue lightdim"}
+{"sentence": "play my preferred song", "label": "play music"}
+{"sentence": "how much for a train ticket", "label": "transport query"}
+{"sentence": "start the vacuum for me", "label": "iot cleaning"}
+{"sentence": "find jazz music on my playlist", "label": "play music"}
+{"sentence": "please set my coffee machine to start at four pm time", "label": "iot coffee"}
+{"sentence": "send me notice of meeting wednesday nine am", "label": "calendar set"}
+{"sentence": "please change the light colors to red", "label": "iot hue lightchange"}
+{"sentence": "recommend a restaurant with medium expense", "label": "recommendation locations"}
+{"sentence": "info on lisa ann please", "label": "qa factoid"}
+{"sentence": "given me the exchange rates between u. s. d. and cad", "label": "qa currency"}
+{"sentence": "change the volume level to nineteen please", "label": "audio volume up"}
+{"sentence": "did sara tried to call me", "label": "email querycontact"}
+{"sentence": "are there any status updates on cnn news facebook page", "label": "news query"}
+{"sentence": "would you shut down please.", "label": "general commandstop"}
+{"sentence": "hey olly tell my today's top news", "label": "news query"}
+{"sentence": "please delete all meetings of today after seven pm", "label": "calendar remove"}
+{"sentence": "can you please buy me a train ticket", "label": "transport ticket"}
+{"sentence": "give description of statue of liberty", "label": "qa definition"}
+{"sentence": "shall we meet for today's party", "label": "calendar query"}
+{"sentence": "play for me the game temple run", "label": "play game"}
+{"sentence": "what is the exchange rate of euro today to dirham", "label": "qa currency"}
+{"sentence": "whatever would be ok to me.", "label": "general dontcare"}
+{"sentence": "olly i'd like you just cancel it.", "label": "general commandstop"}
+{"sentence": "it's cool, thanks.", "label": "general praise"}
+{"sentence": "start roomba", "label": "iot cleaning"}
+{"sentence": "add work email address", "label": "email addcontact"}
+{"sentence": "how old is cher", "label": "qa factoid"}
+{"sentence": "what is the latest email from zita", "label": "email query"}
+{"sentence": "tell me mary's cell number", "label": "email querycontact"}
+{"sentence": "find joel osteen's broadcast on sirius", "label": "play radio"}
+{"sentence": "i challenge you to a game of tic tac toe", "label": "play game"}
+{"sentence": "create an email that needs to go out to my family", "label": "email sendemail"}
+{"sentence": "start the radio now", "label": "play radio"}
+{"sentence": "what about the new york city traffic", "label": "transport traffic"}
+{"sentence": "i want you to remove this event", "label": "calendar remove"}
+{"sentence": "set up a train ticket for next week Friday", "label": "transport ticket"}
+{"sentence": "set alarm at ten am", "label": "alarm set"}
+{"sentence": "it doesn't really matter, olly.", "label": "general dontcare"}
+{"sentence": "display address of john", "label": "email querycontact"}
+{"sentence": "coffee", "label": "iot coffee"}
+{"sentence": "can you please create a list for me", "label": "lists createoradd"}
+{"sentence": "how many lists do i have", "label": "lists query"}
+{"sentence": "that is enough, just cancel it.", "label": "general commandstop"}
+{"sentence": "how do i steam rice", "label": "cooking recipe"}
+{"sentence": "start the smart plug", "label": "iot wemo on"}
+{"sentence": "can you create a new list in the playlist", "label": "lists createoradd"}
+{"sentence": "what is the google stock at", "label": "qa stock"}
+{"sentence": "buy a train ticket to cleveland for april fourteenth", "label": "transport ticket"}
+{"sentence": "it is unimportant.", "label": "general dontcare"}
+{"sentence": "siri open twitter tweet @potus sucks", "label": "social post"}
+{"sentence": "weather this week", "label": "weather query"}
+{"sentence": "please set the lights off in the living room", "label": "iot hue lightoff"}
+{"sentence": "send this message to the family group starts with a", "label": "email sendemail"}
+{"sentence": "resume last playlist", "label": "play music"}
+{"sentence": "olly please can you cancel.", "label": "general commandstop"}
+{"sentence": "play radio one", "label": "play radio"}
+{"sentence": "i want to hear the radio", "label": "play radio"}
+{"sentence": "what time am i supposed to pick up john again", "label": "calendar query"}
+{"sentence": "remove the next event on my calendar", "label": "calendar remove"}
+{"sentence": "tell me my latest email", "label": "email query"}
+{"sentence": "yeap you have gotten the command perfectly.", "label": "general affirm"}
+{"sentence": "what the sexiest food to cook on a date", "label": "cooking recipe"}
+{"sentence": "clean the floor please", "label": "iot cleaning"}
+{"sentence": "what degree is it outside", "label": "weather query"}
+{"sentence": "White", "label": "iot hue lightchange"}
+{"sentence": "whatever will be fine.", "label": "general dontcare"}
+{"sentence": "when is the next train to b street", "label": "transport query"}
+{"sentence": "i will need a scarf in afternoon to overcome sunlight", "label": "weather query"}
+{"sentence": "latest updates", "label": "news query"}
+{"sentence": "vacuum the living room in ten minutes", "label": "iot cleaning"}
+{"sentence": "whats my schedule today", "label": "calendar query"}
+{"sentence": "tweet to the customer service account of starbucks", "label": "social post"}
+{"sentence": "play previous episode", "label": "play podcasts"}
+{"sentence": "how do you feel after hearing justin bieber's new album", "label": "music query"}
+{"sentence": "please can you check and confirm the details.", "label": "general confirm"}
+{"sentence": "create a list of monthly groceries to be bought", "label": "lists createoradd"}
+{"sentence": "do i have any new messages in twitter instagram or facebook", "label": "social query"}
+{"sentence": "change light color", "label": "iot hue lightchange"}
+{"sentence": "tell me the traffic condition from here to home", "label": "transport traffic"}
+{"sentence": "play song over the rainbow", "label": "play music"}
+{"sentence": "please turn off the smart socket", "label": "iot wemo off"}
+{"sentence": "i am unable to hear you can you speak little loud", "label": "audio volume up"}
+{"sentence": "i need you to add this email in my contacts", "label": "email addcontact"}
+{"sentence": "book a train ticket from here to charleston west virginia at eight am today", "label": "transport ticket"}
+{"sentence": "will you please check and confirm it.", "label": "general confirm"}
+{"sentence": "its cold outside", "label": "weather query"}
+{"sentence": "how far is walmart from here", "label": "transport query"}
+{"sentence": "bring up twitter to target customer service", "label": "social post"}
+{"sentence": "any new interests from linda", "label": "social query"}
+{"sentence": "yeah you've got that perfectly.", "label": "general affirm"}
+{"sentence": "start vacuuming", "label": "iot cleaning"}
+{"sentence": "turn bedroom lights off", "label": "iot hue lightoff"}
+{"sentence": "today's closing price for google", "label": "qa stock"}
+{"sentence": "is there a sports bar near kansas city plaza area", "label": "recommendation locations"}
+{"sentence": "please advise what the current news is on fox news", "label": "news query"}
+{"sentence": "Show chicken tikka recipe", "label": "cooking recipe"}
+{"sentence": "call dad", "label": "email querycontact"}
+{"sentence": "i want a train ticket to oregon", "label": "transport ticket"}
+{"sentence": "show me my latest social media activity", "label": "social query"}
+{"sentence": "more light please", "label": "iot hue lightup"}
+{"sentence": "i'd like an espresso", "label": "iot coffee"}
+{"sentence": "down", "label": "audio volume down"}
+{"sentence": "can you open the reply inbox", "label": "email sendemail"}
+{"sentence": "what is the current weather conditions in chicago illinois", "label": "weather query"}
+{"sentence": "delete my dinner tomorrow", "label": "calendar remove"}
+{"sentence": "add the email oriam@gmail dot com to my contacts", "label": "email addcontact"}
+{"sentence": "how to make fried rice", "label": "cooking recipe"}
+{"sentence": "doesn't really matter to me.", "label": "general dontcare"}
+{"sentence": "change light colors", "label": "iot hue lightchange"}
+{"sentence": "what is the email sent by this contact read", "label": "email query"}
+{"sentence": "book a train ticket from los angeles to chicago that goes via miami", "label": "transport ticket"}
+{"sentence": "show me the recipe for cookies", "label": "cooking recipe"}
+{"sentence": "what is the dollar against the pound", "label": "qa currency"}
+{"sentence": "can you show me the popular posts from facebook today", "label": "social query"}
+{"sentence": "how hot is it in miami", "label": "weather query"}
+{"sentence": "what is computer", "label": "qa definition"}
+{"sentence": "olly i need the living room vacuumed can you turn on the vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "activate vacuum", "label": "iot cleaning"}
+{"sentence": "keep me informed about bitcoin price", "label": "news query"}
+{"sentence": "switch off the wemo plug socket", "label": "iot wemo off"}
+{"sentence": "make the light more visible", "label": "iot hue lightup"}
+{"sentence": "turn off the socket", "label": "iot wemo off"}
+{"sentence": "what is sarah's number", "label": "email querycontact"}
+{"sentence": "open jazz", "label": "play music"}
+{"sentence": "post a facebook status engaged", "label": "social post"}
+{"sentence": "start cappuccino for me now", "label": "iot coffee"}
+{"sentence": "how much is apple stock worth", "label": "qa stock"}
+{"sentence": "open stock price for name", "label": "qa stock"}
+{"sentence": "please delete this event", "label": "calendar remove"}
+{"sentence": "what is the sensex and nifty points for today", "label": "qa stock"}
+{"sentence": "what's happening on bbc news today", "label": "news query"}
+{"sentence": "google stock price", "label": "qa stock"}
+{"sentence": "please cancel.", "label": "general commandstop"}
+{"sentence": "show the list that are available with numbers", "label": "lists query"}
+{"sentence": "it is useful, thank you.", "label": "general praise"}
+{"sentence": "email happy new year to john", "label": "email sendemail"}
+{"sentence": "how would you define a car", "label": "qa definition"}
+{"sentence": "make a meeting with friend", "label": "calendar set"}
+{"sentence": "darken", "label": "iot hue lightdim"}
+{"sentence": "have there been updates on abortion law", "label": "news query"}
+{"sentence": "give me red lights", "label": "iot hue lightchange"}
+{"sentence": "change my room lights to some romantic colour", "label": "iot hue lightchange"}
+{"sentence": "please reply to my colleagues mail about his query", "label": "email sendemail"}
+{"sentence": "check if there any new email", "label": "email query"}
+{"sentence": "send a reply to mike with the answer four hundred and thirty from his email he sent this morning", "label": "email sendemail"}
+{"sentence": "can you tell me on tuesday to give jane a call", "label": "calendar set"}
+{"sentence": "i don't mind to select any one.", "label": "general dontcare"}
+{"sentence": "weather forecast for this week", "label": "weather query"}
+{"sentence": "make a repeating reminder for my yoga practice every day at noon", "label": "calendar set"}
+{"sentence": "turn on the wemo", "label": "iot wemo on"}
+{"sentence": "tell me the contact details of my brother", "label": "email querycontact"}
+{"sentence": "what's the weather forecast for today", "label": "weather query"}
+{"sentence": "i need to get up at seven am", "label": "alarm set"}
+{"sentence": "show me my contacts", "label": "email querycontact"}
+{"sentence": "what are the names of the lists that i have created", "label": "lists query"}
+{"sentence": "play neil sedaka", "label": "play music"}
+{"sentence": "olly brighten the lights", "label": "iot hue lightup"}
+{"sentence": "turn off the office lights", "label": "iot hue lightoff"}
+{"sentence": "i would not mind for any one, olly.", "label": "general dontcare"}
+{"sentence": "facebook current stock rate", "label": "qa stock"}
+{"sentence": "please make coffee at seven am", "label": "iot coffee"}
+{"sentence": "darker lights please", "label": "iot hue lightdim"}
+{"sentence": "make an alarm for four pm", "label": "alarm set"}
+{"sentence": "please turn up the lights in this room", "label": "iot hue lightup"}
+{"sentence": "please shut up.", "label": "general commandstop"}
+{"sentence": "please convert nine am cst to est time", "label": "datetime convert"}
+{"sentence": "cancel the plan of party", "label": "calendar remove"}
+{"sentence": "remind me off about my tomorrow meeting sharply at ten", "label": "calendar set"}
+{"sentence": "look up what this word means", "label": "qa definition"}
+{"sentence": "can you reserve a train ticket for this day", "label": "transport ticket"}
+{"sentence": "show up the events for me today", "label": "calendar query"}
+{"sentence": "may i know what is trending in facebook", "label": "social query"}
+{"sentence": "would you please confirm the last thing i said.", "label": "general confirm"}
+{"sentence": "i would like you to check and confirm detail please.", "label": "general confirm"}
+{"sentence": "brew my coffee", "label": "iot coffee"}
+{"sentence": "i would want you to tweet for me at india consumer complaints forum regarding the late delivery of gas cylinder", "label": "social post"}
+{"sentence": "open a reply message", "label": "email sendemail"}
+{"sentence": "is there a way to clear my calendar", "label": "calendar remove"}
+{"sentence": "please check what said.", "label": "general confirm"}
+{"sentence": "how long will it take me to get to the west side", "label": "transport traffic"}
+{"sentence": "what is the home phone number of mark", "label": "email querycontact"}
+{"sentence": "who has covered this song", "label": "music query"}
+{"sentence": "i need to know all of the emails from contact pertaining to subject", "label": "email query"}
+{"sentence": "how much is a round trip train ticket to go to new york", "label": "transport query"}
+{"sentence": "tune in some radio", "label": "play radio"}
+{"sentence": "how do i cook a meatloaf", "label": "cooking recipe"}
+{"sentence": "what is elvis favorite ride", "label": "qa factoid"}
+{"sentence": "customer service complaint tweet the following", "label": "social post"}
+{"sentence": "play foke", "label": "play music"}
+{"sentence": "lessen the the light glow", "label": "iot hue lightdim"}
+{"sentence": "show me upcoming programmes on one hundred and five point one", "label": "play radio"}
+{"sentence": "how many notifications do i have on facebook", "label": "social query"}
+{"sentence": "what song do i play most", "label": "music query"}
+{"sentence": "is there room on my grocery list for an extra item", "label": "lists createoradd"}
+{"sentence": "do i have any private messages on any social media", "label": "social query"}
+{"sentence": "turn up sound", "label": "audio volume up"}
+{"sentence": "make me a wake up alarm for eight forty five am", "label": "alarm set"}
+{"sentence": "show me the events in my work calendar for next week", "label": "calendar set"}
+{"sentence": "tell me formula for area of circle", "label": "qa maths"}
+{"sentence": "what does my facebook feed look like", "label": "social query"}
+{"sentence": "eliminate the list kickball but make sure the contacts remain", "label": "lists remove"}
+{"sentence": "Show me news from cnn", "label": "news query"}
+{"sentence": "please repeat the last song", "label": "music settings"}
+{"sentence": "send an email to rohit saying i am busy tomorrow", "label": "email sendemail"}
+{"sentence": "add milk to grocery list", "label": "lists createoradd"}
+{"sentence": "post new status", "label": "social post"}
+{"sentence": "set alarm at nine am on next sunday", "label": "alarm set"}
+{"sentence": "can you confirm instruction.", "label": "general confirm"}
+{"sentence": "brighter", "label": "iot hue lightup"}
+{"sentence": "decrease speaker volume", "label": "audio volume down"}
+{"sentence": "change the music mode to rock", "label": "music settings"}
+{"sentence": "did you get last thing i said correctly?", "label": "general confirm"}
+{"sentence": "what trips are available from new york city to poughkeepsie", "label": "transport query"}
+{"sentence": "what time will it be locally at nine am bangalore india time", "label": "datetime convert"}
+{"sentence": "i want you just stop it.", "label": "general commandstop"}
+{"sentence": "yeap excellent response to the command.", "label": "general affirm"}
+{"sentence": "it looks sunny and clear today is that true", "label": "weather query"}
+{"sentence": "list shops in douglasville ga", "label": "recommendation locations"}
+{"sentence": "travel book a train ticket", "label": "transport ticket"}
+{"sentence": "is the road in some particular area wide or narrow", "label": "transport traffic"}
+{"sentence": "thanks for doing that.", "label": "general praise"}
+{"sentence": "please show me the local weather", "label": "weather query"}
+{"sentence": "this is unimportant to me, olly.", "label": "general dontcare"}
+{"sentence": "play purple haze", "label": "play music"}
+{"sentence": "make list", "label": "lists createoradd"}
+{"sentence": "please tell me the news", "label": "news query"}
+{"sentence": "play music in library", "label": "play music"}
+{"sentence": "what's going around in the world these days", "label": "news query"}
+{"sentence": "will you please get the coffee machine to make some coffee", "label": "iot coffee"}
+{"sentence": "yeah you have got my instructions right.", "label": "general affirm"}
+{"sentence": "remind me to have launch with boss today at one pm", "label": "calendar set"}
+{"sentence": "this item should be removed from list", "label": "lists remove"}
+{"sentence": "you are my hero, thank you very much, olly.", "label": "general praise"}
+{"sentence": "remove soccer list from notes", "label": "lists remove"}
+{"sentence": "do i have anything on my to do list", "label": "lists query"}
+{"sentence": "remove all the events and schedules", "label": "calendar remove"}
+{"sentence": "turn the security light off", "label": "iot hue lightoff"}
+{"sentence": "who wrote the song i just wanna dance with you", "label": "music query"}
+{"sentence": "please increase the volume of the current song", "label": "audio volume up"}
+{"sentence": "what's new on facebook", "label": "social query"}
+{"sentence": "what is the price of euro to u. s. d.", "label": "qa currency"}
+{"sentence": "i have to go to a meting on friday at noon can you remind me", "label": "calendar set"}
+{"sentence": "lets play tic tac toe", "label": "play game"}
+{"sentence": "switch up the color of the lights in the house", "label": "iot hue lightup"}
+{"sentence": "whats the stock price of apple", "label": "qa stock"}
+{"sentence": "please delete next meeting with rajesh", "label": "calendar remove"}
+{"sentence": "give me the weather for merced at three pm", "label": "weather query"}
+{"sentence": "play npr through my living room stereo", "label": "play radio"}
+{"sentence": "recommend me some shops to shopping in angel", "label": "recommendation locations"}
+{"sentence": "brighten the lights in the hallway", "label": "iot hue lightup"}
+{"sentence": "rearrange that off the list", "label": "lists remove"}
+{"sentence": "hey what is the definition of survey", "label": "qa definition"}
+{"sentence": "i'd like you to check and confirm last thing said please.", "label": "general confirm"}
+{"sentence": "search for gluten free menus", "label": "cooking recipe"}
+{"sentence": "did my mom send me an email", "label": "email query"}
+{"sentence": "where can i book a train ticket to oregon", "label": "transport query"}
+{"sentence": "find game", "label": "play game"}
+{"sentence": "change the lights to dim", "label": "iot hue lightdim"}
+{"sentence": "how much is starbuck's stock these days", "label": "qa stock"}
+{"sentence": "you are hero, thank you very much.", "label": "general praise"}
+{"sentence": "what is two hundred divided by ten", "label": "qa maths"}
+{"sentence": "radio please", "label": "play radio"}
+{"sentence": "please check all new email of income tax department", "label": "email query"}
+{"sentence": "tell me about this week's weather", "label": "weather query"}
+{"sentence": "play for me hip hop music", "label": "play music"}
+{"sentence": "make the living room light orange", "label": "iot hue lightchange"}
+{"sentence": "let national grid know the power is out again", "label": "social post"}
+{"sentence": "two by two is", "label": "qa maths"}
+{"sentence": "stop repeating this song", "label": "music settings"}
+{"sentence": "change this time to ist", "label": "datetime convert"}
+{"sentence": "when is madonna's birthday", "label": "qa factoid"}
+{"sentence": "dim the lights please", "label": "iot hue lightdim"}
+{"sentence": "could you please check that.", "label": "general confirm"}
+{"sentence": "i want purple lights", "label": "iot hue lightchange"}
+{"sentence": "clear everything from the calendar", "label": "calendar remove"}
+{"sentence": "how long will it take to get home", "label": "transport traffic"}
+{"sentence": "increase the light in the room", "label": "iot hue lightup"}
+{"sentence": "set meeting with joanna on Saturday four pm", "label": "calendar set"}
+{"sentence": "open irctc application and go to book ticket", "label": "transport ticket"}
+{"sentence": "i need to play sims", "label": "play game"}
+{"sentence": "please add item to list", "label": "lists createoradd"}
+{"sentence": "amazing response to the command.", "label": "general affirm"}
+{"sentence": "what can i cook with broccoli and chicken", "label": "cooking recipe"}
+{"sentence": "convert euros to dollars", "label": "qa currency"}
+{"sentence": "i want to hear the latest podcast episode of s town", "label": "play podcasts"}
+{"sentence": "i want some coffee now", "label": "iot coffee"}
+{"sentence": "play gta vice city game", "label": "play game"}
+{"sentence": "house lights blue", "label": "iot hue lightchange"}
+{"sentence": "rewind to four twelve", "label": "play podcasts"}
+{"sentence": "what restaurant is open after midnight", "label": "recommendation locations"}
+{"sentence": "from which movie is the song", "label": "music query"}
+{"sentence": "please make coffee", "label": "iot coffee"}
+{"sentence": "you've done that right thank you very much.", "label": "general praise"}
+{"sentence": "i need to turn on the plug in my office for my computer", "label": "iot wemo on"}
+{"sentence": "unmute after", "label": "audio volume up"}
+{"sentence": "aib podcast on kashmirstart it", "label": "play podcasts"}
+{"sentence": "please contact michael m from my list with this text", "label": "email querycontact"}
+{"sentence": "how is the traffic from home to work", "label": "transport traffic"}
+{"sentence": "is it a soft evening tonight", "label": "weather query"}
+{"sentence": "where jackie chan currently live", "label": "qa factoid"}
+{"sentence": "i want to listen to classical music", "label": "play music"}
+{"sentence": "i want the light in the kitchen powered off", "label": "iot hue lightoff"}
+{"sentence": "add this person's email", "label": "email addcontact"}
+{"sentence": "thirteenth june is a day of election result please set it", "label": "calendar set"}
+{"sentence": "please change the color of the light in the bathroom", "label": "iot hue lightchange"}
+{"sentence": "find me train tickets", "label": "transport ticket"}
+{"sentence": "turn the speakers down to five percent", "label": "audio volume down"}
+{"sentence": "book a ticket for the evening train line", "label": "transport ticket"}
+{"sentence": "open email for unread mails", "label": "email query"}
+{"sentence": "could you speak a little more softly", "label": "audio volume up"}
+{"sentence": "when is the next train to new york", "label": "transport query"}
+{"sentence": "dim the lights in my bedroom", "label": "iot hue lightdim"}
+{"sentence": "remind me of meeting five minutes before time", "label": "calendar set"}
+{"sentence": "turn off the bass from the audio", "label": "audio volume down"}
+{"sentence": "erase calendar events", "label": "calendar remove"}
+{"sentence": "whatever is okay for me.", "label": "general dontcare"}
+{"sentence": "is it going to rain on monday", "label": "weather query"}
+{"sentence": "set notification for news on the stock market", "label": "qa stock"}
+{"sentence": "my events", "label": "calendar query"}
+{"sentence": "blot me all the phone calls planned for the morning of twenty three march", "label": "calendar set"}
+{"sentence": "olly that's enough, stop.", "label": "general commandstop"}
+{"sentence": "please delete the meeting i have with john tonight", "label": "calendar remove"}
+{"sentence": "check last thing said please.", "label": "general confirm"}
+{"sentence": "i want to dance to the tune of raghu dixit", "label": "play music"}
+{"sentence": "do i have any emails from katherine", "label": "email query"}
+{"sentence": "wouldn't know.", "label": "general dontcare"}
+{"sentence": "what is the train schedule to denver", "label": "transport query"}
+{"sentence": "hey i need you to make a list of cricket players of indian team who played for the international team in two thousand and fourteen", "label": "lists createoradd"}
+{"sentence": "find me the recipe for a cake", "label": "cooking recipe"}
+{"sentence": "i want to know the latest local news of the city", "label": "news query"}
+{"sentence": "have i gotten any emails from mom lately", "label": "email query"}
+{"sentence": "clean my house", "label": "iot cleaning"}
+{"sentence": "spread some lights", "label": "iot hue lightup"}
+{"sentence": "how is the traffic in san francisco over the bay bridge", "label": "transport traffic"}
+{"sentence": "i would like to hear some rap music", "label": "play music"}
+{"sentence": "open temple run game", "label": "play game"}
+{"sentence": "list of playback of ar rahman collections", "label": "music query"}
+{"sentence": "is it anyone i knows birthday this month", "label": "email querycontact"}
+{"sentence": "i want to hear surfin usa", "label": "play music"}
+{"sentence": "what's the stock of apple", "label": "qa stock"}
+{"sentence": "turn the music lower", "label": "audio volume down"}
+{"sentence": "tell me if i should use the train or bus to get across town today", "label": "transport query"}
+{"sentence": "look for different recipes", "label": "cooking recipe"}
+{"sentence": "thanks, it's perfect, olly.", "label": "general praise"}
+{"sentence": "new twitter message", "label": "social post"}
+{"sentence": "will you please play a podcast", "label": "play podcasts"}
+{"sentence": "turn off smart socket", "label": "iot wemo off"}
+{"sentence": "what is this music called", "label": "music query"}
+{"sentence": "get me a ticket to boston", "label": "transport ticket"}
+{"sentence": "set the living room lights to red", "label": "iot hue lightchange"}
+{"sentence": "erase shopping list", "label": "lists remove"}
+{"sentence": "wouldn't really mind for whatever.", "label": "general dontcare"}
+{"sentence": "what is the time difference between california and new york", "label": "datetime convert"}
+{"sentence": "dim the lights in the hall", "label": "iot hue lightdim"}
+{"sentence": "add detergent to the list of things i need to buy", "label": "lists createoradd"}
+{"sentence": "how do i braise a pork loin", "label": "cooking recipe"}
+{"sentence": "increase the brightness of lights bedroom", "label": "iot hue lightup"}
+{"sentence": "make a call to", "label": "email querycontact"}
+{"sentence": "please make some coffee for me", "label": "iot coffee"}
+{"sentence": "remove events from calendar", "label": "calendar remove"}
+{"sentence": "tweet my complaint to @nsa", "label": "social post"}
+{"sentence": "what temperature should the oil be for frying french fries", "label": "cooking recipe"}
+{"sentence": "what's the exchange rate between the us dollar and the euro", "label": "qa currency"}
+{"sentence": "olly i would like you just cancel it.", "label": "general commandstop"}
+{"sentence": "brighten lights", "label": "iot hue lightup"}
+{"sentence": "whats online", "label": "social query"}
+{"sentence": "whats the latest", "label": "news query"}
+{"sentence": "can you set my coffee machine to make me coffee at seven am", "label": "iot coffee"}
+{"sentence": "what's the latest on the travel ban", "label": "news query"}
+{"sentence": "go to next episode", "label": "play podcasts"}
+{"sentence": "please add shopping at mall on twenty six march at twelve pm", "label": "calendar set"}
+{"sentence": "define alarm", "label": "qa definition"}
+{"sentence": "you've done that right, olly.", "label": "general praise"}
+{"sentence": "adjust light when i get home", "label": "iot hue lightchange"}
+{"sentence": "tell me the best recipes for a given dish", "label": "cooking recipe"}
+{"sentence": "would you please check it.", "label": "general confirm"}
+{"sentence": "tell me the song that is currently playing", "label": "music query"}
+{"sentence": "can you play tic tac toe", "label": "play game"}
+{"sentence": "i would like to attend church every sunday at eleven am", "label": "calendar set"}
+{"sentence": "let me hear my list", "label": "lists query"}
+{"sentence": "how many likes does my status from yesterday have", "label": "social query"}
+{"sentence": "recipe please", "label": "cooking recipe"}
+{"sentence": "tell me the weather for this week", "label": "weather query"}
+{"sentence": "what are the lyrics to this song playing", "label": "music query"}
+{"sentence": "please start fm eight hundred and ninety radio channel", "label": "play radio"}
+{"sentence": "change your colors to green", "label": "iot hue lightchange"}
+{"sentence": "tell me about joose", "label": "email querycontact"}
+{"sentence": "can you remove remove buying eggs item from my to do list", "label": "lists remove"}
+{"sentence": "get me some latte please", "label": "iot coffee"}
+{"sentence": "i like you cancel.", "label": "general commandstop"}
+{"sentence": "can the lights be changed to green", "label": "iot hue lightchange"}
+{"sentence": "what lists do i have", "label": "lists query"}
+{"sentence": "please speak up", "label": "audio volume up"}
+{"sentence": "remind me to order more soap", "label": "lists createoradd"}
+{"sentence": "vacuum the carpet freshener from the carpet", "label": "iot cleaning"}
+{"sentence": "id like to get on the next train that will be departing indianapolis headed to chicago", "label": "transport ticket"}
+{"sentence": "what is on my to do list", "label": "lists query"}
+{"sentence": "switch lights to red tone", "label": "iot hue lightchange"}
+{"sentence": "please make the smart socket turn off", "label": "iot wemo off"}
+{"sentence": "yeah exactly.", "label": "general affirm"}
+{"sentence": "which is the next event coming up", "label": "calendar query"}
+{"sentence": "how much is one serving of broccoli", "label": "cooking recipe"}
+{"sentence": "freezing", "label": "cooking recipe"}
+{"sentence": "can you book a train ticket for me under dollars", "label": "transport ticket"}
+{"sentence": "i have a meeting tomorrow morning at ten please remind me", "label": "calendar set"}
+{"sentence": "please play football with me", "label": "play game"}
+{"sentence": "what are my plans for today", "label": "calendar query"}
+{"sentence": "are there any new snaps on snapchat", "label": "social query"}
+{"sentence": "how to cook that meal", "label": "cooking recipe"}
+{"sentence": "how much is remaining after subtracting four from eight", "label": "qa maths"}
+{"sentence": "i want to see the news", "label": "news query"}
+{"sentence": "how much is twelve divided by four", "label": "qa maths"}
+{"sentence": "get me two train tickets from where i am now to dallas arriving before dark", "label": "transport ticket"}
+{"sentence": "it is unimportant for me, olly.", "label": "general dontcare"}
+{"sentence": "play the radio band with sports commentary", "label": "play radio"}
+{"sentence": "where is the nearest atm machine", "label": "recommendation locations"}
+{"sentence": "excellent response to the command.", "label": "general affirm"}
+{"sentence": "get me a local restaurant", "label": "recommendation locations"}
+{"sentence": "i need an email to be sent to comcastcom about my service issues", "label": "email sendemail"}
+{"sentence": "search earliest trains to brooklyn ny weekends and holidays", "label": "transport query"}
+{"sentence": "oh that's good, olly.", "label": "general praise"}
+{"sentence": "what is on my shopping list", "label": "lists query"}
+{"sentence": "please decrease the volume of music player", "label": "audio volume down"}
+{"sentence": "what was the name of my last email", "label": "email query"}
+{"sentence": "how many dollars is in pounds", "label": "qa currency"}
+{"sentence": "what is my list", "label": "lists query"}
+{"sentence": "what's the address for alex", "label": "email querycontact"}
+{"sentence": "let me know if anything happens on that subject", "label": "news query"}
+{"sentence": "hey do i have any emails from bob about the bulldog", "label": "email query"}
+{"sentence": "what's the latest news about us election", "label": "news query"}
+{"sentence": "turn on when plugged in else turn off", "label": "iot wemo on"}
+{"sentence": "cup of coffee please", "label": "iot coffee"}
+{"sentence": "how many cups of sugar in texas sheet cake frosting", "label": "cooking recipe"}
+{"sentence": "please tell me the main points of my two hundred meeting from this afternoon", "label": "calendar query"}
+{"sentence": "turn my lights down to a lower level of brightness", "label": "iot hue lightdim"}
+{"sentence": "turn off the wemo socket in the kitchen", "label": "iot wemo off"}
+{"sentence": "clear list things to do this weekend", "label": "lists remove"}
+{"sentence": "hey read any email to me", "label": "email query"}
+{"sentence": "when was einstein's birthday", "label": "qa factoid"}
+{"sentence": "wouldn't really know, olly.", "label": "general dontcare"}
+{"sentence": "give me a company for playing football", "label": "play game"}
+{"sentence": "start a match of chess", "label": "play game"}
+{"sentence": "is there a way to pull up information about a contact", "label": "email querycontact"}
+{"sentence": "network podcast", "label": "play podcasts"}
+{"sentence": "can you please download my podcast file available in internet and play it once", "label": "play podcasts"}
+{"sentence": "my mail", "label": "email query"}
+{"sentence": "set the alarm for five am", "label": "alarm set"}
+{"sentence": "i want to start a new list of power tools on sale at true value", "label": "lists createoradd"}
+{"sentence": "can you sync my calendar with mark", "label": "calendar set"}
+{"sentence": "skip to next episode", "label": "play podcasts"}
+{"sentence": "i do not mind for whatever.", "label": "general dontcare"}
+{"sentence": "that is all.", "label": "general commandstop"}
+{"sentence": "add toothpaste to my shopping list", "label": "lists createoradd"}
+{"sentence": "wake me up at this time", "label": "alarm set"}
+{"sentence": "send an email to my friend say birthday wishes", "label": "email sendemail"}
+{"sentence": "turn the wemo off", "label": "iot wemo off"}
+{"sentence": "tell me what's new", "label": "social query"}
+{"sentence": "current forex rates", "label": "qa currency"}
+{"sentence": "book a train ticket to arrive in cambridge by eight thirty pm today", "label": "transport ticket"}
+{"sentence": "tell me where i can go shopping in this area", "label": "recommendation locations"}
+{"sentence": "that's cool,, olly.", "label": "general praise"}
+{"sentence": "repeat birthday", "label": "calendar set"}
+{"sentence": "get rid of the wednesday list", "label": "lists remove"}
+{"sentence": "turn it to frequency nine hundred and ninety seven", "label": "play radio"}
+{"sentence": "i want the robot vacuum cleaner to start at one pm today", "label": "iot cleaning"}
+{"sentence": "where am i supposed to be by this time tomorrow", "label": "calendar query"}
+{"sentence": "turn off one light in my bedroom", "label": "iot hue lightoff"}
+{"sentence": "it doesn't matter to me.", "label": "general dontcare"}
+{"sentence": "i would like to listen to howard stern on ninety seven point nine fm", "label": "play radio"}
+{"sentence": "what is two plus two", "label": "qa maths"}
+{"sentence": "i don't really mind to select any one.", "label": "general dontcare"}
+{"sentence": "what time is the evening meeting i have with john", "label": "calendar query"}
+{"sentence": "what kind of music am i into", "label": "music query"}
+{"sentence": "how many eggs are on my grocery list", "label": "lists query"}
+{"sentence": "turn on the vacuum cleaner while i am gone", "label": "iot cleaning"}
+{"sentence": "did linda connors reply to any of my emails this morning", "label": "email query"}
+{"sentence": "let me know when it is ten", "label": "alarm set"}
+{"sentence": "switch from blue to yellow lights", "label": "iot hue lightchange"}
+{"sentence": "are there any unread emails from patrick", "label": "email query"}
+{"sentence": "are there any news regarding our president on facebook today", "label": "social query"}
+{"sentence": "yeah fantastic response to command.", "label": "general affirm"}
+{"sentence": "doesn't matter, olly.", "label": "general dontcare"}
+{"sentence": "remove my calendar event at one pm today", "label": "calendar remove"}
+{"sentence": "perfect job, you have done well.", "label": "general praise"}
+{"sentence": "switch off the master's bedroom", "label": "iot hue lightoff"}
+{"sentence": "i need a reminder alarm at one", "label": "alarm set"}
+{"sentence": "what information do you have on file in my information about bill", "label": "email querycontact"}
+{"sentence": "i need to put together a todo list for work", "label": "lists createoradd"}
+{"sentence": "start a vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "how much yens per u. s. d. today", "label": "qa currency"}
+{"sentence": "please make the lights natural", "label": "iot hue lightchange"}
+{"sentence": "pull up my cnn app and read it to me", "label": "news query"}
+{"sentence": "tell me what is on my calendar for tomorrow", "label": "calendar query"}
+{"sentence": "play that podcast please", "label": "play podcasts"}
+{"sentence": "can you turn up your volume", "label": "audio volume up"}
+{"sentence": "make sure there is no events on my calendar", "label": "calendar remove"}
+{"sentence": "i am ready to hear the next episode of podcast", "label": "play podcasts"}
+{"sentence": "please start the vacuum", "label": "iot cleaning"}
+{"sentence": "is it going to rain in seattle today", "label": "weather query"}
+{"sentence": "what does formidable mean", "label": "qa definition"}
+{"sentence": "do i have a sales meeting today", "label": "calendar query"}
+{"sentence": "will you please shut up.", "label": "general commandstop"}
+{"sentence": "has anything happened to mass effect", "label": "news query"}
+{"sentence": "set an alarm for me at eight am", "label": "alarm set"}
+{"sentence": "tell me items that are on my shopping list", "label": "lists query"}
+{"sentence": "what music is playing", "label": "music query"}
+{"sentence": "please make the lights watching friendly", "label": "iot hue lightchange"}
+{"sentence": "will the fast food shop at the corner open today", "label": "recommendation locations"}
+{"sentence": "is i. b. m. up today", "label": "qa stock"}
+{"sentence": "what is my email from steve about", "label": "email query"}
+{"sentence": "transition lights to blue to green to yellow", "label": "iot hue lightchange"}
+{"sentence": "please help me turn on the robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "brew me a cup of coffee", "label": "iot coffee"}
+{"sentence": "check my twitter account", "label": "social query"}
+{"sentence": "can you get me a train ticket to nyc", "label": "transport query"}
+{"sentence": "what is glass made of", "label": "qa factoid"}
+{"sentence": "could you please confirm what i just said.", "label": "general confirm"}
+{"sentence": "i can barely hear you", "label": "audio volume up"}
+{"sentence": "yeap you've understood the answer right.", "label": "general affirm"}
+{"sentence": "make the wemo plug socket turned on", "label": "iot wemo on"}
+{"sentence": "overhead lights on please", "label": "iot hue lighton"}
+{"sentence": "one am set", "label": "alarm set"}
+{"sentence": "remind me tomorrow at four about an event", "label": "calendar set"}
+{"sentence": "turn off lights in bathroom", "label": "iot hue lightoff"}
+{"sentence": "repeat this list in random order", "label": "play music"}
+{"sentence": "hey ms the email address of john miller", "label": "email querycontact"}
+{"sentence": "power up the vacuum", "label": "iot cleaning"}
+{"sentence": "play musician play list", "label": "play podcasts"}
+{"sentence": "when was the last time that i spoke to john", "label": "email querycontact"}
+{"sentence": "set alarm of every tuesday of march month morning eight am", "label": "alarm set"}
+{"sentence": "what's new on social media", "label": "social query"}
+{"sentence": "please delete what i just typed", "label": "lists remove"}
+{"sentence": "send a mail to whom to talk", "label": "email sendemail"}
+{"sentence": "what is the exchange rate between the us dollar and the aus dollar", "label": "qa currency"}
+{"sentence": "use google to show me how to cook", "label": "cooking recipe"}
+{"sentence": "length of traffic", "label": "transport traffic"}
+{"sentence": "what did i put down already on the walmart list", "label": "lists query"}
+{"sentence": "put alarm at five am", "label": "alarm set"}
+{"sentence": "start a cup of coffee for me", "label": "iot coffee"}
+{"sentence": "convert one euros to us dollars", "label": "qa currency"}
+{"sentence": "now i need to write an email to my colleague", "label": "email sendemail"}
+{"sentence": "u. s. d. to g. b. p.", "label": "qa currency"}
+{"sentence": "just add a new email in my contacts from michael", "label": "email addcontact"}
+{"sentence": "what was the latest post", "label": "social query"}
+{"sentence": "read me new post on my feed", "label": "social query"}
+{"sentence": "can you convert my time zone to the time zone i'm currently in", "label": "datetime convert"}
+{"sentence": "tell me about the presidential race", "label": "news query"}
+{"sentence": "if i have twenty dollars how many francs is that", "label": "qa currency"}
+{"sentence": "what is the exchange rate as of today", "label": "qa currency"}
+{"sentence": "can to please clear my calendar of all events", "label": "calendar remove"}
+{"sentence": "hey olly play the radio", "label": "play radio"}
+{"sentence": "dismiss my next event", "label": "calendar remove"}
+{"sentence": "delete the list item about the meeting", "label": "lists remove"}
+{"sentence": "what song am i listening to", "label": "music query"}
+{"sentence": "run the vacuum", "label": "iot cleaning"}
+{"sentence": "thursday at three pm there is a teachers meeting i need to be reminded of", "label": "calendar set"}
+{"sentence": "please turn the volume to the loudest setting", "label": "audio volume up"}
+{"sentence": "raise speaker volume", "label": "audio volume up"}
+{"sentence": "go to www dot metronorth dot com for train tickets", "label": "transport ticket"}
+{"sentence": "mahaboobsayyad@gmail dot com", "label": "email sendemail"}
+{"sentence": "do i need to carry umbrella for evening", "label": "weather query"}
+{"sentence": "book the the next train ticket to chennai", "label": "transport ticket"}
+{"sentence": "tell me the exact arrival time of train from newcastle to edinburgh", "label": "transport query"}
+{"sentence": "please book the five pm train to rockville", "label": "transport ticket"}
+{"sentence": "can you turn up the volume on itunes", "label": "audio volume up"}
+{"sentence": "what music genre do i play most", "label": "music query"}
+{"sentence": "would you play some music please", "label": "play music"}
+{"sentence": "was this song in the top twenty", "label": "music query"}
+{"sentence": "i want to wake up at six am tomorrow please", "label": "alarm set"}
+{"sentence": "resume series podcast", "label": "play podcasts"}
+{"sentence": "awesome job, you did well.", "label": "general praise"}
+{"sentence": "light up", "label": "iot hue lightup"}
+{"sentence": "hi olly please remove the birthday event on coming sunday", "label": "calendar remove"}
+{"sentence": "order one coffee from nearest coffee shop", "label": "iot coffee"}
+{"sentence": "can you upload my latest selfie in my instagram", "label": "social post"}
+{"sentence": "hi buddy send mail to my friend hellen regarding home builders are not accepted the offer", "label": "email sendemail"}
+{"sentence": "show list items", "label": "lists remove"}
+{"sentence": "you've gotten your understanding correcly.", "label": "general affirm"}
+{"sentence": "check the news", "label": "news query"}
+{"sentence": "turn down lights", "label": "iot hue lightdim"}
+{"sentence": "what kind of music do you think i like", "label": "music query"}
+{"sentence": "replace the current light colours in the house with dark ones", "label": "iot hue lightchange"}
+{"sentence": "turn this room light off", "label": "iot hue lightoff"}
+{"sentence": "can you take out dentist appointment from my calendar", "label": "calendar remove"}
+{"sentence": "what is the daily price of johnson and johnson stock", "label": "qa stock"}
+{"sentence": "what's the temperature", "label": "weather query"}
+{"sentence": "add grocery to list", "label": "lists createoradd"}
+{"sentence": "i'd like a coffee now", "label": "iot coffee"}
+{"sentence": "play the miami heat and warriors game", "label": "play radio"}
+{"sentence": "save that email as a new contact", "label": "email addcontact"}
+{"sentence": "play football with me", "label": "play game"}
+{"sentence": "could you confirm my last instruction please.", "label": "general confirm"}
+{"sentence": "tweet a complaint to apple about my iphone seven", "label": "social post"}
+{"sentence": "start the podcast over that i started last night", "label": "play podcasts"}
+{"sentence": "what is name of the song currently playing", "label": "music query"}
+{"sentence": "go to the next episode in this podcast", "label": "play podcasts"}
+{"sentence": "find shoe shopping near my home", "label": "recommendation locations"}
+{"sentence": "please dim the overhead lights", "label": "iot hue lightdim"}
+{"sentence": "what's new with the stock market", "label": "qa stock"}
+{"sentence": "please lower the shuffle rate of hips don't lie", "label": "music settings"}
+{"sentence": "could you please check and confirm last thing i said.", "label": "general confirm"}
+{"sentence": "do i have a home number for shelly", "label": "email querycontact"}
+{"sentence": "tell me the latest stock of pepsi", "label": "qa stock"}
+{"sentence": "remove calendar events for this week", "label": "calendar remove"}
+{"sentence": "next episode please", "label": "play podcasts"}
+{"sentence": "i want to know how to make a chicken in the oven", "label": "cooking recipe"}
+{"sentence": "i want a coffee now", "label": "iot coffee"}
+{"sentence": "please purchase a train ticket for this weekend", "label": "transport ticket"}
+{"sentence": "what's happening in world news today", "label": "news query"}
+{"sentence": "please change time zone to india", "label": "datetime convert"}
+{"sentence": "remind me to pick up john from the airport tonight at eight", "label": "calendar set"}
+{"sentence": "tweet consumer service that the quantity is wrong", "label": "social post"}
+{"sentence": "how cold is today", "label": "weather query"}
+{"sentence": "change the station to eighty two point four", "label": "play radio"}
+{"sentence": "what is happening in the world today", "label": "news query"}
+{"sentence": "answer this mathematical question", "label": "qa maths"}
+{"sentence": "add eggs to the list", "label": "lists createoradd"}
+{"sentence": "where do most celebrities hang out", "label": "qa factoid"}
+{"sentence": "give me a new light color", "label": "iot hue lightchange"}
+{"sentence": "does not matter, olly.", "label": "general dontcare"}
+{"sentence": "can you create a new list", "label": "lists createoradd"}
+{"sentence": "can i see my lists for today", "label": "lists query"}
+{"sentence": "remove eric name", "label": "lists remove"}
+{"sentence": "turn the lights blue at three pm", "label": "iot hue lightchange"}
+{"sentence": "lower battery consumption to save setting", "label": "music settings"}
+{"sentence": "what chinese restaurants are in my area", "label": "recommendation locations"}
+{"sentence": "tell me my music likes", "label": "music query"}
+{"sentence": "social info", "label": "social query"}
+{"sentence": "delete my grocery list in my notes", "label": "lists remove"}
+{"sentence": "bring up the grocery list and add", "label": "lists createoradd"}
+{"sentence": "what went on in the world today", "label": "news query"}
+{"sentence": "what events do i have scheduled today", "label": "calendar query"}
+{"sentence": "change the plan of meeting", "label": "calendar remove"}
+{"sentence": "what is the exchange rate between us and canada", "label": "qa currency"}
+{"sentence": "my facebook update in every three hour should be available", "label": "social query"}
+{"sentence": "move to next section", "label": "play podcasts"}
+{"sentence": "olly would you please shut up.", "label": "general commandstop"}
+{"sentence": "get me some radio music from kamp fm", "label": "play radio"}
+{"sentence": "how far is orlando from my house", "label": "transport query"}
+{"sentence": "turn my smart plug socket on", "label": "iot wemo on"}
+{"sentence": "what is recipe", "label": "cooking recipe"}
+{"sentence": "where is dell standing in stock market right now", "label": "qa stock"}
+{"sentence": "how many teaspoons are in a cup", "label": "cooking recipe"}
+{"sentence": "that's all, just stop.", "label": "general commandstop"}
+{"sentence": "what is apple's stock", "label": "qa stock"}
+{"sentence": "turn volume up to highest level", "label": "audio volume up"}
+{"sentence": "yeap it's confirmed.", "label": "general affirm"}
+{"sentence": "are there any accidents on the four hundred and five", "label": "transport traffic"}
+{"sentence": "i would like some coffee now", "label": "iot coffee"}
+{"sentence": "i want to play solitare with you", "label": "play game"}
+{"sentence": "have remainder of the program to listen", "label": "play radio"}
+{"sentence": "correct response to the command.", "label": "general affirm"}
+{"sentence": "i am need my hat today", "label": "weather query"}
+{"sentence": "what is the name of this song playing right now", "label": "music query"}
+{"sentence": "start my robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "i want to raise the light", "label": "iot hue lightup"}
+{"sentence": "hey olly on the twentieth clear my calendar", "label": "calendar remove"}
+{"sentence": "please play songs i've purchased and favorited", "label": "play music"}
+{"sentence": "what is price of dollar", "label": "qa currency"}
+{"sentence": "what's the email address of silvia", "label": "email querycontact"}
+{"sentence": "what's the meaning of rumplestiltskin", "label": "qa definition"}
+{"sentence": "please remove march nineteenth's scheduled event", "label": "calendar remove"}
+{"sentence": "should i take an umbrella today", "label": "weather query"}
+{"sentence": "shut down please.", "label": "general commandstop"}
+{"sentence": "start the podcast i was last listening to", "label": "play podcasts"}
+{"sentence": "how old is kim kardashian", "label": "qa factoid"}
+{"sentence": "anything is okay for me.", "label": "general dontcare"}
+{"sentence": "please check if i got any emails from mom", "label": "email query"}
+{"sentence": "please add smurfette@gmail dot com to my email contacts", "label": "email addcontact"}
+{"sentence": "please check last thing said.", "label": "general confirm"}
+{"sentence": "add jim and jerry to event", "label": "calendar set"}
+{"sentence": "no lunch date tomorrow", "label": "calendar remove"}
+{"sentence": "turn off my wemo plug socket", "label": "iot wemo off"}
+{"sentence": "activate robot vacuum", "label": "iot cleaning"}
+{"sentence": "olly shut up.", "label": "general commandstop"}
+{"sentence": "please check and tell me where is the location of toms new business", "label": "email querycontact"}
+{"sentence": "tweet starbucks and say that the customer service is awful", "label": "social post"}
+{"sentence": "when is boy band playing", "label": "music query"}
+{"sentence": "change the lights to my favorite color", "label": "iot hue lightchange"}
+{"sentence": "what notifications do i have in social media", "label": "social query"}
+{"sentence": "is the road a free way or a toll road", "label": "transport traffic"}
+{"sentence": "check emails for last hour", "label": "email query"}
+{"sentence": "could you confirm the question please.", "label": "general confirm"}
+{"sentence": "please shut down.", "label": "general commandstop"}
+{"sentence": "get the roomba to start cleaning", "label": "iot cleaning"}
+{"sentence": "turn on alarm thirty minutes before liverpool started to play", "label": "alarm set"}
+{"sentence": "that does not really matter with me, olly.", "label": "general dontcare"}
+{"sentence": "play the song get happy by ella fitzgeral", "label": "play music"}
+{"sentence": "did i get an email from jen last night", "label": "email query"}
+{"sentence": "give me the definition of arrow", "label": "qa definition"}
+{"sentence": "please delete this item", "label": "lists remove"}
+{"sentence": "please will you check last thing said.", "label": "general confirm"}
+{"sentence": "let wendy's know i hate them", "label": "social post"}
+{"sentence": "any incoming emails in the last five minutes", "label": "email query"}
+{"sentence": "complain to mcdonalds twitter about my burger", "label": "social post"}
+{"sentence": "please change the volume low of the speakers", "label": "audio volume down"}
+{"sentence": "add these documents to the things i need to travel with", "label": "lists createoradd"}
+{"sentence": "navigation search", "label": "transport query"}
+{"sentence": "create a list of jewels to be bought", "label": "lists createoradd"}
+{"sentence": "how can i go from boston to new york by train", "label": "transport query"}
+{"sentence": "delete shopping from my list", "label": "lists remove"}
+{"sentence": "turn on wfrn ninety nine point one", "label": "play radio"}
+{"sentence": "can you please off the light", "label": "iot hue lightoff"}
+{"sentence": "new friends request details", "label": "social query"}
+{"sentence": "i've got dollars for the month how much can i spend every day this month", "label": "qa maths"}
+{"sentence": "start coffee", "label": "iot coffee"}
+{"sentence": "has sarah posted anything today", "label": "social query"}
+{"sentence": "i would like to hear heathens by twenty one pilots", "label": "play music"}
+{"sentence": "that is helpful, thanks.", "label": "general praise"}
+{"sentence": "enable cleaner robot", "label": "iot cleaning"}
+{"sentence": "tell me the office address of my brother", "label": "email querycontact"}
+{"sentence": "you are my hero,.", "label": "general praise"}
+{"sentence": "yeap.", "label": "general affirm"}
+{"sentence": "what do i have scheduled for next week", "label": "calendar query"}
+{"sentence": "book and pay for a train ticket to denver for saturday", "label": "transport ticket"}
+{"sentence": "what is the weather today", "label": "weather query"}
+{"sentence": "can we play twenty questions", "label": "play game"}
+{"sentence": "olly will you cancel please.", "label": "general commandstop"}
+{"sentence": "turn up the sound", "label": "audio volume up"}
+{"sentence": "what is on the agenda for the four pm meeting with joe", "label": "calendar query"}
+{"sentence": "start robot cleaner", "label": "iot cleaning"}
+{"sentence": "what is the name of this musical group", "label": "music query"}
+{"sentence": "whatever is good.", "label": "general dontcare"}
+{"sentence": "list my lists please", "label": "lists query"}
+{"sentence": "find my wife", "label": "email querycontact"}
+{"sentence": "what is the difference between the rate of the american dollar and the pound", "label": "qa currency"}
+{"sentence": "i don't want eggs", "label": "lists remove"}
+{"sentence": "prepare coffee", "label": "iot coffee"}
+{"sentence": "what is the price of apple stock today", "label": "qa stock"}
+{"sentence": "let's play workout playlist", "label": "play music"}
+{"sentence": "turn off garage light", "label": "iot hue lightoff"}
+{"sentence": "i need to get up at ten tomorrow", "label": "alarm set"}
+{"sentence": "what is a monitor", "label": "qa definition"}
+{"sentence": "what is scheduled on my calendar today", "label": "calendar query"}
+{"sentence": "turn the lights down a bit", "label": "iot hue lightdim"}
+{"sentence": "secure train passage for me on july three", "label": "transport ticket"}
+{"sentence": "delete my shopping list", "label": "lists remove"}
+{"sentence": "play party songs", "label": "play music"}
+{"sentence": "fantastic work, you've done well.", "label": "general praise"}
+{"sentence": "brew a pot of coffee", "label": "iot coffee"}
+{"sentence": "get the duet game", "label": "play game"}
+{"sentence": "how cold is it outside", "label": "weather query"}
+{"sentence": "erase my appointment with ted", "label": "calendar remove"}
+{"sentence": "whether it would be sunny in califonia", "label": "weather query"}
+{"sentence": "forward to four twenty", "label": "play podcasts"}
+{"sentence": "lower the speak volume", "label": "audio volume down"}
+{"sentence": "what is the forecast for the week", "label": "weather query"}
+{"sentence": "i want to listen to soft rock", "label": "play music"}
+{"sentence": "what is john's phone number", "label": "email querycontact"}
+{"sentence": "tell me why relationships are so hard", "label": "qa factoid"}
+{"sentence": "yeah that's great.", "label": "general affirm"}
+{"sentence": "what is on the list for today", "label": "lists query"}
+{"sentence": "i have a meeting with al on march twenty first at ten", "label": "calendar set"}
+{"sentence": "where are italian restaurants in me area", "label": "recommendation locations"}
+{"sentence": "i've heard this riff before what song stole this riff it's exactly the same", "label": "music query"}
+{"sentence": "how's the weather like in beijing", "label": "weather query"}
+{"sentence": "find apple on list and remove", "label": "lists remove"}
+{"sentence": "start the vacuum", "label": "iot cleaning"}
+{"sentence": "is there any event today in my calendar", "label": "calendar query"}
+{"sentence": "podcast next episode", "label": "play podcasts"}
+{"sentence": "convert new york time to london", "label": "datetime convert"}
+{"sentence": "why are whales big", "label": "qa factoid"}
+{"sentence": "can you set an alarm for seven am", "label": "alarm set"}
+{"sentence": "have i received any emails from beth", "label": "email query"}
+{"sentence": "what's rene phone number", "label": "email querycontact"}
+{"sentence": "change the light color to red", "label": "iot hue lightchange"}
+{"sentence": "start the robot vacuum cleaner at one pm today", "label": "iot cleaning"}
+{"sentence": "it is five forty five am in liverpool what time is now new york", "label": "datetime convert"}
+{"sentence": "did i add milk to the shopping list", "label": "lists query"}
+{"sentence": "can you tell me what twenty five percent of two thousand one hundred is", "label": "qa maths"}
+{"sentence": "start the poker game", "label": "play game"}
+{"sentence": "can you start my saved podcast", "label": "play podcasts"}
+{"sentence": "what does the analysts say about the new immigration policies", "label": "news query"}
+{"sentence": "please switch off the light", "label": "iot hue lightoff"}
+{"sentence": "send an email to my wife about next week weather", "label": "email sendemail"}
+{"sentence": "cancel the breakfast at tiffany's house", "label": "calendar remove"}
+{"sentence": "clear the list", "label": "lists remove"}
+{"sentence": "traffic congestion issues", "label": "transport traffic"}
+{"sentence": "what is on the agenda for today", "label": "calendar query"}
+{"sentence": "anything is fine to me, olly.", "label": "general dontcare"}
+{"sentence": "please book a train ticket from jodhpur to jaisalmer on sunday", "label": "transport ticket"}
+{"sentence": "skip", "label": "play podcasts"}
+{"sentence": "this is unimportant for me.", "label": "general dontcare"}
+{"sentence": "please turn on all lights", "label": "iot hue lighton"}
+{"sentence": "turn up the brightness of the lights", "label": "iot hue lightup"}
+{"sentence": "how many likes did i get today", "label": "social query"}
+{"sentence": "who is singing this song", "label": "music query"}
+{"sentence": "what are my lists so far", "label": "lists query"}
+{"sentence": "enable smart socket", "label": "iot wemo on"}
+{"sentence": "remove the doctor's appointment i added to my calendar for february twelfth at nine am", "label": "calendar remove"}
+{"sentence": "you are so helpful, thank you so much.", "label": "general praise"}
+{"sentence": "what is motorola going for today", "label": "qa stock"}
+{"sentence": "play keno", "label": "play game"}
+{"sentence": "turn off the lights in this room please", "label": "iot hue lightoff"}
+{"sentence": "instagram", "label": "social query"}
+{"sentence": "describe the empire state building", "label": "qa definition"}
+{"sentence": "find my next event and delete it please", "label": "calendar remove"}
+{"sentence": "open clock", "label": "alarm set"}
+{"sentence": "exchanges rates any problems", "label": "qa currency"}
+{"sentence": "what should i wear is it cold outside", "label": "weather query"}
+{"sentence": "search this object's definition", "label": "qa definition"}
+{"sentence": "in delhi traffic level too high", "label": "transport traffic"}
+{"sentence": "who sang the song that is currently playing", "label": "music query"}
+{"sentence": "show me the top rated podcasts", "label": "play podcasts"}
+{"sentence": "can you shut off please.", "label": "general commandstop"}
+{"sentence": "have i received any mail in the last hour", "label": "email query"}
+{"sentence": "is the four hundred and thirty pm train running late", "label": "transport query"}
+{"sentence": "open music player settings", "label": "music settings"}
+{"sentence": "change light whenever i find myself in my house", "label": "iot hue lightchange"}
+{"sentence": "is there any construction on route sixty six", "label": "transport traffic"}
+{"sentence": "tell me the name of the composer", "label": "music query"}
+{"sentence": "post to twitter trump is such an ass", "label": "social post"}
+{"sentence": "please remove this item from the list", "label": "lists remove"}
+{"sentence": "tell me the answer for two plus two", "label": "qa maths"}
+{"sentence": "what is derek's phone number", "label": "email querycontact"}
+{"sentence": "are the streets congested right now", "label": "transport traffic"}
+{"sentence": "yes you have understood my instructions perfectly.", "label": "general affirm"}
+{"sentence": "what is the time difference between eastern and pacific", "label": "datetime convert"}
+{"sentence": "can you describe to me what a pineapple looks like", "label": "qa definition"}
+{"sentence": "cancel my birthday party", "label": "calendar remove"}
+{"sentence": "write an email recipient ray", "label": "email sendemail"}
+{"sentence": "get the next episode", "label": "play podcasts"}
+{"sentence": "that's useful, thank you so much, olly.", "label": "general praise"}
+{"sentence": "set an alert for two pm", "label": "alarm set"}
+{"sentence": "play golf", "label": "play game"}
+{"sentence": "repeat alarm", "label": "alarm set"}
+{"sentence": "read my grocery list", "label": "lists query"}
+{"sentence": "play this game with me", "label": "play game"}
+{"sentence": "remove my dinner event for monday", "label": "calendar remove"}
+{"sentence": "check email for otp sent by my bank", "label": "email query"}
+{"sentence": "tell me the music that is playing", "label": "music query"}
+{"sentence": "please check my gmail for new mail", "label": "email query"}
+{"sentence": "how is the traffic on I twenty five", "label": "transport traffic"}
+{"sentence": "when does the super bowl officially start", "label": "qa factoid"}
+{"sentence": "musch appreciated, that's good.", "label": "general praise"}
+{"sentence": "turn off the lights in the bathroom", "label": "iot hue lightoff"}
+{"sentence": "start up the coffee machine", "label": "iot coffee"}
+{"sentence": "send an email to dad about the weather for the week", "label": "email sendemail"}
+{"sentence": "i have already given mark his gift today please remove him on my christmas gift list", "label": "lists remove"}
+{"sentence": "will you check and confirm that please.", "label": "general confirm"}
+{"sentence": "will it be raining on thursday", "label": "weather query"}
+{"sentence": "what is the name of the artist that created this song", "label": "music query"}
+{"sentence": "please send the email to abc@gmail dot com instead of xyz@gmail dot com", "label": "email sendemail"}
+{"sentence": "show me the latest news from the un", "label": "news query"}
+{"sentence": "doesn't matter with me.", "label": "general dontcare"}
+{"sentence": "is alex saved in my contacts list", "label": "email querycontact"}
+{"sentence": "set a thanks giving event for friday", "label": "calendar set"}
+{"sentence": "olly please shut off.", "label": "general commandstop"}
+{"sentence": "can you tell me about my meetings next week", "label": "calendar query"}
+{"sentence": "which film the music comes from what is the name of the music", "label": "music query"}
+{"sentence": "i would not really know, olly.", "label": "general dontcare"}
+{"sentence": "create a list for the following", "label": "lists createoradd"}
+{"sentence": "what's on the grocery list", "label": "lists query"}
+{"sentence": "can you book a train ticket for my father", "label": "transport ticket"}
+{"sentence": "start a competitive crossword for us", "label": "play game"}
+{"sentence": "got the answer exactly.", "label": "general affirm"}
+{"sentence": "will you shut up.", "label": "general commandstop"}
+{"sentence": "what list is available for my favorite music from ed sheeran", "label": "music query"}
+{"sentence": "how was the weather this week", "label": "weather query"}
+{"sentence": "please set my alarm clock for eight am", "label": "alarm set"}
+{"sentence": "the music volume should increase to ninety", "label": "audio volume up"}
+{"sentence": "what does it look like", "label": "qa definition"}
+{"sentence": "is there any chances of rain this week", "label": "weather query"}
+{"sentence": "show me the train schedules to the metropolitan opera house", "label": "transport query"}
+{"sentence": "how many pounds do sixty kg make", "label": "qa maths"}
+{"sentence": "bring up lights", "label": "iot hue lightup"}
+{"sentence": "find me someone", "label": "email querycontact"}
+{"sentence": "what do you get when you multiply sixteen by nine", "label": "qa maths"}
+{"sentence": "please will you check my last instruction.", "label": "general confirm"}
+{"sentence": "you have done it correcly.", "label": "general affirm"}
+{"sentence": "comcast sucks put that on their twitter account", "label": "social post"}
+{"sentence": "which place has more traffic", "label": "transport traffic"}
+{"sentence": "add my car payment on the twelfth in my calendar", "label": "calendar set"}
+{"sentence": "ah it's awesome, olly.", "label": "general praise"}
+{"sentence": "get train ticket", "label": "transport ticket"}
+{"sentence": "what does the traffic look like headed to la", "label": "transport traffic"}
+{"sentence": "traffic alert", "label": "transport traffic"}
+{"sentence": "what is the cooking time for mashed potatoes", "label": "cooking recipe"}
+{"sentence": "i do not really mind, olly.", "label": "general dontcare"}
+{"sentence": "can you make a red shade of light in the living room", "label": "iot hue lightchange"}
+{"sentence": "what are the list of things i need to buy today", "label": "lists query"}
+{"sentence": "flag two day after this day as my holiday", "label": "calendar set"}
+{"sentence": "please find all name start with alphabetic of a and create a list", "label": "lists createoradd"}
+{"sentence": "i want to start a new list", "label": "lists createoradd"}
+{"sentence": "open the contact named john", "label": "email querycontact"}
+{"sentence": "how do i get to brighton", "label": "transport query"}
+{"sentence": "read my list to me", "label": "lists query"}
+{"sentence": "book a ride from new york to orlando covering ten places to see", "label": "transport ticket"}
+{"sentence": "please turn on my robot vacuum cleaner", "label": "iot cleaning"}
+{"sentence": "what high school did halley barry go to", "label": "qa factoid"}
+{"sentence": "increase the volume to seventy percent", "label": "audio volume up"}
+{"sentence": "change light colour to blue", "label": "iot hue lightchange"}
+{"sentence": "what is apple's current stock price", "label": "qa stock"}
+{"sentence": "please read me my current lists", "label": "lists query"}
+{"sentence": "i need oranges added to my grocery list", "label": "lists createoradd"}
+{"sentence": "hello google post my current status on twitter mentioning a great trip to paris with friends and family", "label": "social post"}
+{"sentence": "schedule a meeting with al on tuesday", "label": "calendar set"}
+{"sentence": "how can i cook pizza", "label": "cooking recipe"}
+{"sentence": "check inbox for mail from sarah", "label": "email query"}
+{"sentence": "will you please check and confirm detail.", "label": "general confirm"}
+{"sentence": "how many of my contacts live or work in detroit", "label": "email querycontact"}
+{"sentence": "what is the traffic situation right in broadway street", "label": "transport traffic"}
+{"sentence": "please check the trending topics on twitter", "label": "social query"}
+{"sentence": "how the list of upcoming events", "label": "calendar query"}
+{"sentence": "who is scheduled for tomorrow's meeting", "label": "calendar query"}
+{"sentence": "let me know about the exchange rate of rupee to dirham", "label": "qa currency"}
+{"sentence": "list all the shops that are located in milan", "label": "recommendation locations"}
+{"sentence": "today how many alarms do i have set", "label": "alarm query"}
+{"sentence": "how many alarms do i have set for morning hours between six and nine am", "label": "alarm query"}
+{"sentence": "what is tomorrow's alarm time set to", "label": "alarm query"}
+{"sentence": "please let me know the morning alarm time for weekdays", "label": "alarm query"}
+{"sentence": "can you tell me about the alarm called bed", "label": "alarm query"}
+{"sentence": "read me my alarms", "label": "alarm query"}
+{"sentence": "is there any alarm after five am", "label": "alarm query"}
+{"sentence": "what are my alarms", "label": "alarm query"}
+{"sentence": "what days are my alarms set for", "label": "alarm query"}
+{"sentence": "would like to know the alarm you sent", "label": "alarm query"}
+{"sentence": "confirm i have set an alarm for six am", "label": "alarm query"}
+{"sentence": "what alarms did i set", "label": "alarm query"}
+{"sentence": "what alarms do i got", "label": "alarm query"}
+{"sentence": "show me the alarms that are set", "label": "alarm query"}
+{"sentence": "tell me about alarms", "label": "alarm query"}
+{"sentence": "list all the alarms", "label": "alarm query"}
+{"sentence": "checkout today third set alarm", "label": "alarm query"}
+{"sentence": "how many alarms are currently set", "label": "alarm query"}
+{"sentence": "are there any alarms set what are they", "label": "alarm query"}
+{"sentence": "get rid of my wake up alarm set for saturday", "label": "alarm remove"}
+{"sentence": "disable alarm for three pm", "label": "alarm remove"}
+{"sentence": "remove set alarm", "label": "alarm remove"}
+{"sentence": "remove the alarm set for ten pm", "label": "alarm remove"}
+{"sentence": "remove all alarm of sunday", "label": "alarm remove"}
+{"sentence": "do not wake me up tomorrow", "label": "alarm remove"}
+{"sentence": "please remove the alarm set for wednesday called kickball", "label": "alarm remove"}
+{"sentence": "turn off my alarms", "label": "alarm remove"}
+{"sentence": "forget alarm", "label": "alarm remove"}
+{"sentence": "set off this alarm", "label": "alarm remove"}
+{"sentence": "turn off my alarm", "label": "alarm remove"}
+{"sentence": "please hold for the next hour", "label": "audio volume mute"}
+{"sentence": "disable music player", "label": "audio volume mute"}
+{"sentence": "mute the sound", "label": "audio volume mute"}
+{"sentence": "set the settings to mute", "label": "audio volume mute"}
+{"sentence": "quiet mode on until i am home from work", "label": "audio volume mute"}
+{"sentence": "turn the vibrate off from speaker", "label": "audio volume mute"}
+{"sentence": "please mute the speakers", "label": "audio volume mute"}
+{"sentence": "mute sound on speakers please", "label": "audio volume mute"}
+{"sentence": "don't speak for an hour", "label": "audio volume mute"}
+{"sentence": "set music system to mute", "label": "audio volume mute"}
+{"sentence": "stay quiet", "label": "audio volume mute"}
+{"sentence": "set volume to zero", "label": "audio volume mute"}
+{"sentence": "please mute my speaker", "label": "audio volume mute"}
+{"sentence": "speakers off", "label": "audio volume mute"}
+{"sentence": "please do not speak", "label": "audio volume mute"}
+{"sentence": "twenty second april day", "label": "datetime query"}
+{"sentence": "what is the time in london", "label": "datetime query"}
+{"sentence": "what day does april sixteenth fall on", "label": "datetime query"}
+{"sentence": "what day is easter", "label": "datetime query"}
+{"sentence": "mention the time in canada now", "label": "datetime query"}
+{"sentence": "tell me what time it is right now", "label": "datetime query"}
+{"sentence": "the time in cairo please", "label": "datetime query"}
+{"sentence": "which week is twenty third", "label": "datetime query"}
+{"sentence": "what is today's date", "label": "datetime query"}
+{"sentence": "what day of the week does christmas fall on this year", "label": "datetime query"}
+{"sentence": "what is the time in ajmer", "label": "datetime query"}
+{"sentence": "show me the time in new york city", "label": "datetime query"}
+{"sentence": "what is the time in australia right now", "label": "datetime query"}
+{"sentence": "what day of the week is first april", "label": "datetime query"}
+{"sentence": "how many birthday's are on twenty third", "label": "datetime query"}
+{"sentence": "what is tomorrows date", "label": "datetime query"}
+{"sentence": "what day of the week is the first of march", "label": "datetime query"}
+{"sentence": "i need to know what is the date today", "label": "datetime query"}
+{"sentence": "what is eastern standard time right noe", "label": "datetime query"}
+{"sentence": "s1, will you please further explain me about what you said.", "label": "general explain"}
+{"sentence": "could you clarify further on what you said now to me please.", "label": "general explain"}
+{"sentence": "s2, i am unclear about it.", "label": "general explain"}
+{"sentence": "what did you mean by that.", "label": "general explain"}
+{"sentence": "i am unclear about your answer.", "label": "general explain"}
+{"sentence": "would you again explain the last sentence to me please.", "label": "general explain"}
+{"sentence": "please explain me more on what you've just said.", "label": "general explain"}
+{"sentence": "i am not so clear about that.", "label": "general explain"}
+{"sentence": "what do you mean.", "label": "general explain"}
+{"sentence": "will you once again rephrase me about what you just said now.", "label": "general explain"}
+{"sentence": "i was not so clear about your answers.", "label": "general explain"}
+{"sentence": "s1, again elaborate me on what you have just said please.", "label": "general explain"}
+{"sentence": "explain further.", "label": "general explain"}
+{"sentence": "s2, i was not clear about that.", "label": "general explain"}
+{"sentence": "please will you elaborate further on last sentence.", "label": "general explain"}
+{"sentence": "will you please clarify again.", "label": "general explain"}
+{"sentence": "explain me further on what you have said please.", "label": "general explain"}
+{"sentence": "once again explain it to me.", "label": "general explain"}
+{"sentence": "please will you explain me more on what you've said.", "label": "general explain"}
+{"sentence": "search for new jokes", "label": "general joke"}
+{"sentence": "what's a good joke", "label": "general joke"}
+{"sentence": "tell me a joke about chickens", "label": "general joke"}
+{"sentence": "say a funny", "label": "general joke"}
+{"sentence": "do you have a funny joke for me", "label": "general joke"}
+{"sentence": "a joke please", "label": "general joke"}
+{"sentence": "can you find an animal joke for me", "label": "general joke"}
+{"sentence": "make me laugh", "label": "general joke"}
+{"sentence": "could you tell me funny things", "label": "general joke"}
+{"sentence": "say something funny", "label": "general joke"}
+{"sentence": "tell me a joke about dogs", "label": "general joke"}
+{"sentence": "tell me the funniest joke that was ever told", "label": "general joke"}
+{"sentence": "dammit, that's not what i said.", "label": "general negate"}
+{"sentence": "dammit, i think incorrect response.", "label": "general negate"}
+{"sentence": "it must be mistake.", "label": "general negate"}
+{"sentence": "this is not what i requested.", "label": "general negate"}
+{"sentence": "nope, i didn't say this.", "label": "general negate"}
+{"sentence": "i think you did the task incorrectly.", "label": "general negate"}
+{"sentence": "thanks but i think it's wrong response.", "label": "general negate"}
+{"sentence": "wait, you've understood me not right.", "label": "general negate"}
+{"sentence": "i think incorrect.", "label": "general negate"}
+{"sentence": "it seems like the answer was not correct.", "label": "general negate"}
+{"sentence": "nope, i think you did this all in wrong manner.", "label": "general negate"}
+{"sentence": "oops, you're wrong.", "label": "general negate"}
+{"sentence": "sorry but it is incorrect.", "label": "general negate"}
+{"sentence": "please modify the wrong command.", "label": "general negate"}
+{"sentence": "you've got me incorrectly.", "label": "general negate"}
+{"sentence": "olly's command is incorrect.", "label": "general negate"}
+{"sentence": "uhh no, i think not right response.", "label": "general negate"}
+{"sentence": "the command was wrong.", "label": "general negate"}
+{"sentence": "i am sorry but i think it is not the right command.", "label": "general negate"}
+{"sentence": "what is your prescription for long and healthy life", "label": "general quirky"}
+{"sentence": "what are the details on umf", "label": "general quirky"}
+{"sentence": "explain quantum physics to me in language i understand", "label": "general quirky"}
+{"sentence": "journal entry for today", "label": "general quirky"}
+{"sentence": "are you happy today", "label": "general quirky"}
+{"sentence": "do i need my tire pressure checked", "label": "general quirky"}
+{"sentence": "can you tell me a little about yourself", "label": "general quirky"}
+{"sentence": "amazon deals", "label": "general quirky"}
+{"sentence": "hey whatsapp", "label": "general quirky"}
+{"sentence": "i took my truck to the shop", "label": "general quirky"}
+{"sentence": "check the status of my power usage", "label": "general quirky"}
+{"sentence": "see you", "label": "general quirky"}
+{"sentence": "has it been a busy day", "label": "general quirky"}
+{"sentence": "what's next", "label": "general quirky"}
+{"sentence": "recent advice concerning google seo", "label": "general quirky"}
+{"sentence": "please tell me who is going to win the nba championship", "label": "general quirky"}
+{"sentence": "find recent events of the celebrity", "label": "general quirky"}
+{"sentence": "horoscope", "label": "general quirky"}
+{"sentence": "today i had a record breaking sale", "label": "general quirky"}
+{"sentence": "speak again please.", "label": "general repeat"}
+{"sentence": "tell me one more time again please.", "label": "general repeat"}
+{"sentence": "i'd like to hear that sentence spoke again.", "label": "general repeat"}
+{"sentence": "will you say what you have just said once more please.", "label": "general repeat"}
+{"sentence": "could you say the sentence spoken once again please.", "label": "general repeat"}
+{"sentence": "what is that one more time.", "label": "general repeat"}
+{"sentence": "please let's try it one more time again.", "label": "general repeat"}
+{"sentence": "could you speak one more again please.", "label": "general repeat"}
+{"sentence": "retry it please.", "label": "general repeat"}
+{"sentence": "let's try what you have said again.", "label": "general repeat"}
+{"sentence": "please will you try again.", "label": "general repeat"}
+{"sentence": "please will you reset.", "label": "general repeat"}
+{"sentence": "i would like to hear your last the procedure said again.", "label": "general repeat"}
+{"sentence": "please try what you've just said again.", "label": "general repeat"}
+{"sentence": "can you say what you have said one more again.", "label": "general repeat"}
+{"sentence": "retry the instruction spoke please.", "label": "general repeat"}
+{"sentence": "will you retry please.", "label": "general repeat"}
+{"sentence": "could you speak it one more again please.", "label": "general repeat"}
+{"sentence": "try it one more time please.", "label": "general repeat"}
+{"sentence": "that song was awesome can you repeat", "label": "music likeness"}
+{"sentence": "save the opinion that i just posted to this song", "label": "music likeness"}
+{"sentence": "this is a nice song", "label": "music likeness"}
+{"sentence": "save this song as a favorite", "label": "music likeness"}
+{"sentence": "save this songs genre for me", "label": "music likeness"}
+{"sentence": "add this song to my catalogue", "label": "music likeness"}
+{"sentence": "remember this music", "label": "music likeness"}
+{"sentence": "this is one of the best songs for me", "label": "music likeness"}
+{"sentence": "save my song preferences on playlist", "label": "music likeness"}
+{"sentence": "compile favorites list according to my song feedback", "label": "music likeness"}
+{"sentence": "its peaceful", "label": "music likeness"}
+{"sentence": "i enjoy music", "label": "music likeness"}
+{"sentence": "i like top twenty music", "label": "music likeness"}
+{"sentence": "i really ska music", "label": "music likeness"}
+{"sentence": "this song is amazing is not it", "label": "music likeness"}
+{"sentence": "save this song as my favorite", "label": "music likeness"}
+{"sentence": "this is a five star song", "label": "music likeness"}
+{"sentence": "yes i like to save opinion on song playing and which player support that song", "label": "music likeness"}
+{"sentence": "start my bible study book again", "label": "play audiobook"}
+{"sentence": "play audio", "label": "play audiobook"}
+{"sentence": "play album audiobook", "label": "play audiobook"}
+{"sentence": "open audible and continue playing the book that i was listening to", "label": "play audiobook"}
+{"sentence": "continue playing where I left off", "label": "play audiobook"}
+{"sentence": "start chapter seven of alma", "label": "play audiobook"}
+{"sentence": "continue from where we left off in divergent", "label": "play audiobook"}
+{"sentence": "please continue reading the hunger games", "label": "play audiobook"}
+{"sentence": "play seven habits of effective people", "label": "play audiobook"}
+{"sentence": "play my bookmarked audiobook", "label": "play audiobook"}
+{"sentence": "play audiobook", "label": "play audiobook"}
+{"sentence": "continue with my audiobook please", "label": "play audiobook"}
+{"sentence": "play it after five minutes", "label": "play audiobook"}
+{"sentence": "start audiobook again", "label": "play audiobook"}
+{"sentence": "resume harry potter from the place i have stopped listening to last time", "label": "play audiobook"}
+{"sentence": "please pause this audio book now", "label": "play audiobook"}
+{"sentence": "put on the god of small things", "label": "play audiobook"}
+{"sentence": "continue playing my book of vitamins", "label": "play audiobook"}
+{"sentence": "list me the audiobooks i have already listened to", "label": "play audiobook"}
+{"sentence": "list local ongoing exhibitions", "label": "recommendation events"}
+{"sentence": "local show", "label": "recommendation events"}
+{"sentence": "what movie can i watch tonight on the theater here in boston", "label": "recommendation events"}
+{"sentence": "list events nearby new york", "label": "recommendation events"}
+{"sentence": "what is going on in me area today", "label": "recommendation events"}
+{"sentence": "please show me a list of entertainment options in my area", "label": "recommendation events"}
+{"sentence": "what happens on the fourth of july", "label": "recommendation events"}
+{"sentence": "what is worth doing around here", "label": "recommendation events"}
+{"sentence": "things to do in my area", "label": "recommendation events"}
+{"sentence": "what bands are playing in town this weekend", "label": "recommendation events"}
+{"sentence": "where is the event venue", "label": "recommendation events"}
+{"sentence": "what events are going on around my place", "label": "recommendation events"}
+{"sentence": "what kind of free activities can i do locally this week", "label": "recommendation events"}
+{"sentence": "list events in ny", "label": "recommendation events"}
+{"sentence": "what is going on around me", "label": "recommendation events"}
+{"sentence": "what plays are showing at the theatre", "label": "recommendation events"}
+{"sentence": "what should i do this weekend", "label": "recommendation events"}
+{"sentence": "tell me all local events", "label": "recommendation events"}
+{"sentence": "any activity in the area", "label": "recommendation events"}
+{"sentence": "can you recommend some movies to watch in theater near me", "label": "recommendation movies"}
+{"sentence": "what movies are playing this week", "label": "recommendation movies"}
+{"sentence": "what is the latest action movie running in theaters", "label": "recommendation movies"}
+{"sentence": "tell me the movie with best imdb ratings going on in theatres near me", "label": "recommendation movies"}
+{"sentence": "movies with good rotten tomato ratings", "label": "recommendation movies"}
+{"sentence": "what are the current movies playing in me area", "label": "recommendation movies"}
+{"sentence": "should i watch this movie", "label": "recommendation movies"}
+{"sentence": "what's playing at brea plaza five", "label": "recommendation movies"}
+{"sentence": "kung fu panda three", "label": "recommendation movies"}
+{"sentence": "when is trolls playing", "label": "recommendation movies"}
+{"sentence": "i want to order chinese takeout", "label": "takeaway order"}
+{"sentence": "get me takeaway food", "label": "takeaway order"}
+{"sentence": "order spaghetti from spaghetti warehouse to bring home", "label": "takeaway order"}
+{"sentence": "macdonald shops", "label": "takeaway order"}
+{"sentence": "place an order for a combo platter from china buffet", "label": "takeaway order"}
+{"sentence": "can i order takeaway from spanish place", "label": "takeaway order"}
+{"sentence": "confirm the order and send me the confirmation", "label": "takeaway order"}
+{"sentence": "order me a large ham and olive pizza from dominos", "label": "takeaway order"}
+{"sentence": "please order my favorite dish from my favorite restaurant", "label": "takeaway order"}
+{"sentence": "i want to order a pizza from michael's pizza", "label": "takeaway order"}
+{"sentence": "i want to eat two pita gyros please and some diet coke", "label": "takeaway order"}
+{"sentence": "what are the offers in uber eats", "label": "takeaway order"}
+{"sentence": "hi i want to order fried chick with white sauce", "label": "takeaway order"}
+{"sentence": "order pizza from domino's", "label": "takeaway order"}
+{"sentence": "hey order a side of hot wings with my previous order", "label": "takeaway order"}
+{"sentence": "put an order in for two pizzas from dominoes", "label": "takeaway order"}
+{"sentence": "order takeout from pizza restaurant", "label": "takeaway order"}
+{"sentence": "order chinese from china spring wonton soup and a small beef and broccoli", "label": "takeaway order"}
+{"sentence": "near pizza shops", "label": "takeaway order"}
+{"sentence": "does it offer pick up", "label": "takeaway query"}
+{"sentence": "does peking garden deliver", "label": "takeaway query"}
+{"sentence": "what is the status of last take away order", "label": "takeaway query"}
+{"sentence": "can i get delivery from dominos", "label": "takeaway query"}
+{"sentence": "when is my food going to be here", "label": "takeaway query"}
+{"sentence": "i want some curry to go any recommendations", "label": "takeaway query"}
+{"sentence": "does the restaurant have delivery", "label": "takeaway query"}
+{"sentence": "will the pizza be here soon", "label": "takeaway query"}
+{"sentence": "is fongs dine in only", "label": "takeaway query"}
+{"sentence": "does panda garden deliver", "label": "takeaway query"}
+{"sentence": "does the restaurant have carryout", "label": "takeaway query"}
+{"sentence": "whats with my dinner order", "label": "takeaway query"}
+{"sentence": "status for the pizza delivery from pizza hut", "label": "takeaway query"}
+{"sentence": "do they have takeout", "label": "takeaway query"}
+{"sentence": "please could you tell me if george's geek restaurant can i order takeaway from there", "label": "takeaway query"}
+{"sentence": "where can i order takeout", "label": "takeaway query"}
+{"sentence": "does shibaru sushi deliver", "label": "takeaway query"}
+{"sentence": "does pizza hut have delivery", "label": "takeaway query"}
+{"sentence": "does chinese deliver", "label": "takeaway query"}
+{"sentence": "call golden taxi to pick me up at seven pm today", "label": "transport taxi"}
+{"sentence": "find me a ride to the mall of america please", "label": "transport taxi"}
+{"sentence": "i need a cab in thirty minutes", "label": "transport taxi"}
+{"sentence": "i need a taxi in thirty minutes", "label": "transport taxi"}
+{"sentence": "could you please book me a taxi going to location", "label": "transport taxi"}
+{"sentence": "book an uber to pick me up now", "label": "transport taxi"}
+{"sentence": "please book me a taxi uber", "label": "transport taxi"}
+{"sentence": "book me a ride", "label": "transport taxi"}
+{"sentence": "what is the number of the closest taxi company", "label": "transport taxi"}
+{"sentence": "call rta and book a taxi for three o'clock in the morning", "label": "transport taxi"}
+{"sentence": "book a taxi to go to the movies at one", "label": "transport taxi"}
+{"sentence": "need a taxi tomorrow at eight in the morning", "label": "transport taxi"}
+{"sentence": "book a cab to office for me", "label": "transport taxi"}
+{"sentence": "could you please hire me a taxi to go to the opera tonight", "label": "transport taxi"}
+{"sentence": "open uber", "label": "transport taxi"}
+{"sentence": "book an uber for me", "label": "transport taxi"}
+{"sentence": "book an outstation cab of ola", "label": "transport taxi"}
+{"sentence": "call me a cab to the train station", "label": "transport taxi"}

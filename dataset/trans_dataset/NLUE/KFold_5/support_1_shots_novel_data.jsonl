@@ -1,0 +1,16 @@
+{"sentence": "list all of my alarms", "label": "alarm query"}
+{"sentence": "change my alarm", "label": "alarm remove"}
+{"sentence": "mute the living room speakers", "label": "audio volume mute"}
+{"sentence": "can you tell me the time in new york", "label": "datetime query"}
+{"sentence": "please will you clarify me more on it.", "label": "general explain"}
+{"sentence": "have you heard any good jokes lately", "label": "general joke"}
+{"sentence": "sorry but you have messed up the command.", "label": "general negate"}
+{"sentence": "how do you like being my assistant", "label": "general quirky"}
+{"sentence": "will you retry please.", "label": "general repeat"}
+{"sentence": "save this songs genre for me", "label": "music likeness"}
+{"sentence": "stop play", "label": "play audiobook"}
+{"sentence": "find the events", "label": "recommendation events"}
+{"sentence": "what is a good movie to see right now", "label": "recommendation movies"}
+{"sentence": "hi i want to order fried chick with white sauce", "label": "takeaway order"}
+{"sentence": "is mr pizza on skip the dishes", "label": "takeaway query"}
+{"sentence": "book me a taxi", "label": "transport taxi"}

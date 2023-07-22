@@ -1,0 +1,16 @@
+{"sentence": "how many alarms have i set", "label": "alarm query"}
+{"sentence": "cancel alarm for tenth of march two thousand seventeen", "label": "alarm remove"}
+{"sentence": "do not make any noise until morning alarm", "label": "audio volume mute"}
+{"sentence": "what day of the week does the fifteenth of march fall on", "label": "datetime query"}
+{"sentence": "rephrase me about what you've said further please.", "label": "general explain"}
+{"sentence": "what is a good joke", "label": "general joke"}
+{"sentence": "please check the command.", "label": "general negate"}
+{"sentence": "what would be the a perfectly nutritionally balanced meal for dinner", "label": "general quirky"}
+{"sentence": "please tell me it once again.", "label": "general repeat"}
+{"sentence": "Olly save all the songs i have listened to more than once", "label": "music likeness"}
+{"sentence": "play animal farm", "label": "play audiobook"}
+{"sentence": "what plays are showing at the theatre", "label": "recommendation events"}
+{"sentence": "suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like", "label": "recommendation movies"}
+{"sentence": "checkout top restaurant near me and order shahi panner", "label": "takeaway order"}
+{"sentence": "will they deliver to me", "label": "takeaway query"}
+{"sentence": "just book for me a lyft taxi to bardonia", "label": "transport taxi"}

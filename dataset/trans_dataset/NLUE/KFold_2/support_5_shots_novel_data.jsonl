@@ -1,0 +1,80 @@
+{"sentence": "my alarms", "label": "alarm query"}
+{"sentence": "what alarms do i have set", "label": "alarm query"}
+{"sentence": "tell me what alarms are set for me", "label": "alarm query"}
+{"sentence": "what are my alarms", "label": "alarm query"}
+{"sentence": "are there any alarms going off today", "label": "alarm query"}
+{"sentence": "turn off the six am alarm for Wednesday", "label": "alarm remove"}
+{"sentence": "please remove this alarm", "label": "alarm remove"}
+{"sentence": "remove seven am alarm", "label": "alarm remove"}
+{"sentence": "will you turn the alarm off for me", "label": "alarm remove"}
+{"sentence": "snooze all today's alarms permanently", "label": "alarm remove"}
+{"sentence": "mute for the next hour please", "label": "audio volume mute"}
+{"sentence": "don't speak for a while", "label": "audio volume mute"}
+{"sentence": "silence for two hours", "label": "audio volume mute"}
+{"sentence": "set to silent for five minutes", "label": "audio volume mute"}
+{"sentence": "i want to mute the speaker", "label": "audio volume mute"}
+{"sentence": "can you tell me the time at san francisco", "label": "datetime query"}
+{"sentence": "what is the date for next tuesday", "label": "datetime query"}
+{"sentence": "is today march sixth", "label": "datetime query"}
+{"sentence": "what is the time in ajmer", "label": "datetime query"}
+{"sentence": "what is the current day month and year", "label": "datetime query"}
+{"sentence": "what did you mean by saying it.", "label": "general explain"}
+{"sentence": "s1, rephrase me further on it please.", "label": "general explain"}
+{"sentence": "what do you mean.", "label": "general explain"}
+{"sentence": "could not understand it.", "label": "general explain"}
+{"sentence": "i could not quite catch up with you.", "label": "general explain"}
+{"sentence": "whats a silly joke you know", "label": "general joke"}
+{"sentence": "what is a funny joke", "label": "general joke"}
+{"sentence": "tell me random joke", "label": "general joke"}
+{"sentence": "let me hear a joke", "label": "general joke"}
+{"sentence": "i would like to hear some good funny jokes", "label": "general joke"}
+{"sentence": "uh no, i think you have done task in wrong manner.", "label": "general negate"}
+{"sentence": "no, i think that's not the right response.", "label": "general negate"}
+{"sentence": "hmm, i did not ask for this response.", "label": "general negate"}
+{"sentence": "nope, i didn't say this.", "label": "general negate"}
+{"sentence": "hmm, i think not correct.", "label": "general negate"}
+{"sentence": "the meaning of life", "label": "general quirky"}
+{"sentence": "journal entry for today", "label": "general quirky"}
+{"sentence": "plants", "label": "general quirky"}
+{"sentence": "give me some health tips", "label": "general quirky"}
+{"sentence": "your birth date", "label": "general quirky"}
+{"sentence": "i would like to hear what said again.", "label": "general repeat"}
+{"sentence": "let's try what you have said again.", "label": "general repeat"}
+{"sentence": "can you retry please.", "label": "general repeat"}
+{"sentence": "tell me it one more time again please.", "label": "general repeat"}
+{"sentence": "would you repeat the last please.", "label": "general repeat"}
+{"sentence": "save my opinion about the current song playing", "label": "music likeness"}
+{"sentence": "please rate current song as five stars", "label": "music likeness"}
+{"sentence": "rate this song five stars and save the rating", "label": "music likeness"}
+{"sentence": "i'm into music", "label": "music likeness"}
+{"sentence": "this song is amazing is not it", "label": "music likeness"}
+{"sentence": "continue playing where I left off", "label": "play audiobook"}
+{"sentence": "resume play of american gods", "label": "play audiobook"}
+{"sentence": "read to me", "label": "play audiobook"}
+{"sentence": "book swan play", "label": "play audiobook"}
+{"sentence": "play the program where i left off yesterday", "label": "play audiobook"}
+{"sentence": "any specific event in washington", "label": "recommendation events"}
+{"sentence": "what do they have going on at young circle this week", "label": "recommendation events"}
+{"sentence": "what do they have going on for festivals downtown", "label": "recommendation events"}
+{"sentence": "what is going on around me", "label": "recommendation events"}
+{"sentence": "when is the yearly cultural event coming up", "label": "recommendation events"}
+{"sentence": "recommend a romantic comedy in me area", "label": "recommendation movies"}
+{"sentence": "what's a movie in theaters that doesn't suck", "label": "recommendation movies"}
+{"sentence": "top ten movies", "label": "recommendation movies"}
+{"sentence": "how is the new movie swat", "label": "recommendation movies"}
+{"sentence": "what movie should i see", "label": "recommendation movies"}
+{"sentence": "order pizza for delivery", "label": "takeaway order"}
+{"sentence": "find me the nearest chinese for delivery", "label": "takeaway order"}
+{"sentence": "id like to put in an order for some chinese food with hunan wok", "label": "takeaway order"}
+{"sentence": "schedule a delivery from food at the nearby takeaway diner", "label": "takeaway order"}
+{"sentence": "find food and order", "label": "takeaway order"}
+{"sentence": "status for the pizza delivery from pizza hut", "label": "takeaway query"}
+{"sentence": "where can i order pizza for delivery", "label": "takeaway query"}
+{"sentence": "hello i would like to know whether you provide home delivery services", "label": "takeaway query"}
+{"sentence": "find out if the olive garden will let me do takeaway", "label": "takeaway query"}
+{"sentence": "does restaurant has home delivery", "label": "takeaway query"}
+{"sentence": "find the nearest uber", "label": "transport taxi"}
+{"sentence": "find me a taxi", "label": "transport taxi"}
+{"sentence": "book me a uber for tomorrow night at six pm", "label": "transport taxi"}
+{"sentence": "where is the closest uber", "label": "transport taxi"}
+{"sentence": "look for a taxi to go home", "label": "transport taxi"}

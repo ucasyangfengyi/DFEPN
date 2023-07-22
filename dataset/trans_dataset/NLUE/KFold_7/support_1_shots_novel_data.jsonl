@@ -1,0 +1,16 @@
+{"sentence": "what time is my alarm set for", "label": "alarm query"}
+{"sentence": "i would like this alarm permanently removed", "label": "alarm remove"}
+{"sentence": "mute the sound", "label": "audio volume mute"}
+{"sentence": "what is the month day and year", "label": "datetime query"}
+{"sentence": "do not get this.", "label": "general explain"}
+{"sentence": "i want to hear a joke", "label": "general joke"}
+{"sentence": "thanks but you didn't get me.", "label": "general negate"}
+{"sentence": "let me know when charges hit my credit card", "label": "general quirky"}
+{"sentence": "please say one more time again.", "label": "general repeat"}
+{"sentence": "i have to done it on the post important music file", "label": "music likeness"}
+{"sentence": "can you pause and rewind the audio then resume", "label": "play audiobook"}
+{"sentence": "Show latest events around new york", "label": "recommendation events"}
+{"sentence": "what are the show times for logan at the nearby theatre", "label": "recommendation movies"}
+{"sentence": "who delivers near here", "label": "takeaway order"}
+{"sentence": "does dominos has a delivery option", "label": "takeaway query"}
+{"sentence": "find an uber that can get me to the airport now", "label": "transport taxi"}

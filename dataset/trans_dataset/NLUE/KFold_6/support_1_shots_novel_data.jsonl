@@ -1,0 +1,16 @@
+{"sentence": "did i set an alarm to wake up in the morning", "label": "alarm query"}
+{"sentence": "remove my early alarms", "label": "alarm remove"}
+{"sentence": "Silence speakers", "label": "audio volume mute"}
+{"sentence": "today is which date", "label": "datetime query"}
+{"sentence": "s2, i was unclear about your answers.", "label": "general explain"}
+{"sentence": "find me the best knock knock joke on the internet", "label": "general joke"}
+{"sentence": "no, you gave me incorrect information.", "label": "general negate"}
+{"sentence": "i would like to crack jokes", "label": "general quirky"}
+{"sentence": "could you speak the last utterance said once more.", "label": "general repeat"}
+{"sentence": "put that song in my favourite list", "label": "music likeness"}
+{"sentence": "resume the playback of a child called it", "label": "play audiobook"}
+{"sentence": "get local events", "label": "recommendation events"}
+{"sentence": "what are new drama movies opening this weekend", "label": "recommendation movies"}
+{"sentence": "i am so hungry and tired and i think i might order some food now", "label": "takeaway order"}
+{"sentence": "i just ordered food call and see it has been delivered", "label": "takeaway query"}
+{"sentence": "get me an uber", "label": "transport taxi"}

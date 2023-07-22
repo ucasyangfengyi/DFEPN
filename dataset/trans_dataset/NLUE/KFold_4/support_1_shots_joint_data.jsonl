@@ -1,0 +1,64 @@
+{"sentence": "what days are my alarms set for", "label": "alarm query"}
+{"sentence": "turn off the six am alarm for Wednesday", "label": "alarm remove"}
+{"sentence": "please set an alarm at seven am tomorrow morning", "label": "alarm set"}
+{"sentence": "slow down the speaker volume", "label": "audio volume down"}
+{"sentence": "quiet", "label": "audio volume mute"}
+{"sentence": "made media volume louder", "label": "audio volume up"}
+{"sentence": "what are my plans for today", "label": "calendar query"}
+{"sentence": "delete from the calendar the next event", "label": "calendar remove"}
+{"sentence": "remind me to pick up john from the airport tonight at eight", "label": "calendar set"}
+{"sentence": "what are the ingredients in macaroni and cheese", "label": "cooking recipe"}
+{"sentence": "if it's five am in berlin what time is it here", "label": "datetime convert"}
+{"sentence": "what time in las vegas", "label": "datetime query"}
+{"sentence": "make this email a new contact", "label": "email addcontact"}
+{"sentence": "please check and tell me where is the location of toms new business", "label": "email querycontact"}
+{"sentence": "any new email since last time", "label": "email query"}
+{"sentence": "send a replay email", "label": "email sendemail"}
+{"sentence": "you've gotten your understanding correcly.", "label": "general affirm"}
+{"sentence": "olly that is enough, just stop it.", "label": "general commandstop"}
+{"sentence": "i'd like you confirm it please.", "label": "general confirm"}
+{"sentence": "don't really bother.", "label": "general dontcare"}
+{"sentence": "s2, last sentence was not clear.", "label": "general explain"}
+{"sentence": "tell funny things", "label": "general joke"}
+{"sentence": "uhh no, i think you've done this incorrectly.", "label": "general negate"}
+{"sentence": "you are awesome,.", "label": "general praise"}
+{"sentence": "hey whatsapp", "label": "general quirky"}
+{"sentence": "would you try that instruction said again please.", "label": "general repeat"}
+{"sentence": "have the vacuum cleaner clean the room", "label": "iot cleaning"}
+{"sentence": "make me coffee", "label": "iot coffee"}
+{"sentence": "i need to change my house lights colour to blue", "label": "iot hue lightchange"}
+{"sentence": "give me some dim light", "label": "iot hue lightdim"}
+{"sentence": "turn the light off", "label": "iot hue lightoff"}
+{"sentence": "hey turn on disco lights in my apartment and let the party begin", "label": "iot hue lighton"}
+{"sentence": "increase the brightness in this room", "label": "iot hue lightup"}
+{"sentence": "wemo plug socket off", "label": "iot wemo off"}
+{"sentence": "turn on my wemo socket", "label": "iot wemo on"}
+{"sentence": "create new list for baby names", "label": "lists createoradd"}
+{"sentence": "whats on my shopping list", "label": "lists query"}
+{"sentence": "delete from playlist my old english songs list", "label": "lists remove"}
+{"sentence": "save this song in my favorites", "label": "music likeness"}
+{"sentence": "can you turn down the volume please and tell me what is the title of this song", "label": "music query"}
+{"sentence": "lower battery consumption to save setting", "label": "music settings"}
+{"sentence": "what's happened in the news recently", "label": "news query"}
+{"sentence": "start dune from where i left off", "label": "play audiobook"}
+{"sentence": "start play spider", "label": "play game"}
+{"sentence": "i would like to hear heathens by twenty one pilots", "label": "play music"}
+{"sentence": "search for podcasts that cover men's issues", "label": "play podcasts"}
+{"sentence": "play my favorite radio station", "label": "play radio"}
+{"sentence": "what's the exchange rates", "label": "qa currency"}
+{"sentence": "show meaning of clarion", "label": "qa definition"}
+{"sentence": "can you really see russia from alaska", "label": "qa factoid"}
+{"sentence": "what is twenty percent of one hundred and fifty", "label": "qa maths"}
+{"sentence": "how's microsoft's stock", "label": "qa stock"}
+{"sentence": "events in me area", "label": "recommendation events"}
+{"sentence": "is there any chinese places in benton ar", "label": "recommendation locations"}
+{"sentence": "what is the biggest blockbuster this week", "label": "recommendation movies"}
+{"sentence": "tell comcast their customer service is slow", "label": "social post"}
+{"sentence": "check how many likes did i got on my most recent post", "label": "social query"}
+{"sentence": "what is the best pizza near me that delivers", "label": "takeaway order"}
+{"sentence": "where are my takeaway order", "label": "takeaway query"}
+{"sentence": "show me the train schedules to the metropolitan opera house", "label": "transport query"}
+{"sentence": "reserve the closest uber", "label": "transport taxi"}
+{"sentence": "google can you book me a ticket on the train for tomorrow", "label": "transport ticket"}
+{"sentence": "what is the current traffic situation", "label": "transport traffic"}
+{"sentence": "what will the weather be next week", "label": "weather query"}

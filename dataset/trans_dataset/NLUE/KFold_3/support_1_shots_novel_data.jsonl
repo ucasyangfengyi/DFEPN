@@ -1,0 +1,16 @@
+{"sentence": "please read me my alarms", "label": "alarm query"}
+{"sentence": "cancel all alarms", "label": "alarm remove"}
+{"sentence": "set the settings to mute", "label": "audio volume mute"}
+{"sentence": "please show me today's date", "label": "datetime query"}
+{"sentence": "s2, do not get the last sentence.", "label": "general explain"}
+{"sentence": "make me laugh i want to hear a joke", "label": "general joke"}
+{"sentence": "thanks but i think you have gotten me not correct.", "label": "general negate"}
+{"sentence": "can you watch a movie on netflix with me", "label": "general quirky"}
+{"sentence": "i want to hear what i've said again.", "label": "general repeat"}
+{"sentence": "save information about love of beyonc", "label": "music likeness"}
+{"sentence": "i want to hear the book written by the mother of the shooter at columbine", "label": "play audiobook"}
+{"sentence": "events in me area", "label": "recommendation events"}
+{"sentence": "what movie should i see", "label": "recommendation movies"}
+{"sentence": "order me some chinese food", "label": "takeaway order"}
+{"sentence": "do you serve for home delivery", "label": "takeaway query"}
+{"sentence": "i need a cab in thirty minutes", "label": "transport taxi"}

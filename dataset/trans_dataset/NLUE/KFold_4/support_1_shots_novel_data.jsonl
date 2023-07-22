@@ -1,0 +1,16 @@
+{"sentence": "what days are my alarms set for", "label": "alarm query"}
+{"sentence": "turn off the six am alarm for Wednesday", "label": "alarm remove"}
+{"sentence": "quiet", "label": "audio volume mute"}
+{"sentence": "what time in las vegas", "label": "datetime query"}
+{"sentence": "s2, last sentence was not clear.", "label": "general explain"}
+{"sentence": "tell funny things", "label": "general joke"}
+{"sentence": "uhh no, i think you've done this incorrectly.", "label": "general negate"}
+{"sentence": "hey whatsapp", "label": "general quirky"}
+{"sentence": "would you try that instruction said again please.", "label": "general repeat"}
+{"sentence": "save this song in my favorites", "label": "music likeness"}
+{"sentence": "start dune from where i left off", "label": "play audiobook"}
+{"sentence": "events in me area", "label": "recommendation events"}
+{"sentence": "what is the biggest blockbuster this week", "label": "recommendation movies"}
+{"sentence": "what is the best pizza near me that delivers", "label": "takeaway order"}
+{"sentence": "where are my takeaway order", "label": "takeaway query"}
+{"sentence": "reserve the closest uber", "label": "transport taxi"}
